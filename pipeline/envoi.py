@@ -54,8 +54,8 @@ def main():
     user = os.environ.get("FTP_USER", "").strip()
     mdp = os.environ.get("FTP_PASSWORD", "")
     if not (hote and user and mdp):
-        print("Envoi : secrets FTP_SERVER / FTP_USER / FTP_PASSWORD absents, rien n'est envoyé.")
-        return 1
+        print("Envoi : secrets FTP_SERVER / FTP_USER / FTP_PASSWORD pas encore renseignés, rien n'est envoyé.")
+        return 0   # pas une erreur : le site n'est simplement pas encore branché sur le VPS
     port = int(os.environ.get("FTP_PORT", "").strip() or 22)
     base = chemin_distant(os.environ.get("FTP_DOSSIER", "").strip() or "C:/sites/francuski")
 
