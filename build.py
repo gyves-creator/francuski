@@ -436,16 +436,16 @@ server {{
 server {{
     listen 443 ssl;
     server_name francuski.fr;
-    ssl_certificate     C:/win-acme/francuski.fr/fullchain.pem;
-    ssl_certificate_key C:/win-acme/francuski.fr/privkey.pem;
+    ssl_certificate     C:/nginx/conf/francuski.fr-chain.pem;
+    ssl_certificate_key C:/nginx/conf/francuski.fr-key.pem;
     return 301 https://www.francuski.fr$request_uri;
 }}
 
 server {{
     listen 443 ssl;
     server_name www.francuski.fr;
-    ssl_certificate     C:/win-acme/francuski.fr/fullchain.pem;
-    ssl_certificate_key C:/win-acme/francuski.fr/privkey.pem;
+    ssl_certificate     C:/nginx/conf/francuski.fr-chain.pem;
+    ssl_certificate_key C:/nginx/conf/francuski.fr-key.pem;
 
     root C:/sites/francuski;
     index index.html;
