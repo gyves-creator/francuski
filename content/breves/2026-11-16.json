@@ -22,5 +22,29 @@
       "L’inflation en Israël au plus bas, les prix de l’immobilier baissent",
       "Immobilier neuf : prix en baisse dans 8 villes sur 10, Paris -7,45 %"
     ]
+  },
+  {
+    "titre": "Budget 2027 : le gouvernement face aux choix et au PTZ",
+    "texte": "Le gouvernement doit finaliser le budget 2027, en vérifiant notamment les conditions du prêt à taux zéro avant tout achat. Les dépenses du Sud sont également à l’étude, imposant des choix budgétaires majeurs.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-16T20:04:21+00:00",
+    "titres_sources": [
+      "PTZ et Budget 2027 : les règles à vérifier avant achat",
+      "Budget 2027 : l’heure du choix pour le gouvernement",
+      "Budget 2027 : l’heure du choix pour le gouvernement",
+      "Budget 2027 : l’heure du choix pour le gouvernement"
+    ]
+  },
+  {
+    "titre": "Salariés de la Chambre d’agriculture en grève pour hausse salariale",
+    "texte": "Des salariés de la Chambre d’agriculture, de Hennebont à Ploërmel et Plérin, ont déclenché un mouvement de grève pour réclamer une revalorisation de leurs salaires et défendre leur pouvoir d’achat. La mobilisation s’étend à plusieurs sites.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-16T20:04:21+00:00",
+    "titres_sources": [
+      "Les salariées de l’antenne d’Hennebont de la Chambre d’agriculture interpellent sur le pouvoir d’achat",
+      "Des salariés de la Chambre d’agriculture mobilisés à Hennebont pour une hausse de salaires",
+      "Les salariés de la Chambre d’agriculture débrayent pour réclamer des augmentations de salaire à Ploërmel",
+      "Les salariés de la chambre d’agriculture de Plérin se mobilisent pour défendre leur pouvoir d’achat"
+    ]
   }
 ]
