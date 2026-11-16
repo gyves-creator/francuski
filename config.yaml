@@ -1,0 +1,173 @@
+# ─────────────────────────────────────────────────────────────
+#  francuski.fr — configuration (c'est le seul fichier à modifier)
+# ─────────────────────────────────────────────────────────────
+
+site:
+  nom: "Francuski"
+  slogan: "Simulateurs et actualité de votre argent"
+  domaine: "www.francuski.fr"
+  langue: "fr"
+  fuseau: "Europe/Paris"
+  mention_ia: "Article rédigé avec l'aide d'une intelligence artificielle à partir de plusieurs sources publiques, et publié sous la responsabilité de la rédaction. Les montants et taux cités sont ceux connus à la date de publication."
+  # Identifiants Google (à compléter) : laisse vide pour ne rien afficher.
+  adsense_client: ""     # du type ca-pub-XXXXXXXXXXXXXXXX
+  ga4: ""                # du type G-XXXXXXXXXX
+  # Adresses : francuski.fr garde ses adresses sans barre finale (/actualite/mon-article)
+  prefixe_articles: "/actualite/"
+
+publication:
+  articles_par_jour: 10
+  max_par_passage: 2
+  heure_debut: 6
+  heure_fin: 23
+  # Créneaux (heure de Paris → nombre d'articles), juste AVANT les pics de lecture :
+  # trajets du matin, pause déjeuner, retour du travail, soirée. Un créneau raté est rattrapé au passage suivant.
+  creneaux:
+    6: 2
+    7: 1
+    11: 2
+    12: 1
+    16: 2
+    17: 1
+    20: 1
+  fenetre_heures: 12      # l'actualité « argent » va moins vite que la politique : on regarde 12 h en arrière
+  mots_min: 250
+
+# Brèves du fil (titre + 2 phrases, sans page) : à chaque passage (toutes les 30 minutes)
+breves:
+  par_passage: 2
+  heure_debut: 6
+  heure_fin: 23
+  fenetre_heures: 6
+
+ia:
+  fournisseurs:   # essayés dans l'ordre : Groq (rapide, fiable), puis Gemini en secours
+    - nom: groq
+      url: "https://api.groq.com/openai/v1/chat/completions"
+      cle_env: GROQ_API_KEY
+      modele: "openai/gpt-oss-120b"
+    - nom: gemini
+      natif: true   # API native : les nouvelles clés « AQ. » sont refusées par la route compatible OpenAI
+      cle_env: GEMINI_API_KEY
+      modele: "gemini-3.8-flash"
+      delai: 45     # secondes max d'attente (réflexion « low »)
+
+# Photos : jamais de tableau, carte, graphique, logo, ni marque concurrente.
+photos:
+  exclure: 'logo|wordmark|brand|\bmap\b|carte|chart|graph|diagram|diagramme|tableau|painting|peinture|vanitas|museum|\bmet dp\b|flag|drapeau|coat of arms|blason|signature|screenshot|capture d|infographi|\.svg|\.gif'
+  marques_exclues: 'meilleurtaux|empruntis|cafpi|pretto|vousfinancer|\bpap\b|seloger|leboncoin|boursorama|hello ?bank|fortuneo|\bcapital\b|moneyvox|previssima|dossier familial|que choisir|60 millions|hellowork|indeed|lesfurets|lelynx|assurland|panorabanques|mes-allocs|mesallocs|legalstart|captain contrat|shine|qonto|yomoni|nalo|linxea|placement-direct|mieuxvivre|le revenu|zonebourse|abcbourse|investir'
+
+# Rubriques d'actualité (mêmes adresses que les catégories de simulateurs : /categorie/<slug>).
+# « filtre » : ne garder que les dépêches dont le titre ou le résumé correspond (expression régulière).
+# « simulateurs » : liens proposés en fin d'article (« Faites le calcul »).
+rubriques:
+  - nom: Salaire & Travail
+    slug: salaire-travail
+    quota: 2
+    priorite: 5
+    photos_defaut: ["Euro banknotes", "Office workers", "France Travail agence"]
+    filtre: 'salaire|smic|salari|emploi|chômage|chomage|france travail|licenci|rupture conventionnelle|heures sup|congés|conges|prime|intérim|interim|télétravail|teletravail|fonctionnaire|point d.indice|grève|greve|embauche|recrutement|code du travail'
+    simulateurs:
+      - {nom: "Salaire brut en net", url: "/simulateur-brut-net"}
+      - {nom: "Heures supplémentaires", url: "/calcul-heures-supplementaires"}
+      - {nom: "Indemnités de licenciement", url: "/calcul-indemnites-licenciement"}
+      - {nom: "Rupture conventionnelle", url: "/calcul-rupture-conventionnelle"}
+    flux:
+      - https://news.google.com/rss/search?q=salaire%20OR%20smic%20OR%20%22assurance%20ch%C3%B4mage%22%20OR%20salari%C3%A9s%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+      - https://www.francetvinfo.fr/economie/emploi.rss
+      - https://www.francetvinfo.fr/economie.rss
+      - https://www.lemonde.fr/economie/rss_full.xml
+  - nom: Immobilier
+    slug: immobilier
+    quota: 2
+    photos_defaut: ["Immeubles Paris", "Apartment buildings France", "Maison individuelle"]
+    filtre: 'immobili|logement|loyer|locataire|propriétaire|proprietaire|crédit immobilier|credit immobilier|taux d.emprunt|prêt à taux zéro|\bptz\b|notaire|dpe|passoire|construction|bailleur|hlm|copropriété|copropriete|achat d.un bien|primo-accédant|primo-accedant'
+    simulateurs:
+      - {nom: "Mensualités de crédit immobilier", url: "/calcul-mensualites-credit-immobilier"}
+      - {nom: "Capacité d'emprunt", url: "/simulateur-capacite-emprunt"}
+      - {nom: "Frais de notaire", url: "/calcul-frais-notaire"}
+      - {nom: "Prêt à taux zéro", url: "/simulateur-ptz"}
+    flux:
+      - https://news.google.com/rss/search?q=immobilier%20OR%20%22cr%C3%A9dit%20immobilier%22%20OR%20loyers%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+      - https://www.francetvinfo.fr/economie/immobilier.rss
+      - https://www.lefigaro.fr/rss/figaro_immobilier.xml
+  - nom: Retraite
+    slug: retraite
+    quota: 1
+    priorite: 5
+    photos_defaut: ["Retraités", "Elderly couple bench", "Caisse nationale d'assurance vieillesse"]
+    filtre: 'retraite|pension|retraité|retraite|agirc|arrco|cnav|trimestres|âge légal|age legal|minimum contributif|carrière longue|carriere longue|cumul emploi'
+    consignes: |
+      Retraites : si une réforme est en débat, présente les positions de chaque camp telles que rapportées,
+      sans prendre parti, et distingue clairement ce qui est voté, ce qui est proposé et ce qui est envisagé.
+    simulateurs:
+      - {nom: "Pension de retraite", url: "/simulateur-pension-retraite"}
+      - {nom: "Âge de départ", url: "/calcul-age-depart-retraite"}
+      - {nom: "Rachat de trimestres", url: "/calcul-rachat-trimestres"}
+    flux:
+      - https://news.google.com/rss/search?q=retraite%20OR%20retraites%20OR%20pension%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+      - https://www.francetvinfo.fr/economie/retraite.rss
+  - nom: Fiscalité
+    slug: fiscalite
+    quota: 2
+    priorite: 5
+    photos_defaut: ["Centre des finances publiques", "Ministère de l'Économie Bercy", "Euro coins"]
+    filtre: 'impôt|impot|fiscal|taxe|\btva\b|prélèvement à la source|prelevement a la source|déclaration de revenus|declaration de revenus|niche|barème|bareme|budget 2027|loi de finances|projet de loi de finances|\bplf\b|\bcsg\b|succession|donation|exonération|exoneration|bercy'
+    consignes: |
+      Fiscalité et budget : distingue toujours une mesure votée et en vigueur, une mesure adoptée par une seule
+      chambre, un amendement, et une simple proposition. N'écris jamais qu'une mesure « s'applique » si les dépêches
+      ne le confirment pas. Présente les arguments du gouvernement et de l'opposition à égalité s'ils figurent dans les dépêches.
+    simulateurs:
+      - {nom: "Impôt sur le revenu", url: "/simulateur-impot-revenu"}
+      - {nom: "Prélèvement à la source", url: "/calcul-prelevement-a-la-source"}
+      - {nom: "Taxe foncière", url: "/calcul-taxe-fonciere"}
+    flux:
+      - https://news.google.com/rss/search?q=imp%C3%B4ts%20OR%20%22imp%C3%B4t%20sur%20le%20revenu%22%20OR%20taxe%20OR%20%22budget%202027%22%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+      - https://www.francetvinfo.fr/economie/impots.rss
+      - https://www.lemonde.fr/economie/rss_full.xml
+      - https://www.lefigaro.fr/rss/figaro_economie.xml
+  - nom: Aides & Social
+    slug: aides-social
+    quota: 1
+    photos_defaut: ["Caisse d'allocations familiales", "Euro coins wallet", "Mairie France"]
+    filtre: '\bcaf\b|allocation|\bapl\b|\brsa\b|prime d.activité|prime d.activite|aide sociale|aides sociales|chèque énergie|cheque energie|minima sociaux|\baah\b|bourse|revalorisation|sécurité sociale|securite sociale|mutuelle|assurance maladie|remboursement'
+    simulateurs:
+      - {nom: "APL", url: "/simulateur-apl"}
+      - {nom: "Prime d'activité", url: "/simulateur-prime-activite"}
+      - {nom: "RSA", url: "/simulateur-rsa"}
+    flux:
+      - https://news.google.com/rss/search?q=CAF%20OR%20APL%20OR%20RSA%20OR%20%22prime%20d%27activit%C3%A9%22%20OR%20allocations%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+      - https://www.francetvinfo.fr/economie.rss
+  - nom: Entreprise
+    slug: entreprise
+    quota: 1
+    photos_defaut: ["Artisan atelier", "Commerce boutique France", "Chantier France"]
+    filtre: 'entreprise|micro-entrep|auto-entrep|indépendant|independant|artisan|commerçant|commercant|\bpme\b|\btpe\b|\burssaf\b|faillite|défaillance|defaillance|création d.entreprise|creation d.entreprise|dividende|\bsasu?\b|freelance'
+    simulateurs:
+      - {nom: "Micro-entrepreneur", url: "/simulateur-micro-entrepreneur"}
+    flux:
+      - https://news.google.com/rss/search?q=%22micro-entrepreneurs%22%20OR%20URSSAF%20OR%20ind%C3%A9pendants%20OR%20PME%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+      - https://www.lemonde.fr/economie/rss_full.xml
+      - https://www.lefigaro.fr/rss/figaro_economie.xml
+  - nom: Auto
+    slug: auto
+    quota: 1
+    photos_defaut: ["Electric car charging", "Station-service France", "Autoroute France"]
+    filtre: 'voiture|automobil|carburant|essence|gazole|diesel|prix à la pompe|électrique|electrique|bonus écologique|bonus ecologique|malus|leasing social|péage|peage|permis|contrôle technique|controle technique|assurance auto|radar|\bzfe\b'
+    simulateurs:
+      - {nom: "Malus écologique", url: "/calcul-malus-ecologique"}
+    flux:
+      - https://news.google.com/rss/search?q=carburant%20OR%20%22voiture%20%C3%A9lectrique%22%20OR%20malus%20OR%20automobilistes%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+      - https://www.francetvinfo.fr/economie/transports.rss
+  - nom: Placements
+    slug: placements
+    quota: 1
+    photos_defaut: ["Palais Brongniart", "Euro coins", "Banque de France"]
+    filtre: 'livret a|\blep\b|\bldds\b|épargne|epargne|assurance-vie|assurance vie|\bpea\b|\bper\b|\bscpi\b|bourse|\bcac 40\b|placement|taux du livret|or |\bbitcoin\b|crypto|inflation|banque centrale|\bbce\b'
+    simulateurs:
+      - {nom: "Livret A", url: "/simulateur-livret-a"}
+      - {nom: "Plan d'épargne retraite (PER)", url: "/simulateur-per"}
+    flux:
+      - https://news.google.com/rss/search?q=%22livret%20A%22%20OR%20%C3%A9pargne%20OR%20%22assurance-vie%22%20OR%20%22CAC%2040%22%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+      - https://www.lefigaro.fr/rss/figaro_placement.xml
+      - https://www.lemonde.fr/argent/rss_full.xml
