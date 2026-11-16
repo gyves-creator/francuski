@@ -52,7 +52,7 @@ def creer_dossiers(sftp, chemin, deja):
 def main():
     hote = os.environ.get("FTP_SERVER", "").strip()
     user = os.environ.get("FTP_USER", "").strip()
-    mdp = os.environ.get("FTP_PASSWORD", "")
+    mdp = os.environ.get("FTP_PASSWORD", "").strip("\r\n")   # un retour à la ligne collé par erreur dans le secret
     if not (hote and user and mdp):
         print("Envoi : secrets FTP_SERVER / FTP_USER / FTP_PASSWORD pas encore renseignés, rien n'est envoyé.")
         return 0   # pas une erreur : le site n'est simplement pas encore branché sur le VPS
@@ -60,7 +60,21 @@ def main():
     base = chemin_distant(os.environ.get("FTP_DOSSIER", "").strip() or "C:/sites/francuski")
 
     t = paramiko.Transport((hote, port))
-    t.connect(username=user, password=mdp)
+    t.start_client(timeout=30)
+    print(f"Connexion à {hote}:{port} établie, identifiant « {user} », mot de passe de {len(mdp)} caractères.")
+    try:
+        t.auth_password(user, mdp)
+    except paramiko.BadAuthenticationType as exc:
+        print(f"Le serveur refuse la méthode « mot de passe » ; méthodes acceptées : {exc.allowed_types}")
+        t.auth_interactive(user, lambda titre, instr, questions: [mdp] * len(questions))
+    except paramiko.AuthenticationException:
+        # certains serveurs Windows n'acceptent le mot de passe que par la méthode « interactive »
+        try:
+            t.auth_interactive(user, lambda titre, instr, questions: [mdp] * len(questions))
+        except Exception:
+            print("✗ Mot de passe refusé par le VPS : vérifie que le secret FTP_PASSWORD est exactement le mot de passe "
+                  "du compte francuski-envoi (et FTP_USER = francuski-envoi).")
+            raise
     sftp = paramiko.SFTPClient.from_transport(t)
     try:
         dossiers = set()
