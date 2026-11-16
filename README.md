@@ -7,7 +7,9 @@ Même système que libelille.fr, adapté à francuski.fr :
 - **les brèves** du « fil » sont ajoutées à chaque passage (toutes les 30 minutes) ;
 - **8 rubriques**, les mêmes que les simulateurs : Salaire & Travail, Immobilier, Retraite, Fiscalité, Aides & Social,
   Entreprise, Auto, Placements. Chaque article renvoie vers les simulateurs de sa rubrique (« Faites le calcul ») ;
-- **les simulateurs, les pages de calcul et les anciens articles** gardent **la même adresse** ;
+- **les 56 simulateurs, les 59 pages de calcul (salaire, APL, crédit) et les 92 anciens articles** gardent **la même adresse**.
+  Les simulateurs calculent dans le navigateur (aucun serveur). Les taux sont dans `content/rates.json` ;
+  les deux adresses en double de l'article « rachat de crédit » redirigent (301) vers la bonne ;
 - le site est **statique** (de simples fichiers), envoyé sur ton **VPS Windows** par **SFTP**, et servi par Nginx.
   Plus de Node, de PM2, de Claude payant ni de DALL-E pour francuski.
 
@@ -66,6 +68,7 @@ Nginx envoie toujours les visiteurs vers l'ancien site Node.
 2. Dans `nginx.conf`, remplace les blocs `server { … }` de **francuski.fr** (ceux qui font `proxy_pass` vers Node)
    par le contenu du fichier **`state/nginx-francuski.conf`** du dépôt (il contient aussi les redirections des anciennes adresses).
    Ne touche pas aux blocs de geek-space.
+   Garde tes propres lignes `ssl_certificate` / `ssl_certificate_key` si leurs chemins diffèrent de ceux du fichier.
 3. Vérifie puis recharge :
    ```powershell
    cd C:\nginx
@@ -116,3 +119,12 @@ Dans **Search Console** → **Sitemaps** : ajoute `https://www.francuski.fr/site
 - **Supprimer un article** : supprime son fichier dans `content/articles/`.
 - **Suivre le robot** : onglet **Actions** de GitHub.
 - **Augmenter le rythme** : passe `articles_par_jour` à 15, puis 20, et ajoute des créneaux.
+
+## Les taux des simulateurs
+Ils sont dans `content/rates.json` (SMIC, Livret A, barème de l'impôt…). Pour en changer un : modifie la valeur
+et la date `derniere_maj` directement sur GitHub (icône crayon) ; le site se met à jour tout seul.
+
+## Reprise de l'ancien site
+Script `migration/importer.py`. Les anciens articles écrits par l'IA sans sources contenaient des citations inventées
+(parfois attribuées à des personnes réelles) : ces paragraphes ont été retirés. Chaque ancien article affiche sa date
+et rappelle que montants et règles ont pu changer depuis.

@@ -1,0 +1,11 @@
+{
+ "url": "/salaire/2700-euros-brut-en-net",
+ "nom": "2700 € brut en net",
+ "h1": "2700€ brut en net : combien toucherez-vous ?",
+ "title": "2700€ brut en net 2026 : 2 112€ net | Francuski.fr",
+ "description": "2700€ brut correspond à 2 112€ net en 2026. Calculez votre salaire net avec les taux de cotisations officiels.",
+ "rubrique": "salaire-travail",
+ "genre": "calcul",
+ "html": "\n<h1>2700€ brut en net : combien toucherez-vous ?</h1>\n<div class=\"result-highlight\">\n<div class=\"result-main\">\n<span class=\"result-value\">2 112 €</span>\n<span class=\"result-label\">net mensuel estimé</span>\n</div>\n<div class=\"result-detail\">\n<p>Salaire brut : <strong>2 700 €</strong></p>\n<p>Cotisations salariales (21.78%) : <strong>-588,06 €</strong></p>\n<p>Salaire net : <strong>2 112 €</strong></p>\n</div>\n</div>\n<h2>Simulateur brut/net</h2>\n<div class=\"sim-widget\" data-slug=\"simulateur-brut-net\">\n<form onsubmit=\"calculerSimulateur(event,'simulateur-brut-net')\">\n<div class=\"form-group\"><label>Salaire brut mensuel (€)</label><input name=\"brut\" required=\"\" type=\"number\" value=\"2700\"/></div>\n<div class=\"form-group\"><label>Type de contrat</label><select name=\"contrat\"><option value=\"cdi\">CDI / CDD</option></select></div>\n<button class=\"btn btn-primary\" type=\"submit\">Recalculer</button>\n</form>\n<div class=\"sim-result hidden\" id=\"sim-result-simulateur-brut-net\"></div>\n</div>\n<div class=\"disclaimer-box\">⚠️ Estimation indicative. Consultez un professionnel pour un calcul officiel.</div>\n<div class=\"rates-info\"><small>Taux mis à jour le 2026-11-01</small></div>\n<div class=\"internal-links\">\n<h3>Montants proches</h3>\n<div class=\"tag-cloud\">\n<a href=\"/salaire/2500-euros-brut-en-net\">2500€ brut</a><a href=\"/salaire/2600-euros-brut-en-net\">2600€ brut</a><a href=\"/salaire/2800-euros-brut-en-net\">2800€ brut</a><a href=\"/salaire/2900-euros-brut-en-net\">2900€ brut</a>\n</div>\n<p><a href=\"/simulateur-brut-net\">→ Simulateur brut/net complet</a></p>\n</div>\n",
+ "head": ""
+}

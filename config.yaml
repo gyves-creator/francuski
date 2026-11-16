@@ -10,8 +10,9 @@ site:
   fuseau: "Europe/Paris"
   mention_ia: "Article rédigé avec l'aide d'une intelligence artificielle à partir de plusieurs sources publiques, et publié sous la responsabilité de la rédaction. Les montants et taux cités sont ceux connus à la date de publication."
   # Identifiants Google (à compléter) : laisse vide pour ne rien afficher.
-  adsense_client: ""     # du type ca-pub-XXXXXXXXXXXXXXXX
-  ga4: ""                # du type G-XXXXXXXXXX
+  adsense_client: "ca-pub-2944434087067586"   # repris de l'ancien site (même compte que libelille)
+  ga4: "G-Y188HR0GB0"                         # repris de l'ancien site
+  titre_accueil: "Simulateurs financiers 2026 gratuits et actualité de votre argent | Francuski.fr"
   # Adresses : francuski.fr garde ses adresses sans barre finale (/actualite/mon-article)
   prefixe_articles: "/actualite/"
 

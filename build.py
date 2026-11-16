@@ -116,7 +116,7 @@ def tete_pub():
     return s
 
 
-def page(titre, contenu, description="", canonique="/", extra_head="", rub_active="", titre_exact=None):
+def page(titre, contenu, description="", canonique="/", extra_head="", rub_active="", titre_exact=None, scripts=""):
     nav = "".join(
         f'<a href="{url_rub(r)}"{" class=actif" if r == rub_active else ""}>{e(v["nom"])}</a>' for r, v in RUBS.items())
     nav += f'<a href="/actualite"{" class=actif" if rub_active == "actualite" else ""}>Actualité</a>'
@@ -158,7 +158,7 @@ def page(titre, contenu, description="", canonique="/", extra_head="", rub_activ
   © {heure_locale(cfg).year} {e(SITE['nom'])}.fr · Photos : Wikimedia Commons (licences libres), <a href="https://pixabay.com/fr/" rel="nofollow noopener">Pixabay</a>.</p>
 </footer>
 <script>(function(){{try{{document.getElementById('date-jour').textContent=new Date().toLocaleDateString('fr-FR',{{weekday:'long',day:'numeric',month:'long',year:'numeric'}});}}catch(_){{}}}})();</script>
-</body>
+{scripts}</body>
 </html>"""
 
 
@@ -196,7 +196,7 @@ def og(titre, description, image=None, type_="article"):
 
 
 def bloc_simulateurs(slug, titre="Faites le calcul", sims=None):
-    sims = sims if sims is not None else simulateurs_de(slug)
+    sims = sims if sims is not None else (RUBS.get(slug, {}).get("simulateurs") or simulateurs_de(slug))
     if not sims:
         return ""
     items = "".join(f'<li><a href="{e(s["url"])}"><span class="ico">=</span>{e(s["nom"])}</a></li>' for s in sims[:6])
@@ -208,7 +208,8 @@ SIMULATEURS = []   # rempli dans main() : [{nom, url, rubrique, description}]
 
 def simulateurs_de(slug):
     """Simulateurs d'une catégorie : ceux de l'ancien site s'ils sont chargés, sinon ceux de config.yaml."""
-    liste = [s for s in SIMULATEURS if s.get("rubrique") == slug and s.get("principal", True)]
+    liste = sorted((s for s in SIMULATEURS if s.get("rubrique") == slug and s.get("genre") == "simulateur"),
+                   key=lambda s: s.get("ordre", 999))
     return liste or RUBS.get(slug, {}).get("simulateurs", [])
 
 
@@ -267,6 +268,11 @@ def page_accueil(actus):
         + f'</ul><a class="voir-tout" href="{url_rub(slug)}">Tous les calculs →</a></div>'
         for slug, r in RUBS.items())
     blocs = [f'<section class="bloc-rubrique simulateurs"><h2 class="titre-section">Nos simulateurs gratuits</h2><div class="grille-sim">{cats}</div></section>']
+    salaires = [s for s in SIMULATEURS if s.get("url", "").startswith("/salaire/")]
+    if salaires:
+        salaires.sort(key=lambda s: int("".join(c for c in s["url"] if c.isdigit()) or 0))
+        blocs.append('<section class="bloc-rubrique"><h2 class="titre-section">Salaire brut en net par montant</h2><div class="tag-cloud">'
+                     + "".join(f'<a href="{e(s["url"])}">{e(s["nom"].replace(" en net", ""))}</a>' for s in salaires) + "</div></section>")
     for slug, r in RUBS.items():
         liste = [a for a in actus if a["rubrique"] == slug][:4]
         if liste:
@@ -282,11 +288,16 @@ def page_categorie(slug, actus, anciens):
     contenu = f'<h1 class="titre-rubrique">{e(ancienne.get("h1") or r["nom"])}</h1>'
     if ancienne.get("intro"):
         contenu += f'<div class="intro">{ancienne["intro"]}</div>'
-    sims = [s for s in SIMULATEURS if s.get("rubrique") == slug] or r.get("simulateurs", [])
+    sims = simulateurs_de(slug)
     if sims:
         contenu += '<h2 class="titre-section">Les simulateurs</h2><div class="grille-liens">' + "".join(
             f'<a class="lien-sim" href="{e(s["url"])}"><strong>{e(s["nom"])}</strong>'
-            + (f'<span>{e(s["description"])}</span>' if s.get("description") else "") + "</a>" for s in sims) + "</div>"
+            + (f'<span>{e(s["description_courte"])}</span>' if s.get("description_courte") else "") + "</a>" for s in sims) + "</div>"
+    calculs = [s for s in SIMULATEURS if s.get("rubrique") == slug and s.get("genre") == "calcul"]
+    calculs.sort(key=lambda s: int("".join(c for c in s["url"] if c.isdigit()) or 0))
+    if calculs:
+        contenu += ('<h2 class="titre-section">Calculs tout faits</h2><div class="simulateur-nu"><div class="tag-cloud">'
+                    + "".join(f'<a href="{e(s["url"])}">{e(s["nom"])}</a>' for s in calculs) + "</div></div>")
     liste = [a for a in actus if a["rubrique"] == slug]
     if liste:
         contenu += f'<h2 class="titre-section">L\'actualité {e(r["nom"])}</h2><div class="grille grille-rubrique">{"".join(carte(a) for a in liste[:60])}</div>'
@@ -341,6 +352,14 @@ def page_article(a, actus):
     ecrire(url, page(a["titre"], contenu, a["chapeau"], url, head, rub_active=rub))
 
 
+def avertissement_ancien(p):
+    if not p.get("date"):
+        return ""
+    return (f'<aside class="avertissement">Article publié le {date_longue(p["date"], heure=False)}. Montants, taux et règles '
+            'ont pu changer depuis : vérifiez votre situation sur <a href="https://www.service-public.fr" rel="nofollow">service-public.fr</a> '
+            'ou auprès de l\'organisme concerné.</aside>')
+
+
 def page_ancienne(p, actus):
     """Ancien article /actualite/... : même adresse, même texte, nouveau design."""
     url = url_de(p)
@@ -351,7 +370,7 @@ def page_ancienne(p, actus):
     etiquette = f'<a class="etiquette r-{e(rub)}" href="{url_rub(rub)}">{e(nom_rub(rub))}</a>' if rub in RUBS else ""
     chapeau = f'<p class="chapeau">{e(p["chapeau"])}</p>' if p.get("chapeau") else ""
     contenu = f"""<article class="article">{etiquette}<header><h1>{e(p['titre'])}</h1>{chapeau}{meta}</header>
-{figure}<div class="texte">{p['corps']}</div>{bloc_simulateurs(rub) if rub in RUBS else ''}{mention() if p.get("ia") else ''}</article>{bloc_lire_aussi(p, actus)}"""
+{figure}<div class="texte">{p['corps']}</div>{avertissement_ancien(p)}{bloc_simulateurs(rub) if rub in RUBS else ''}{mention() if p.get("ia") else ''}</article>{bloc_lire_aussi(p, actus)}"""
     desc = p.get("description") or html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", p["corps"]))).strip()[:160]
     head = jsonld("Article", p["titre"], desc, url, p.get("date"), img, nom_rub(rub) if rub in RUBS else None) + og(p["titre"], desc, img)
     ecrire(url, page(p["titre"], contenu, desc, url, head, rub_active=rub, titre_exact=p.get("title")))
@@ -368,7 +387,13 @@ def page_simulateur(s):
             f'<div class="grille">{"".join(carte(a) for a in actus_rub)}</div></section>') if actus_rub else ""
     contenu = f'{ariane}<div class="simulateur">{s["html"]}</div>{lies}'
     head = s.get("head", "") + (og(s.get("h1") or s["nom"], s.get("description", ""), type_="website"))
-    ecrire(url, page(s.get("h1") or s["nom"], contenu, s.get("description", ""), url, head, rub_active=rub, titre_exact=s.get("title")))
+    ecrire(url, page(s.get("h1") or s["nom"], contenu, s.get("description", ""), url, head, rub_active=rub,
+                     titre_exact=s.get("title"), scripts=SCRIPTS_SIM))
+
+
+SCRIPTS_SIM = "".join(f'<script src="/js/simulateurs-{x}.js"></script>\n' for x in
+                      ("salaire", "immobilier", "retraite", "fiscalite", "aides", "entreprise", "auto", "placements"))
+SCRIPTS_SIM = '<script src="/js/rates.js"></script>\n' + SCRIPTS_SIM + '<script src="/sim.js"></script>\n'
 
 
 def page_statiques():
@@ -428,15 +453,22 @@ server {{
     error_page 404 /404.html;
 
     # fichiers internes (liste d'envoi du robot…) : pas d'accès
-    location ~ /\\. {{ deny all; }}
+    location ~ /\\.(?!well-known) {{ deny all; }}
 
     # adresses sans barre finale : /actualite/mon-article → actualite/mon-article/index.html
+    location = / {{
+        try_files /index.html =404;
+    }}
     location / {{
         try_files $uri $uri/index.html =404;
     }}
     # adresse avec barre finale → sans barre (une seule adresse par page)
     rewrite ^/(.+)/$ /$1 permanent;
 
+    # anciennes images (PNG très lourdes) désormais servies en JPEG
+    location ~ ^/images/uploads/(.+)\\.png$ {{ return 301 /images/uploads/$1.jpg; }}
+    location ^~ /admin {{ return 410; }}
+    location ^~ /api/ {{ return 410; }}
     location ~* \\.(?:css|js|jpg|jpeg|png|webp|svg|ico|woff2?)$ {{
         expires 7d;
         try_files $uri =404;
@@ -492,6 +524,11 @@ def main():
         shutil.copytree(RACINE / "legacy", SORTIE, dirs_exist_ok=True)
     for f in (RACINE / "static").iterdir():
         shutil.copy(f, SORTIE / f.name)
+
+    taux = lire_json(RACINE / "content" / "rates.json", None)
+    if taux:
+        (SORTIE / "js").mkdir(exist_ok=True)
+        (SORTIE / "js" / "rates.js").write_text("window.RATES = " + json.dumps(taux, ensure_ascii=False) + ";\n", encoding="utf-8")
 
     actus = tous_les_articles()
     for a in actus:

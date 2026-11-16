@@ -1,0 +1,50 @@
+{
+ "salaire-travail": {
+  "h1": "Salaire & Travail",
+  "intro": "Simulateurs de salaire, heures supplémentaires, licenciement et budget.",
+  "title": "Salaire & Travail : Simulateurs Financiers 2026 | Francuski.fr",
+  "description": "Tous les simulateurs salaire & travail gratuits 2026 : Simulateur Brut Net 2026, Simulateur Net Brut 2026, Calcul Heures Supplémentaires, Calcul Indemnités de Licenciement, Calcul Rupture Conventionnelle."
+ },
+ "immobilier": {
+  "h1": "Immobilier",
+  "intro": "Calculez frais de notaire, crédit immobilier, rendement locatif.",
+  "title": "Immobilier : Simulateurs Financiers 2026 | Francuski.fr",
+  "description": "Tous les simulateurs immobilier gratuits 2026 : Calcul Frais de Notaire 2026, Simulateur Capacité d'Emprunt, Calcul Mensualités Crédit Immobilier, Calcul Taux d'Endettement, Calcul Plus-Value Immobilière."
+ },
+ "retraite": {
+  "h1": "Retraite",
+  "intro": "Estimez votre pension, âge de départ et épargne retraite.",
+  "title": "Retraite : Simulateurs Financiers 2026 | Francuski.fr",
+  "description": "Tous les simulateurs retraite gratuits 2026 : Simulateur Pension Retraite, Calcul Âge de Départ en Retraite, Calcul Rachat de Trimestres, Simulateur Retraite Complémentaire, Simulateur PER."
+ },
+ "fiscalite": {
+  "h1": "Fiscalité",
+  "intro": "Calculez impôt sur le revenu, plus-values et successions.",
+  "title": "Fiscalité : Simulateurs Financiers 2026 | Francuski.fr",
+  "description": "Tous les simulateurs fiscalité gratuits 2026 : Simulateur Impôt sur le Revenu 2026, Calcul Prélèvement à la Source, Calcul Plus-Value Mobilière, Simulateur Dividendes, Calcul Droits de Succession."
+ },
+ "aides-social": {
+  "h1": "Aides & Social",
+  "intro": "Estimez APL, RSA, prime d'activité et allocations.",
+  "title": "Aides & Social : Simulateurs Financiers 2026 | Francuski.fr",
+  "description": "Tous les simulateurs aides & social gratuits 2026 : Simulateur APL 2026, Simulateur RSA, Simulateur Prime d'Activité, Calcul Allocation Chômage (ARE), Simulateur Allocations Familiales."
+ },
+ "entreprise": {
+  "h1": "Entreprise",
+  "intro": "SASU, EURL, micro-entrepreneur, coût salarié.",
+  "title": "Entreprise : Simulateurs Financiers 2026 | Francuski.fr",
+  "description": "Tous les simulateurs entreprise gratuits 2026 : Comparateur SASU vs EURL, Simulateur Micro-Entrepreneur, Dividendes vs Salaire, Calcul Coût d'un Salarié, Simulateur Portage Salarial."
+ },
+ "auto": {
+  "h1": "Auto",
+  "intro": "Comparez leasing vs achat, calcul carte grise et malus.",
+  "title": "Auto : Simulateurs Financiers 2026 | Francuski.fr",
+  "description": "Tous les simulateurs auto gratuits 2026 : Leasing vs Achat : Comparateur, Électrique vs Thermique, Calcul Carte Grise, Calcul Malus Écologique 2026."
+ },
+ "placements": {
+  "h1": "Placements",
+  "intro": "Livret A, intérêts composés, PEA, assurance-vie.",
+  "title": "Placements : Simulateurs Financiers 2026 | Francuski.fr",
+  "description": "Tous les simulateurs placements gratuits 2026 : Simulateur Livret A 2026, Éligibilité LEP, Calculateur Intérêts Composés, PEA vs Assurance-Vie, Simulateur DCA (Dollar Cost Averaging)."
+ }
+}
