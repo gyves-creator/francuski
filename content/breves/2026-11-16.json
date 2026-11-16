@@ -46,5 +46,25 @@
       "Les salariés de la Chambre d’agriculture débrayent pour réclamer des augmentations de salaire à Ploërmel",
       "Les salariés de la chambre d’agriculture de Plérin se mobilisent pour défendre leur pouvoir d’achat"
     ]
+  },
+  {
+    "titre": "CGT des TCL prévoit une grève des salariés de transport à Lorient",
+    "texte": "La CGT des transports en commun de Lorient annoncerait une grève de l’ensemble du personnel ce vendredi 20 novembre, suite à l’arrêt du métro du 5 novembre. Cette mobilisation viserait à faire pression sur les autorités locales.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-16T20:07:48+00:00",
+    "titres_sources": [
+      "Après l’arrêt du métro le 5 novembre, la CGT des TCL rappelle à la grève vendredi",
+      "La CGT appelle à la grève l’ensemble des salariés dans les transports en commun Izilo, ce vendredi 20 novembre 2026, à Lorient"
+    ]
+  },
+  {
+    "titre": "Ralentissement de la hausse des loyers au Pays basque et Sud Landes",
+    "texte": "Les loyers au Pays basque et dans le Sud Landes continueraient d’augmenter, mais à un rythme moins rapide qu’au cours des deux dernières années, selon les dernières observations. Cette décélération marquerait un « atterrissage » du marché locatif.",
+    "rubrique": "immobilier",
+    "publie_le": "2026-11-16T20:07:48+00:00",
+    "titres_sources": [
+      "Loyers : l'« atterrissage » se confirme au Pays basque et dans le Sud Landes, après deux années de flambée",
+      "Logement au Pays basque et dans le Sud Landes : les loyers n’ont pas cessé d’augmenter, mais ils le font moins rapidement que sur les deux dernières années"
+    ]
   }
 ]
