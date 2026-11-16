@@ -22,6 +22,10 @@ Règles absolues :
 4. Ton factuel et neutre, aucune opinion. Si une seule source rapporte l'information, emploie le conditionnel.
 5. Titre : 70 caractères maximum, informatif, sans point final.
 6. Texte : 2 phrases, 45 mots maximum au total, qui disent l'essentiel (quoi, qui, où, et ce que ça change).
+7. Si les dépêches d'un événement parlent en réalité de sujets différents, n'écris que sur le sujet commun à la
+   majorité d'entre elles et ignore les autres : ne mélange jamais deux sujets dans une brève.
+8. Si l'événement ne concerne pas la France ou le budget des Français, renvoie un titre et un texte vides pour lui.
+9. Montants, taux et dates : uniquement s'ils figurent dans les dépêches.
 
 Réponds UNIQUEMENT avec un objet JSON valide :
 {"breves": [{"id": 1, "titre": "...", "texte": "..."}, ...]}"""

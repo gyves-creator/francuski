@@ -22,6 +22,13 @@ MOTS_VIDES = set(
     selon contre deux trois quoi quel quelle quels quelles ete etait sera seront
     direct video videos info infos live""".split()
 )
+# Mots trop courants dans l'actualité « argent » : ils ne suffisent pas à dire que deux dépêches parlent du même événement
+MOTS_VIDES |= set(
+    """immobilier immobiliere prix hausse baisse budget 2025 2026 2027 2028 euros euro france francais francaise
+    francaises pouvoir achat salaire salaires salaries impot impots retraite retraites argent epargne credit
+    taux aide aides nouveau nouvelle nouvelles mesure mesures gouvernement annonce millions milliards ville villes
+    pourquoi comment voici notre votre leurs alors""".split()
+)
 
 
 def charger_config():
