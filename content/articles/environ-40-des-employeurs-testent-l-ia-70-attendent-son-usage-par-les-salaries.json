@@ -1,0 +1,39 @@
+{
+  "slug": "environ-40-des-employeurs-testent-l-ia-70-attendent-son-usage-par-les-salaries",
+  "titre": "Environ 40 % des employeurs testent l’IA, 70 % attendent son usage par les salariés",
+  "chapeau": "Une enquête de France Travail révèle que près de quatre employeurs sur dix ont déjà recours ou expérimentent l’intelligence artificielle. La plupart d’entre eux souhaitent que leurs équipes adoptent les mêmes outils, tout en restant prudents sur les risques de substitution humaine.",
+  "corps": "## Adoption de l’IA dans les entreprises\nSelon les données communiquées par France Travail, environ 40 % des employeurs déclarent utiliser ou tester l’intelligence artificielle dans leurs activités. Cette proportion indique une dynamique d’expérimentation qui se développe dans divers secteurs, même si l’usage reste encore limité à une minorité d’organisations.\n\n## Attentes vis‑à‑vis des salariés\nParmi les employeurs qui ont intégré ou expérimentent l’IA, 70 % attendent que leurs salariés emboîtent le pas. Cette attente reflète une volonté de généraliser les gains de productivité perçus, notamment en matière de rapidité d’exécution et d’automatisation de tâches récurrentes.\n\n## Perception des risques et bénéfices\nSeuls 6 % des employeurs envisagent que l’intelligence artificielle puisse concurrencer l’humain dans les cinq prochaines années. La grande majorité, soit 35 % des répondants, considère l’IA avant tout comme un outil destiné à gagner du temps. Cette vision souligne que, pour la plupart, l’IA est perçue comme un complément plutôt que comme un substitut aux compétences humaines.\n\n## Implications pour les salariés\nLes salariés concernés peuvent s’attendre à une évolution de leurs pratiques de travail, avec l’introduction d’outils d’aide à la décision, de systèmes d’automatisation ou de plateformes d’analyse de données. Il est recommandé de se renseigner auprès de son service des ressources humaines ou de consulter les dispositifs de formation professionnelle proposés par le ministère du Travail afin de vérifier les compétences attendues et les éventuelles aides au développement de compétences numériques. Les salariés peuvent également suivre les actualités de France Travail pour rester informés des évolutions du marché du travail liées à l’IA.",
+  "mots_cles": [
+    "intelligence artificielle",
+    "employeurs",
+    "salariés",
+    "adoption",
+    "travail"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-17T05:12:06+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/P%C3%B4le_emploi_%C3%A0_Petit-Bourg_en_Guadeloupe.jpg/1280px-P%C3%B4le_emploi_%C3%A0_Petit-Bourg_en_Guadeloupe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Filo gèn'",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:P%C3%B4le_emploi_%C3%A0_Petit-Bourg_en_Guadeloupe.jpg",
+    "legende": "Employment Agency in Petit-Bourg in Guadeloupe",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Pôle emploi à Petit-Bourg en Guadeloupe.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Emploi",
+      "titre": "Selon France Travail, près de 4 employeurs sur 10 utilisent ou testent l’IA, 70 % d’entre eux attendent que leurs salariés fassent de même",
+      "url": "https://www.franceinfo.fr/economie/emploi/selon-france-travail-pres-de-4-employeurs-sur-10-utilisent-ou-testent-l-ia-70-d-entre-eux-attendent-que-leurs-salaries-fassent-de-meme_8285537.html#xtor=RSS-3-%5Beconomie%2Femploi%5D"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Selon France Travail, près de 4 employeurs sur 10 utilisent ou testent l’IA, 70 % d’entre eux attendent que leurs salariés fassent de même",
+      "url": "https://www.franceinfo.fr/economie/emploi/selon-france-travail-pres-de-4-employeurs-sur-10-utilisent-ou-testent-l-ia-70-d-entre-eux-attendent-que-leurs-salaries-fassent-de-meme_8285537.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
