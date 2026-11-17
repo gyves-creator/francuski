@@ -279,5 +279,26 @@
       "Comment bien se servir de l'IA pour préparer son entretien d'embauche ?",
       "Comment bien se servir de l'IA pour préparer son entretien d'embauche ?"
     ]
+  },
+  {
+    "titre": "Patrons du CAC 40 : rémunération moyenne de 7,5 M€ en 2025",
+    "texte": "La rémunération moyenne des dirigeants du CAC 40 s’élève à 7,5 millions d’euros en 2025, soit une hausse de 16 % par rapport à l’année précédente.",
+    "rubrique": "placements",
+    "publie_le": "2026-11-17T16:09:53+00:00",
+    "titres_sources": [
+      "Les patrons du CAC 40 ont gagné en moyenne 7,5 millions d’euros l’an dernier, un quasi-record",
+      "La rémunération moyenne des patrons du CAC 40 était de 7,5 millions d’euros en 2025, une hausse de 16 %",
+      "Salaires : combien ont gagné les patrons du CAC 40 en 2025 ?"
+    ]
+  },
+  {
+    "titre": "Réforme des retraites de Marine Le Pen critiquée par le centre et la droite",
+    "texte": "Les partis du centre et de la droite qualifient la réforme des retraites proposée par Marine Le Pen de mensonge, d’arnaque et de vices cachés.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-17T16:09:53+00:00",
+    "titres_sources": [
+      "Réforme des retraites de Marine Le Pen : \"mensonge\", \"arnaque\", \"vices cachés\"... les attaques fusent au centre et à droite",
+      "«Mensonge», «arnaque» et «vices cachés» : la droite et le centre attaquent la réforme des retraites de Marine Le Pen"
+    ]
   }
 ]
