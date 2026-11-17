@@ -71,5 +71,26 @@
       "Un nouveau projet immobilier prévu à Landerneau : le manoir d’un ancien maire voué à disparaître",
       "Un nouveau projet immobilier prévu à Landerneau : le manoir d’un ancien maire voué à disparaître"
     ]
+  },
+  {
+    "titre": "Réforme des retraites proposée par Marine Le Pen pour 2027",
+    "texte": "Marine Le Pen envisage de présenter une réforme des retraites qui permettrait un départ à 60 ans tout en économisant 15 à 20 milliards d’euros par an. Le projet comporte aussi des ajustements pour les familles, sans détail sur les modalités.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-17T08:04:24+00:00",
+    "titres_sources": [
+      "\"Travailler plus pour partir plus tôt\" : la réforme des retraites de Marine Le Pen, entre promesses de 60 ans et sacrifices pour les familles",
+      "Marine Le Pen : pas de retraite sur ses promesses",
+      "Économiser 15 à 20 milliards d'euros par an tout en permettant à certains de partir dès 60 ans: Marine Le Pen va dévoiler son épineuse réforme des retraites pour 2027"
+    ]
+  },
+  {
+    "titre": "Le gouvernement revoit la majoration des retraites pour trois enfants",
+    "texte": "Le gouvernement a modifié à la dernière minute son projet de majoration des pensions pour les assurés ayant au moins trois enfants. La révision, adoptée au Sénat, vise à répondre aux critiques sans préciser les nouvelles conditions.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-17T08:04:24+00:00",
+    "titres_sources": [
+      "Majoration des retraites à partir de trois enfants : face à la bronca, le gouvernement modifie son projet",
+      "Majoration des retraites à partir de trois enfants : le gouvernement revoit sa copie à la dernière minute au Sénat"
+    ]
   }
 ]
