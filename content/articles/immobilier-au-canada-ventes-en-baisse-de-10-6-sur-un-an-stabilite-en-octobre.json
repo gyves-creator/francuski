@@ -1,0 +1,39 @@
+{
+  "slug": "immobilier-au-canada-ventes-en-baisse-de-10-6-sur-un-an-stabilite-en-octobre",
+  "titre": "Immobilier au Canada : ventes en baisse de 10,6 % sur un an, stabilité en octobre",
+  "chapeau": "Les ventes de biens immobiliers au Canada ont reculé de 10,6 % sur un an, selon les données publiées le 17 novembre 2026. En revanche, le même jour, les indicateurs d’octobre montrent que les ventes et les prix restent stables.",
+  "corps": "## Baisse annuelle des transactions\nLes statistiques communiquées le 17 novembre 2026 indiquent une diminution de 10,6 % des ventes immobilières au Canada sur une période de douze mois. Cette évolution reflète un ralentissement du marché par rapport à l’année précédente, sans précision supplémentaire sur les régions concernées ou les types de biens.\n\n## Octobre 2026 : un point d’équilibre\nDans un autre communiqué publié le même jour, il est précisé que, pour le mois d’octobre, les ventes ainsi que les prix des logements se sont maintenus. Aucun chiffre exact n’est fourni, mais l’information suggère que le marché n’a pas poursuivi la tendance à la baisse observée sur l’ensemble de l’année.\n\n## Interpréter les deux indicateurs\nLe contraste entre la baisse annuelle et la stabilité du mois d’octobre peut indiquer une phase de redressement ou simplement une pause dans la dynamique descendante. Les analystes du secteur immobilier soulignent généralement que les variations mensuelles peuvent être influencées par des facteurs saisonniers, des politiques de taux d’intérêt ou des ajustements de l’offre. Aucun de ces éléments n’est détaillé dans les informations disponibles.\n\n## Conséquences pour les acquéreurs et les investisseurs\nPour les personnes envisageant d’acheter ou d’investir dans l’immobilier canadien, ces données suggèrent que le marché a connu un recul notable sur l’année, mais que les conditions d’octobre n’ont pas aggravé la situation. Il est recommandé de consulter les sites officiels tels que le registre foncier provincial ou les portails gouvernementaux canadiens pour obtenir les chiffres les plus récents et vérifier l’évolution des prix dans les zones géographiques ciblées.\n\nEn résumé, le Canada enregistre une baisse de 10,6 % des ventes sur douze mois, tandis que le mois d’octobre montre une stabilité des transactions et des prix. Cette dualité invite à suivre de près les prochains bulletins afin de discerner si la tendance se stabilise ou reprend une trajectoire à la hausse.",
+  "mots_cles": [
+    "immobilier",
+    "Canada",
+    "ventes",
+    "prix",
+    "marché"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-17T15:05:30+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ch%C3%A2teau_Frontenac_in_Quebec_city%2C_Canada_colorfull.jpg/1280px-Ch%C3%A2teau_Frontenac_in_Quebec_city%2C_Canada_colorfull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wilfredor",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_in_Quebec_city,_Canada_colorfull.jpg",
+    "legende": "The Fairmont Le Château Frontenac, formerly and commonly referred to as the Château Frontenac, is a historic hotel located in Quebec City, Quebec, Canada. The Château Frontenac was completed in 1893, ",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Château Frontenac in Quebec city, Canada colorfull.jpg"
+  },
+  "sources": [
+    {
+      "media": "Les Affaires",
+      "titre": "Immobilier: les ventes reculent de 10,6% sur un an au Canada",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1RDQ3dtbmFpZWMxMERZSENVQ0pIbDh3TVZQVFVTVFlXWUJ6OXl4ZzI3d25TZW80ZmZtM3hPYVgxOUp2N1BKSnNxcXZpMHA3dEtpU3liVDlsUUpqdjAtYm5fSl9RUEpWZWFWcnVTemhhWXVHTWZZTl9XYUxCY2d1VE9sUlEwRE1NWGNsWEZuZDBSUHk3WlZ1dXJzRzByVERoal9meGVRUzVvT0xmT3JR?oc=5"
+    },
+    {
+      "media": "Radio-Canada",
+      "titre": "Immobilier : les ventes et les prix se maintiennent au Canada en octobre",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVo5enVCWE1mSFlES05nR3RkdjkycUJUakN3RGZFTXZMTlJrMTg2Zk9vbEtqVGZKUlI4aDF4RHFtNWRrNmFwaE1aSG1xQXZDODlTbzNXR1BlWS02Z2VvZ2RhN1VBVUlOa3dlZFhrZnptNElmMkRiNnRJUkp5RVN1SVJBb2dsM181Qnc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
