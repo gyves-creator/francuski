@@ -20,5 +20,26 @@
       "Livret d'épargne à 3,5 % : avec un tel rendement, on comprend pourquoi des milliers de Français ferment leur Livret A pour ce placement",
       "Des milliers de Français remplacent leur Livret A par cette épargne Revolut : vu les avantages, on comprend pourquoi"
     ]
+  },
+  {
+    "titre": "SMIC : hausse de 1,6 % prévue le 1er décembre",
+    "texte": "Le SMIC devrait augmenter de 1,6 % le 1er décembre. Cette hausse vise à soutenir le pouvoir d’achat des salariés et l’économie locale.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-17T06:13:32+00:00",
+    "titres_sources": [
+      "Hausse du smic au 1er décembre : les salariés contraints de se raccrocher aux branches",
+      "Le Smic devrait augmenter de 1,6 % au 1er décembre",
+      "Augmenter le Smic : c'est aussi soutenir l'économie locale"
+    ]
+  },
+  {
+    "titre": "77 % des Français favorables à un complément de retraite",
+    "texte": "Un sondage indique que 77 % des Français soutiennent la mise en place d’un complément de retraite par capitalisation. Le résultat reflète un fort appui au principe d’un tel dispositif.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-17T06:13:32+00:00",
+    "titres_sources": [
+      "Retraites : 77% des Français favorables à la création d'un complément par capitalisation, selon un sondage",
+      "EXCLU RMC. Près de huit Français sur dix favorables au principe d'un complément de retraite par capitalisation"
+    ]
   }
 ]

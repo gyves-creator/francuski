@@ -1,0 +1,33 @@
+{
+  "slug": "reconduction-de-la-taxe-exceptionnelle-sur-les-complementaires-sante",
+  "titre": "Reconduction de la taxe exceptionnelle sur les complémentaires santé",
+  "chapeau": "Le gouvernement a annoncé la reconduction de la taxe exceptionnelle appliquée aux complémentaires santé. Cette décision prolonge une mesure déjà en vigueur et concerne les assurés ainsi que les acteurs du secteur.",
+  "corps": "## Contexte de la mesure\nLa taxe exceptionnelle sur les complémentaires santé a été introduite afin de financer le système de santé public. Elle s’applique aux contrats de mutuelle et aux organismes qui les proposent. Après plusieurs mois d’application, le pouvoir exécutif a décidé de prolonger cette contribution fiscale pour une nouvelle période. La décision a été communiquée par le ministère chargé des finances, sans précision supplémentaire sur le taux ou la durée de la reconduction.\n\n## Qui est concerné ?\nCette taxe touche les assurés souscrivant à une complémentaire santé ainsi que les assureurs qui commercialisent ces produits. Les ménages dont le budget inclut une cotisation à une mutuelle devront donc prendre en compte le maintien de cette charge fiscale dans leurs dépenses courantes. Les entreprises qui offrent une couverture santé à leurs salariés sont également concernées, car la taxe s’applique à la partie complémentaire du contrat. Les personnes souhaitant vérifier leur situation peuvent consulter le site officiel du service public ou se rapprocher de leur organisme assureur.\n\n## Modalités de vérification\nPour connaître l’impact de la reconduction sur leur budget, les assurés sont invités à consulter les informations publiées sur le portail officiel du ministère de l’Économie, des Finances et de la Relance. Les bulletins officiels, les simulateurs en ligne et les contacts avec les services fiscaux permettent d’obtenir des précisions sur le calcul de la taxe et les éventuelles exonérations. En cas de doute, il est recommandé de se rendre sur le site service-public.fr ou de contacter directement son assureur pour obtenir le détail des prélèvements.\n\n## Débats et positions\nLe maintien de la taxe suscite des réactions contrastées. Le gouvernement justifie la reconduction comme un moyen de soutenir le financement du système de santé, en rappelant que les contributions complémentaires sont une source de ressources additionnelles. Certains syndicats de salariés et organisations de consommateurs expriment des réserves, estimant que la charge supplémentaire pèse sur le pouvoir d’achat des ménages déjà confrontés à la hausse du coût de la vie. De leur côté, les représentants du secteur de l’assurance soulignent l’importance de la contribution pour garantir la pérennité des prestations de santé. Aucun amendement ou modification du taux n’a été annoncé dans le cadre de cette reconduction.\n\nEn l’absence de nouveaux paramètres chiffrés, les assurés devront attendre la publication officielle des modalités détaillées pour ajuster leur budget en conséquence.",
+  "mots_cles": [
+    "taxe santé",
+    "complémentaire santé",
+    "budget",
+    "fiscalité"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-17T06:13:23+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie%2C_des_Finances_et_de_la_Relance_01.jpg/1280px-B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie%2C_des_Finances_et_de_la_Relance_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "SailEOuiAla",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie,_des_Finances_et_de_la_Relance_01.jpg",
+    "legende": "Bâtiment \"Colbert\" du ministère de l'Économie, des Finances et de la Relance",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Bâtiment \"Colbert\" du ministère de l'Économie, des Finances et de la Relance 01.jpg"
+  },
+  "sources": [
+    {
+      "media": "Force Ouvrière",
+      "titre": "Reconduction de la taxe exceptionnelle sur les complémentaires santé",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGgweU5FZlB2NnloVUgtMWtJS1VRazNyMHlPWTVKNkxyb2RCVGx2MzBibUpsdk5ya1VZd09GdmtiSkZsdUpjLXZWaXlocjM0VUFWQmZUNkRILU9IZ0lJRHozcURDZGdMMV9jWGNiVWt4aXMxU050QTlzME52QjJSOEl0RlM5Zm9sV0RxYWlzSGdqdXY3c2Rr?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}
