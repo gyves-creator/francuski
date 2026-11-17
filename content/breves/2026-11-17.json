@@ -152,5 +152,27 @@
       "VRAI OU FAUX. Les fonctionnaires ont-ils vraiment perdu 15% de pouvoir d’achat depuis 2017, comme l'affirme Clémentine Autain ?",
       "VRAI OU FAUX. Les fonctionnaires ont-ils vraiment perdu 15% de pouvoir d’achat depuis 2017, comme l'affirme Clémentine Autain ?"
     ]
+  },
+  {
+    "titre": "Marine Le Pen propose un pilier de capitalisation pour les retraites",
+    "texte": "La candidate du Rassemblement National, Marine Le Pen, annonce qu’elle souhaite ajouter un pilier de capitalisation en complément du système de retraite par répartition actuel. Cette mesure serait présentée lors de la campagne présidentielle de 2027.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-17T10:46:06+00:00",
+    "titres_sources": [
+      "Marine Le Pen, candidate RN à l’élection présidentielle: \"Nous allons proposer de compléter le système des retraites par répartition par un pilier de capitalisation\"",
+      "«Nous allons compléter le système des retraites par répartition avec un pilier de capitalisation», annonce Marine Le Pen",
+      "\"Je suis attachée à l'esprit de notre système de retraite actuel\", déclare Marine Le Pen, candidate RN à l’élection présidentielle",
+      "Présidentielle 2027 : les candidats s'écharpent sur la retraite par capitalisation ou par répartition"
+    ]
+  },
+  {
+    "titre": "Fabien Roussel insiste sur le rôle complémentaire de la capitalisation",
+    "texte": "Le député Fabien Roussel a déclaré sur LCI que la capitalisation doit rester un complément du système de retraite, sans jamais constituer la source principale de revenus garantis.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-17T10:46:06+00:00",
+    "titres_sources": [
+      "Retraite par capitalisation : \"Elle doit être un complément, jamais la source de revenus garantis\", juge Fabien Roussel sur LCI",
+      "Fabien Roussel sur LCI : retraites et capitalisation"
+    ]
   }
 ]
