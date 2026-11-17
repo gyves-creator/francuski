@@ -92,5 +92,25 @@
       "Majoration des retraites à partir de trois enfants : face à la bronca, le gouvernement modifie son projet",
       "Majoration des retraites à partir de trois enfants : le gouvernement revoit sa copie à la dernière minute au Sénat"
     ]
+  },
+  {
+    "titre": "Syndicats unis prévoient une mobilisation pour le dégel du point d'indice",
+    "texte": "Les syndicats de la fonction publique ont annoncé qu’ils comptent se rassembler mardi pour réclamer le dégel du point d’indice qui fixe leurs salaires. Cette action viserait à obtenir une revalorisation salariale.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-17T09:16:51+00:00",
+    "titres_sources": [
+      "Les syndicats affichent finalement leur unité lors d'une nouvelle mobilisation des fonctionnaires pour les salaires",
+      "Les syndicats affichent finalement leur unité lors d'une nouvelle mobilisation des fonctionnaires pour les salaires"
+    ]
+  },
+  {
+    "titre": "Prix du carburant en baisse dans plus de 90 % des stations",
+    "texte": "Le gouvernement a indiqué que le prix du gazole est tombé à 2,16 euros, une réduction effective dans plus de 90 % des stations-service. Cette mesure concerne l’ensemble du territoire.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-17T09:16:51+00:00",
+    "titres_sources": [
+      "Carburant : une baisse du prix en vigueur dans plus de 90 % des stations-service, annonce le gouvernement",
+      "« On est à 2,16 (euros) aujourd’hui pour le gazole » : une baisse du prix des carburants en vigueur dans plus de 90 % des stations-service, annonce Mathieu Lefèvre"
+    ]
   }
 ]
