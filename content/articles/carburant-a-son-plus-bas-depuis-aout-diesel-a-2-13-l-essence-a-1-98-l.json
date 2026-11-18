@@ -1,0 +1,39 @@
+{
+  "slug": "carburant-a-son-plus-bas-depuis-aout-diesel-a-2-13-l-essence-a-1-98-l",
+  "titre": "Carburant à son plus bas depuis août : diesel à 2,13 €/L, essence à 1,98 €/L",
+  "chapeau": "Les prix du carburant ont atteint leurs niveaux les plus bas depuis le mois d’août, avec le diesel affiché à 2,13 €/L et l’essence à 1,98 €/L. Cette évolution constitue une aubaine pour les automobilistes qui voient leurs dépenses de mobilité diminuer.",
+  "corps": "## Des tarifs historiquement bas\nSelon les dernières données publiées le 18 novembre 2026, le litre de diesel se vend à 2,13 €, tandis que le litre d’essence est proposé à 1,98 €. Ces montants représentent les prix les plus bas observés depuis le mois d’août de la même année. Aucun autre chiffre n’est indiqué dans les sources, mais la tendance montre une nette baisse par rapport aux semaines précédentes.\n\n## Impact sur le budget des automobilistes\nPour les foyers qui utilisent régulièrement leur voiture, la réduction du prix du carburant se traduit directement en économies sur le budget transport. Une diminution de quelques centimes par litre peut, sur le long terme, alléger les dépenses mensuelles, notamment pour les conducteurs parcourant de longues distances ou pour les familles dont les véhicules sont le principal moyen de déplacement. Cette baisse intervient dans un contexte où les ménages surveillent de près leurs dépenses courantes.\n\n## Comment suivre l’évolution des tarifs\nLes consommateurs peuvent vérifier les prix en temps réel sur le site officiel du gouvernement dédié aux carburants, accessible via prix‑carburants.gouv.fr. Ce service recense les tarifs affichés dans les stations-service à l’échelle nationale et régionale, permettant de comparer les offres avant de faire le plein. Il est également possible de consulter les applications mobiles dédiées, qui s’appuient sur les mêmes données publiques.\n\n## Perspectives à moyen terme\nLes prix affichés le 18 novembre restent les plus bas depuis août, mais aucune indication n’est fournie quant à la durée de cette tendance. Les automobilistes sont invités à rester attentifs aux évolutions du marché, notamment aux éventuelles annonces de mesures fiscales ou de modifications de la taxe intérieure de consommation sur les produits énergétiques, qui pourraient influencer les tarifs à l’avenir.\n\nEn résumé, la chute du prix du diesel à 2,13 €/L et de l’essence à 1,98 €/L constitue une opportunité d’allèger le coût du transport pour les usagers. La consultation régulière des prix officiels permet de profiter au mieux de ces fluctuations.",
+  "mots_cles": [
+    "carburant",
+    "prix",
+    "budget",
+    "automobilistes",
+    "essence"
+  ],
+  "rubrique": "auto",
+  "publie_le": "2026-11-18T19:11:15+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Station_automobile_REX_%C3%A0_Monte-Carlo%2C_en_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "L'Automobile sur la Côte d'azur",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Station_automobile_REX_%C3%A0_Monte-Carlo,_en_1937.jpg",
+    "legende": "Station automobile REX à Monte-Carlo, en 1937",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Station automobile REX à Monte-Carlo, en 1937.jpg"
+  },
+  "sources": [
+    {
+      "media": "www.lefute.fr",
+      "titre": "Ces prix du carburant au plus bas depuis août : découvrez cette incroyable bonne nouvelle ! /",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLU94bm1CckVsM2MzSExmeERYTG1CdjZVR2VWczVFazNLcWRoSWRYbDhES3V4SElkd25JUnhfaEhheURoOEVnamhLU3p6WmozTFNaNTVuY3FYN2x5eUJER2JGTW4wY2hWb2VQZkEtTktTSzRWcTd6NGwzcTk2T212VTlnUy1Ta3ZxQWpHOGRMdmhlQXQ0NkVpX2FndWFPTWJPM0dwRHFRM0xxLWZ3MXVXdUlwV2RzY05zMHJ2anl3?oc=5"
+    },
+    {
+      "media": "Presse-citron",
+      "titre": "Diesel à 2,13 €/L, essence à 1,98 €/L : les prix du carburant sont au plus bas en France depuis le mois d'août",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR0pXMmY5WHdiTFdoa20wVHFHejQxeHRlOWZhaEJldlg4eDhFeGJmbC13blR5VHByUFVLVU44QWc0aS1xQkxfMzBvcmdiUzdFTGxVazNtN1d0VktFSGpoRUFsSjc5WUxJWkpCYjJBOEcyVm9kWll4V29QUTVpMm9YcUFkV1FZUTJzMmo1TmM0WU9fNzJiS3k3RG1Uc0hrUDk0eC1UYTZDSTV1WGh1eExMUXdvNjdOWE1sVmNkV19YOS1aUlhfbk15WkxGZFppRGxt?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
