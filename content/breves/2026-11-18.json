@@ -106,5 +106,25 @@
       "Présidentielle 2027. Réforme des retraites, fin des 35 heures… découvrez le projet d’Édouard Philippe",
       "Édouard Philippe, candidat Horizons à l’élection présidentielle, souhaite “la réforme des retraites la plus ambitieuse du 21e siècle” et \"revenir sur les 35h\""
     ]
+  },
+  {
+    "titre": "Un village isolé renouvelle le lien grâce à une voiture partagée",
+    "texte": "Les résidents d’un village reculé ont rétabli le contact avec les communes voisines en utilisant une voiture électrique mise en commun. Cette initiative facilite les déplacements et renforce les liens sociaux dans la zone.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-18T12:43:54+00:00",
+    "titres_sources": [
+      "Lot : Les habitants de ce village reculé rétablissent le contact grâce à une voiture électrique partagée",
+      "2 000 postes en plus, Renault embauche grâce à la voiture électrique"
+    ]
+  },
+  {
+    "titre": "Cumul emploi-retraite durci dès le 1er janvier 2027",
+    "texte": "Le gouvernement a annoncé un durcissement du cumul emploi‑retraite à compter du 1er janvier 2027. Les futurs retraités devront ainsi limiter leurs activités professionnelles pour conserver leurs droits à la pension.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-18T12:43:54+00:00",
+    "titres_sources": [
+      "Des nouvelles règles pour le cumul emploi-retraite à partir de 2027",
+      "Durcissement du cumul emploi retraite à compter du 1er janvier 2027, la (…)"
+    ]
   }
 ]
