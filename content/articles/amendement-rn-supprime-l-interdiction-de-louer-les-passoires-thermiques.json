@@ -1,0 +1,44 @@
+{
+  "slug": "amendement-rn-supprime-l-interdiction-de-louer-les-passoires-thermiques",
+  "titre": "Amendement RN supprime l’interdiction de louer les passoires thermiques",
+  "chapeau": "L’Assemblée nationale a adopté à la majorité minimale un amendement du Rassemblement national visant à supprimer l’interdiction de louer les logements dits « passoires thermiques ». Cette modification, qui n’est pas encore définitive, sera soumise à un vote solennel le 24 novembre.",
+  "corps": "## Contexte législatif\nL’amendement, présenté par le parti d’extrême droite, a été adopté de justesse lors d’un vote à l’Assemblée nationale le 18 novembre 2026. Il porte sur l’une des mesures phares du projet de loi du gouvernement, à savoir l’interdiction de mettre en location des logements dont la performance énergétique est très faible, souvent qualifiés de « passoires thermiques ». À ce jour, le texte complet reste en discussion et un vote solennel sur l’ensemble du projet est prévu le 24 novembre.\n\n## Conséquences pour les locataires\nSi l’amendement était intégré dans la loi finale, les propriétaires ne seraient plus obligés de réaliser des travaux de rénovation énergétique avant de pouvoir louer leurs biens. Pour les locataires, notamment ceux en situation de précarité énergétique, cela pourrait signifier une plus grande offre de logements, mais également le risque de rester dans des habitations très énergivores, avec des factures de chauffage potentiellement élevées. Les locataires peuvent vérifier la classe énergétique d’un logement grâce au diagnostic de performance énergétique (DPE) disponible lors de la visite ou sur le site service‑public.fr.\n\n## Prochaines étapes\nLe texte, incluant cet amendement, devra être débattu lors du vote solennel prévu le 24 novembre. Selon le résultat, les règles actuelles qui interdisent la location de logements classés F ou G pourraient être maintenues ou modifiées. Les personnes concernées – locataires, propriétaires et bailleurs – sont invitées à suivre les publications officielles du ministère du Logement ou à consulter les informations disponibles sur le site du gouvernement pour connaître les évolutions éventuelles de la réglementation.",
+  "mots_cles": [
+    "passoires thermiques",
+    "location",
+    "logement",
+    "Assemblée nationale",
+    "loi énergie"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-18T16:14:55+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wilfredor",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_nationale_du_Qu%C3%A9bec,_Canada.jpg",
+    "legende": "Parliament Building of Quebec , in Quebec City, Canada, home to the National Assembly of Quebec.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Assemblée nationale du Québec, Canada.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Immobilier",
+      "titre": "\"Un bras d'honneur invraisemblable aux locataires en précarité énergétique\" : les députés votent un amendement du RN levant les interdictions de louer des passoires thermiques",
+      "url": "https://www.franceinfo.fr/economie/immobilier/reforme-du-logement/un-bras-d-honneur-invraisemblable-aux-locataires-en-precarite-energetique-les-deputes-votent-un-amendement-du-rn-levant-les-interdictions-de-louer-des-passoires-thermiques_8288078.html#xtor=RSS-3-%5Beconomie%2Fimmobilier%5D"
+    },
+    {
+      "media": "SeLoger",
+      "titre": "Passoires thermiques : les députés suppriment l’interdiction de louer",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm41NmdtTGthOG5LeW9LVWRnNWliVzJlNWd1dVdKaEd3NnZJZVQzYkFTUWhyZEdUZmV2aU4wRF9KYW1FcVNHZVVDc2FRWHUtWUV3a05DUEFtWXNfd2w2ZVc5dlh1bUs3NnpjSnBNV0RyYUlxZ3k1cG1Mc1FyN1h4TVpwd09aSHZrTXFaMjdLMzhsX3IySFF0aFBTSWtrZ0FEVDRSSG1JaWRvdzRZelBfZEFkb0t5X1NBdV8xb1Fidw?oc=5"
+    },
+    {
+      "media": "BFM",
+      "titre": "\"Une catastrophe pour les locataires\" : un amendement du Rassemblement national supprime les interdictions de louer des passoires thermiques",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMzhUakVoR0ZBbnFLNWpUWWV1S05Td2pobGZkandpMVJ3U092X1YzUFVicDFrQm1idkJkbmg2NTZrdWgtNkhYaFBKOUZVbHRUV3RtX2p1N2FfY1ZFM29RWE1tTnFUeDE3d3N3dEVOb1lCZkh0TUZicEtEb2pDTlNZRkg3d3RnQkdvVTVkOGxjY1lNd1hEZldhNlVrcmVhMUY0dHJqZ0FvdFgyRjhidVJHTk1SWkJMbTN6LWJRX2xkeXNMU3MtM0hqR3dRblMyanVKYWJmbm0zSGtWOXF2T1lxbVNMNlhkR0JWRXJjZ2NqQmxyX3UwS21NNThMMExWa0ZuVUM2UnE4b0Q5OEdsU2l6eW02T090aEZ4Z1E?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 3
+}
