@@ -17,5 +17,25 @@
     "titres_sources": [
       "Ce couple de retraités de Dordogne est bien content de se passer de voiture face au prix du carburant"
     ]
+  },
+  {
+    "titre": "Poligny : la taxe sur les logements vacants approche de ses 20 ans",
+    "texte": "Dans la commune de Poligny, la taxe sur les logements vacants va bientôt fêter vingt ans d'existence. Les habitants affirment avoir trouvé des astuces pour échapper à ce prélèvement.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-18T06:22:47+00:00",
+    "titres_sources": [
+      "Pas de taxe sur les logements vacants",
+      "Poligny. Bientôt 20 ans de taxe sur les logements vacants : « Ils ont trouvé des astuces pour ne pas payer »"
+    ]
+  },
+  {
+    "titre": "Un éditorial sur la réforme des retraites et Marine Le Pen",
+    "texte": "Un éditorial signé Guillaume Daret aurait analysé la crédibilité de Marine Le Pen dans le débat sur la réforme des retraites. Le texte se focalise sur la posture de la dirigeante du RN.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-18T06:22:47+00:00",
+    "titres_sources": [
+      "L'ÉDITO POLITIQUE DE GUILLAUME DARET - Réforme des retraites: Marine Le Pen joue sa crédibilité",
+      "Réforme des retraites : Le Pen joue sa crédibilité - L’édito politique - 18/11"
+    ]
   }
 ]

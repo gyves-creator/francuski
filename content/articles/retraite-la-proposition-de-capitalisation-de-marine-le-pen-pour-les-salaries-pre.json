@@ -1,0 +1,39 @@
+{
+  "slug": "retraite-la-proposition-de-capitalisation-de-marine-le-pen-pour-les-salaries-pre",
+  "titre": "Retraite : la proposition de capitalisation de Marine Le Pen pour les salariés précaires",
+  "chapeau": "Marine Le Pen a présenté une nouvelle orientation pour le système de retraite, axée sur la capitalisation et ciblant les travailleurs en situation de précarité. Le projet, encore au stade de proposition, suscite déjà des débats parmi les acteurs du secteur.",
+  "corps": "## Une proposition qui mise sur la capitalisation\nMarine Le Pen a annoncé une réforme du système de retraite en France, reposant sur le principe de la capitalisation. Cette approche, qui consiste à accumuler des droits à la retraite sur la base de cotisations individuelles investies, se démarque du modèle actuel de répartition où les actifs financent les pensions des retraités. Le texte de la proposition indique qu’elle viserait spécifiquement les salariés occupant des emplois précaires, afin de leur offrir une forme de sécurisation financière à l’âge de la retraite.\n\n## Le cadre juridique et les étapes à venir\nIl s’agit d’une proposition politique, non encore adoptée par le Parlement. En conséquence, aucune mesure n’est entrée en vigueur et aucun barème ou taux n’a été publié. Le texte devra encore être présenté en commission, débattu, puis soumis au vote des deux assemblées avant toute mise en application. Jusqu’à ce stade, il reste donc au stade de projet de loi.\n\n## Réactions et positions des parties prenantes\nLe débat autour de la capitalisation touche plusieurs acteurs du système de retraite. Les syndicats, qui défendent généralement le principe de répartition, ont exprimé leurs réserves quant à la viabilité d’un tel dispositif pour les travailleurs les plus fragiles. De leur côté, certains économistes libéraux voient dans la capitalisation une réponse possible aux défis démographiques, bien que les détails de la proposition restent à préciser. Le gouvernement n’a pas encore pris position officielle, et aucune réponse n’a été formulée par les partis d’opposition.\n\n## Comment suivre l’évolution de la réforme\nLes personnes concernées par cette proposition, notamment les salariés en contrat à durée déterminée, en intérim ou en temps partiel, peuvent vérifier l’impact éventuel sur leur future pension en consultant les sites officiels tels que service-public.fr ou info-retraite.fr. Ces plateformes offrent des simulateurs et des fiches d’information qui seront actualisées dès que le texte législatif sera officiellement publié. En attendant, il est recommandé de rester attentif aux annonces du ministère des Solidarités et de la Santé ainsi qu’aux publications du Sénat et de l’Assemblée nationale.",
+  "mots_cles": [
+    "retraite",
+    "capitalisation",
+    "précarité",
+    "réforme",
+    "Marine Le Pen"
+  ],
+  "rubrique": "retraite",
+  "publie_le": "2026-11-18T06:22:40+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Marine_Le_Pen_2025_%28cropped%29.jpg/1280px-Marine_Le_Pen_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Vox España",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg",
+    "legende": "Marine Le Pen in February 2025",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marine Le Pen 2025 (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "RMC",
+      "titre": "[Podcasts] Une proposition pour la France : Avec Marine Le Pen, quelle retraite pour les travailleurs précaires ? - 18/11",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQk16NUpyN0VZbUtpNXFsTWhZeW1iWEFRcTBuZ2cxY1ZCbkcycEJJYjlxNU5CRmtSclZzSzF0ZzBpOXhGYkhFVzJtLXFlY1dBLWtNMHpNVWFqTXNRMGloODIxSl9PVVlOS2NMVk5GT0dhODJudVBZYXN0ME9mVWVNOFotRThONzlZR3EyRFNSTTRBOW9PQ1E0bkx3V2Z5QWpuLTNwSC1nelVuWmFvaTUtZkZ1bWpyNmxRWTdwWldLQ0JPdVhlVGt4RmY1eEFtRnY2aXZISUh3NWZBdDRIMTFMaUxuSEFWVWF2bXgwMGVWcjVyT1lkbVZuTXhfVmRFYTA0ZTRqMXR2eFc4d2Q4YjFZ?oc=5"
+    },
+    {
+      "media": "Boulevard Voltaire",
+      "titre": "Retraite par capitalisation : la proposition libérale inattendue de Marine Le Pen",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3ZJSXZEdjlBLThLeFhrVjFTVWVXMTc5b09wSERPcUhfRkIwTjQ5X05oTmhHN1hKeXVYVWZkSTV0TTIxblA3NWxZNEo3UUJpSHB4eWNuSFh4aFVkNDFadk5pQ184cVFJUWZuVTU1T3dwQXhsRWhaalJWMGxkaDRNb1k5ZHRWbDBDR0MwQVFweTNPNk1Kd29tbHhzM3FrZll2dlVFWDNYMDg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
