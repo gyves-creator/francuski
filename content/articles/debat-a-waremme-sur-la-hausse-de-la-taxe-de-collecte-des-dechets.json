@@ -1,0 +1,33 @@
+{
+  "slug": "debat-a-waremme-sur-la-hausse-de-la-taxe-de-collecte-des-dechets",
+  "titre": "Débat à Waremme sur la hausse de la taxe de collecte des déchets",
+  "chapeau": "Un débat tendu anime la municipalité de Waremme autour de la taxe poubelles, jugée par certains habitants excessivement élevée. Les élus et les usagers s’affrontent pour déterminer l’ajustement éventuel de ce prélèvement local.",
+  "corps": "## Contexte de la taxe poubelles à Waremme\nLa taxe de collecte des déchets, perçue chaque année par les collectivités locales, finance le ramassage, le traitement et le recyclage des ordures ménagères. Elle s’applique à l’ensemble des foyers et des entreprises implantées sur le territoire communal. À Waremme, le sujet a récemment fait l’objet d’un débat public, les habitants exprimant un sentiment d’injustice face au montant actuel.\n\n## Points de tension exprimés par les usagers\nLors de la réunion du conseil municipal, plusieurs riverains ont dénoncé ce qu’ils jugent « ça dépasse l’entendement », soulignant le poids de la contribution dans le budget familial. Les critiques portent notamment sur le manque de transparence perçu dans le calcul du prélèvement et sur l’absence de mesures compensatoires pour les ménages modestes. Aucun chiffre précis n’a été communiqué dans les échanges, mais la perception d’une charge trop lourde alimente la contestation.\n\n## Réactions des élus et perspectives de modification\nLes représentants de la municipalité ont rappelé que la taxe poubelles constitue une ressource indispensable pour assurer le bon fonctionnement du service de collecte. Ils ont indiqué que le montant actuel résulte d’un budget prévisionnel validé par le conseil, mais qu’ils restent ouverts à examiner des ajustements éventuels. Aucun amendement ou modification n’a encore été adopté ; la discussion se situe donc à l’étape du débat parlementaire local.\n\n## Comment les contribuables peuvent vérifier leur situation\nLes habitants de Waremme souhaitant connaître le détail de leur facture de collecte peuvent consulter le site officiel de la ville ou se rendre au service des finances municipales. Les avis d’imposition détaillent le calcul de la taxe et les éventuelles exonérations ou réductions applicables, notamment pour les foyers à faibles revenus. En cas de doute, il est recommandé de contacter le centre d’accueil de la mairie ou de consulter la plateforme service-public.fr pour obtenir des informations sur les critères d’éligibilité aux aides locales.\n\n## Enjeux pour le budget communal\nLe débat reflète la tension entre la nécessité de financer les services publics de propreté et la sensibilité des contribuables aux hausses de prélèvements locaux. La décision finale dépendra du poids des arguments présentés lors des prochaines séances du conseil municipal et de l’éventuelle évolution du cadre fiscal national qui pourrait influencer les marges de manœuvre des collectivités.",
+  "mots_cles": [
+    "taxe poubelles",
+    "Waremme",
+    "budget municipal",
+    "fiscalité locale"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-18T05:16:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Waremme_JPG04.jpg/1280px-Waremme_JPG04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jean-Pol GRANDMONT",
+    "licence": "CC BY 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Waremme_JPG04.jpg",
+    "legende": "Waremme (Belgium), the railway station.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Waremme JPG04.jpg"
+  },
+  "sources": [
+    {
+      "media": "L'Avenir",
+      "titre": "Débat tendu sur la taxe poubelles à Waremme: \"Ça dépasse l'entendement\"",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGJoZ2tGV3A3bmNlSnlETkhBR3RmYVpSQ3VxNnVyQVVGM21xUTBEZXduSVZ4UG5lMzVvLW01Tm5YN05hZWp6cUdiNHR0SjBUUTRjTlF4VUM0WTVBcXZBb0dGUmdva29RTm1sc2g1VUZtXzk5M0ZpcUllVnhNd0FEWUpJU1JNZG5QRXlud2VHTC1DeVhHXzlDYjFWcFRCdUdWY3dKdDV3ZkM2bE0zMVBlQWc0WGtWMVVPMkNXZm9iNFZ5SUVUWXdiRkFYRlJlLXllZkd3OHk4TjhnSnhVaWtySXo1NFgwTlRMRThOc29hVQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}

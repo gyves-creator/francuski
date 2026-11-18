@@ -1,0 +1,39 @@
+{
+  "slug": "manifestations-des-fonctionnaires-contre-la-hausse-du-cout-de-la-vie",
+  "titre": "Manifestations des fonctionnaires contre la hausse du coût de la vie",
+  "chapeau": "Le 17 novembre, 146 000 manifestants ont défilé selon le ministère de l’Intérieur, tandis que la CGT estime la participation à plus de 500 000. Les revendications portent sur le pouvoir d’achat et les conséquences budgétaires des journées de grève.",
+  "corps": "## Déroulement des manifestations\nLe rassemblement, qualifié de globalement calme, a rassemblé des fonctionnaires, des salariés du secteur privé et des jeunes, appelés à manifester par les syndicats de la fonction publique. Le nombre de participants déclaré par le ministère de l’Intérieur s’établit à 146 000 personnes, chiffre qui reste inférieur à celui du 5 novembre. La Confédération Générale du Travail (CGT) avance, quant à elle, un total supérieur à 500 000 manifestants. Les cortèges ont parcouru les principales artères des villes, sans incidents majeurs signalés.\n\n## Revendications et impact budgétaire\nLes manifestants réclament des réponses concrètes aux difficultés liées à la vie chère et au pouvoir d’achat. Certains d’entre eux soulignent que les journées de grève, désormais récurrentes, pèsent sur le budget des ménages, notamment en raison de la perte de salaire et des frais supplémentaires liés aux déplacements. Aucun chiffre officiel n’est fourni sur l’ampleur de cet impact, mais les syndicats insistent sur le besoin d’une mesure d’accompagnement pour les foyers les plus touchés.\n\n## Contexte et perspectives\nCes mobilisations s’inscrivent dans un contexte de tension économique où l’inflation et le coût du logement restent des sujets de préoccupation pour de nombreux Français. Les syndicats espèrent que les revendications seront prises en compte lors des prochains dialogues sociaux. Le gouvernement, pour sa part, n’a pas encore communiqué de mesures spécifiques en réponse à ces manifestations. Les observateurs attendent de voir si les négociations aboutiront à des ajustements fiscaux ou à des aides ciblées, notamment pour les catégories les plus exposées à la hausse des dépenses quotidiennes.",
+  "mots_cles": [
+    "pouvoir d'achat",
+    "manifestation",
+    "fonctionnaires",
+    "budget",
+    "CGT"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-18T05:16:09+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%89cusson_Minist%C3%A8re_de_l%27Int%C3%A9rieur_-_D%C3%A9minage_-_S%C3%A9curit%C3%A9_Civile.JPG/1280px-%C3%89cusson_Minist%C3%A8re_de_l%27Int%C3%A9rieur_-_D%C3%A9minage_-_S%C3%A9curit%C3%A9_Civile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "This picture belongs to Xavier Caré . Please credit : Xavier Caré / Wikimedia Commons / CC-BY-SA . If you would like spe",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89cusson_Minist%C3%A8re_de_l%27Int%C3%A9rieur_-_D%C3%A9minage_-_S%C3%A9curit%C3%A9_Civile.JPG",
+    "legende": "Écusson Ministère de l'Intérieur - Déminage - Sécurité Civile.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Écusson Ministère de l'Intérieur - Déminage - Sécurité Civile.JPG"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Emploi",
+      "titre": "\"Il y a des choses qu'on ne peut pas faire\", \"À la fin du mois, on est limite à découvert\"… Les fonctionnaires vent debout contre la vie chère",
+      "url": "https://www.franceinfo.fr/economie/emploi/recherche-d-emploi/fonction-publique/il-y-a-des-choses-qu-on-ne-peut-pas-faire-a-la-fin-du-mois-on-est-limite-a-decouvert-les-fonctionnaires-vent-debout-contre-la-vie-chere_8287163.html#xtor=RSS-3-%5Beconomie%2Femploi%5D"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "\"Il y a des choses qu'on ne peut pas faire\", \"À la fin du mois, on est limite à découvert\"… Les fonctionnaires vent debout contre la vie chère",
+      "url": "https://www.franceinfo.fr/economie/emploi/recherche-d-emploi/fonction-publique/il-y-a-des-choses-qu-on-ne-peut-pas-faire-a-la-fin-du-mois-on-est-limite-a-decouvert-les-fonctionnaires-vent-debout-contre-la-vie-chere_8287163.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
