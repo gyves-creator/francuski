@@ -272,5 +272,25 @@
       "Rencontres retraite avec l’Agirc-Arrco",
       "Retraite / Agirc-Arrco : 12 500 créneaux pour des entretiens personnalisés gratuits en novembre"
     ]
+  },
+  {
+    "titre": "Déclaration papier : un marqueur social pour les ménages modestes",
+    "texte": "L'Insee indique que, malgré la généralisation de la déclaration en ligne depuis quinze ans et la fermeture de 300 centres des impôts, de nombreux ménages modestes et personnes âgées continuent d'utiliser la déclaration papier. Ce mode reste un marqueur social de précarité.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-18T20:38:28+00:00",
+    "titres_sources": [
+      "Impôts : la déclaration papier, un marqueur social pour les ménages pauvres et les personnes âgées",
+      "Impôts : la déclaration papier, un marqueur social pour les ménages pauvres et les personnes âgées"
+    ]
+  },
+  {
+    "titre": "Owens-Illinois ferme usine de 160 salariés en Gironde",
+    "texte": "Le verrier américain Owens-Illinois a annoncé la fermeture de son usine de la Gironde, qui employait 160 salariés, en raison d'une crise du secteur viticole. Cette décision entraîne la perte d'emplois dans la région.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-18T20:38:28+00:00",
+    "titres_sources": [
+      "« Une décision brutale » : le verrier américain Owens-Illinois ferme une usine de 160 salariés en Gironde sur fond de crise viticole",
+      "Gironde: le verrier O-I ferme une usine de 160 salariés sur fond de crise viticole"
+    ]
   }
 ]
