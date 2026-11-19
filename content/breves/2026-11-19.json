@@ -106,5 +106,28 @@
       "Bilan des contrôles nocturnes à Dunkerque : deux automobilistes verbalisés pour grand excès de vitesse en ville",
       "Région du Creusot et d’Autun : Des automobilistes en excès de vitesse"
     ]
+  },
+  {
+    "titre": "Légère hausse des demandes d'allocations chômage aux États-Unis",
+    "texte": "Les demandes hebdomadaires d'allocations chômage aux États-Unis ont atteint 203 000, marquant une deuxième semaine consécutive au‑dessus de 200 000. Cette légère hausse indique un ralentissement de la reprise du marché du travail.",
+    "rubrique": "aides-social",
+    "publie_le": "2026-11-19T15:12:12+00:00",
+    "titres_sources": [
+      "Les demandes hebdomadaires d'allocations chômage aux États-Unis ont légèrement augmenté à 203 000, une deuxième semaine au-dessus de 200 000.",
+      "Hô Chi Minh-Ville : Plus de 99 % des demandes d'allocations chômage sont soumises en ligne.",
+      "Les demandes hebdomadaires d'allocations chômage aux États-Unis augmentent légèrement",
+      "Les demandes hebdomadaires d'allocations chômage aux États-Unis augmentent légèrement"
+    ]
+  },
+  {
+    "titre": "Éver Banega annonce sa retraite du football",
+    "texte": "L'Argentin Éver Banega, âgé de 38 ans et triple vainqueur de la Ligue Europa avec Séville, a déclaré mettre fin à sa carrière. Cette décision clôt son parcours professionnel après plus d'une décennie.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-19T15:12:12+00:00",
+    "titres_sources": [
+      "(Off) Ever Banega annonce sa retraite et ferme définitivement la porte à Messi !",
+      "Ever Banega annonce sa retraite à 38 ans",
+      "L'Argentin Éver Banega, triple vainqueur de la Ligue Europa avec le Séville FC, annonce sa retraite"
+    ]
   }
 ]
