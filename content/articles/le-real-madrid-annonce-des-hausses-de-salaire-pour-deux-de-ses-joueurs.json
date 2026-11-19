@@ -1,0 +1,38 @@
+{
+  "slug": "le-real-madrid-annonce-des-hausses-de-salaire-pour-deux-de-ses-joueurs",
+  "titre": "Le Real Madrid annonce des hausses de salaire pour deux de ses joueurs",
+  "chapeau": "Le club espagnol a communiqué une revalorisation salariale pour Aurélien Tchouaméni et un doublement de la rémunération de Jude Bellingham. Ces décisions s’inscrivent dans le cadre de la politique de renouvellement de l’effectif.",
+  "corps": "## Une nouvelle rémunération pour Aurélien Tchouaméni\nLe milieu de terrain français a vu son contrat révisé à la suite de son arrivée au Real Madrid. Le club a indiqué que le joueur bénéficie désormais d’un salaire plus élevé, sans préciser le montant exact. Cette évolution contractuelle reflète l’importance accordée à son rôle dans le dispositif tactique de l’équipe et à la volonté de sécuriser son avenir au sein du club.\n\n## Un doublement de salaire pour Jude Bellingham\nDans un communiqué distinct, la direction du Real Madrid a annoncé que le milieu anglais voit son salaire doublé. Cette mesure, présentée comme une reconnaissance de ses performances, vise à aligner sa rémunération avec les attentes du marché et à garantir sa stabilité contractuelle. Aucun chiffre n’a été communiqué, mais le doublement constitue une hausse significative.\n\n## Implications pour le club et les supporters\nCes ajustements salariaux interviennent alors que le Real Madrid poursuit ses objectifs sportifs et financiers. Une revalorisation des salaires peut influencer la masse salariale du club, un poste de dépense majeur dans le football professionnel. Les supporters peuvent s’interroger sur les répercussions éventuelles, notamment en termes de politique tarifaire des billets ou de merchandising, bien que le club n’ait pas indiqué de lien direct avec ces hausses.\n\n## Comment vérifier les informations et suivre les évolutions\nLes supporters et les observateurs peuvent consulter le site officiel du Real Madrid ou les communiqués publiés par la direction du club pour obtenir les détails contractuels. Les instances sportives, telles que la Liga, publient parfois des rapports agrégés sur les salaires des joueurs, accessibles via leurs plateformes officielles. Pour les salariés du secteur sportif, il est possible de comparer ces évolutions avec les conventions collectives applicables aux athlètes professionnels, disponibles sur le site du ministère du Travail.",
+  "mots_cles": [
+    "Real Madrid",
+    "salaires",
+    "football",
+    "contrats"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-19T16:16:31+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Benfica_vs_Real_Madrid%2C_2020_UEFA_Youth_League_Final.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Paninigenie",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Benfica_vs_Real_Madrid,_2020_UEFA_Youth_League_Final.png",
+    "legende": "Benfica vs Real Madrid, 2020 UEFA Youth League Final",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Benfica vs Real Madrid, 2020 UEFA Youth League Final.png"
+  },
+  "sources": [
+    {
+      "media": "Sportune",
+      "titre": "Aurélien Tchouameni. Son nouveau salaire avec le Real Madrid",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE42YkxVMDQ2NHZzbGQ3Y19MZUtQVkJXR3dFOG8wUV9MT1JDZjFKRVNYRXM4YjlhNnU4eHl5dnhkdlpEellWRkdTSVhOeHl4aDlxOWxRZ1NfNkVaYnpOamxMVGc1U2NyNWo2RkZrOFFnNTJQakl3SGZ2SWs1RjI0aWZibzA5S25lNEZBb0xQSFhhN0hUTWhZWjRqZ21jZ2N2Mm15RE5BWHc?oc=5"
+    },
+    {
+      "media": "Vietnam.vn",
+      "titre": "Le Real Madrid double le salaire de Jude Bellingham.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUpCcHJSSXRGUE1sb1B3M3luZ2xkWU9zdXdMQWxwRnV6Y2txd3FyQlc4NHFOTWVSc3Z1WHZnekN6NG4xTERUaUM4aG44eHBMeFU0TnJReGpCa3N4OG1TTmM2Q3hZMnh2WW5yZ1pGNHZ4eTRzTHdKdjc3T0JIbTZfUUVR?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
