@@ -1,0 +1,39 @@
+{
+  "slug": "un-bailleur-parisien-condamne-a-rembourser-pres-de-75-000-pour-un-loyer-surfactu",
+  "titre": "Un bailleur parisien condamné à rembourser près de 75 000 € pour un loyer surfacturé",
+  "chapeau": "Un locataire de la capitale a obtenu le remboursement d’une somme estimée à 75 000 € après trois années de loyers excédant le plafond de 2 000 € mensuels. Le dossier relance le débat sur l’encadrement des loyers, dont l’avenir reste incertain.",
+  "corps": "## Un remboursement record après trois ans de surfacturation\n\nUn propriétaire d’un appartement à Paris a été condamné à rembourser son locataire d’une somme proche de 75 000 €, suite à un trop‑perçu de 2 000 € chaque mois pendant trois ans. Le tribunal a jugé que le bailleur n’avait pas respecté les règles d’encadrement des loyers applicables dans la capitale, ce qui a conduit à une surfacturation considérable pour le locataire.\n\n## Le cadre légal de l’encadrement des loyers à Paris\n\nL’encadrement des loyers, mis en place pour limiter les augmentations excessives, fixe un plafond de loyer selon la localisation, la surface et la catégorie du logement. Dans ce cas, le propriétaire aurait dépassé ce plafond de 2 000 € chaque mois, entraînant un trop‑perçu qui a été qualifié de « remboursement record ». Les locataires concernés peuvent vérifier le montant du loyer autorisé en consultant le site officiel du ministère du Logement ou en s’adressant à la commission de conciliation de leur arrondissement.\n\n## Conséquences pour les bailleurs et les locataires\n\nCette décision judiciaire rappelle aux bailleurs l’obligation de respecter les plafonds fixés par l’encadrement des loyers. En cas de doute, il est recommandé de consulter les informations disponibles sur service‑public.fr ou de solliciter l’avis d’un professionnel du droit immobilier. Pour les locataires, la procédure de réclamation peut être engagée auprès de la commission départementale de conciliation, puis, le cas échéant, devant le tribunal d’instance.\n\n## Un avenir incertain pour le dispositif d’encadrement\n\nAlors que le gouvernement envisage des révisions du dispositif, le sort de l’encadrement des loyers reste encore à définir. Les acteurs du secteur immobilier, qu’ils soient bailleurs ou locataires, attendent des clarifications afin de sécuriser leurs pratiques et leurs budgets. En attendant, il est essentiel de se référer aux textes en vigueur et de vérifier régulièrement le loyer appliqué pour éviter tout risque de surfacturation.\n\nLes personnes concernées par ce type de litige peuvent suivre l’évolution du cadre législatif sur le site du ministère chargé du logement et consulter les guides pratiques proposés par les associations de consommateurs.",
+  "mots_cles": [
+    "loyer",
+    "encadrement des loyers",
+    "remboursement",
+    "Paris",
+    "locataire"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-19T19:13:40+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/1280px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Yann Caradec from Paris, France",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
+    "legende": "La Tour Eiffel vue de la Tour Saint-Jacques, Paris.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg"
+  },
+  "sources": [
+    {
+      "media": "Midi Libre",
+      "titre": "Pendant trois ans, ce locataire parisien a payé 2 000 euros de loyer en trop chaque mois : son propriétaire condamné à lui rembourser une somme astronomique",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNa1BZa25kQTJFazVtTEJGUTg3cWp5RVk2VE9tYmp4a09Vemt6QjhvZUtqS2owenFSaUV2dmVPYkZOUUtOR2JjZVBUVkxucjFrdGZoNnNBZE9TaVoyaTlvNi1TQTd4THJRY0RFSXJMSUtwZmpYSTFxRURaY1lBVlZXeTZyVlYtTVMwQ2paUTB2ZlJNN0pMZ0R4cW5uaDNYMXZhcm1iNTJvTUkwamR6LV9FR0pvZE1SR2hhYlhMY19LX1I0TlZLSGpTSXNhTE9OZlZQNG10ZFJPNllpWkJKaGd0bXlrNHpBSnpXTkhNTkdZYnZWVjc1b1JHdGlUUkZnQTNVVzlRNDNKY1h0UmV2TUZFNg?oc=5"
+    },
+    {
+      "media": "Le Figaro - Gestion de patrimoine immobilier : Actualité et conseils pour la gestion de patrimoine immobilier : défiscalisation, location meublée",
+      "titre": "Ce propriétaire doit rembourser près de 75.000 euros au locataire pour un loyer surévalué de 2000 euros par mois",
+      "url": "https://immobilier.lefigaro.fr/article/ce-proprietaire-doit-rembourser-pres-de-75-000-euros-au-locataire-pour-un-loyer-surevalue-de-2000-euros-par-mois-20261119"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
