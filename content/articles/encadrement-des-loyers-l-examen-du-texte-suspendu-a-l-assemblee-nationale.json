@@ -1,0 +1,39 @@
+{
+  "slug": "encadrement-des-loyers-l-examen-du-texte-suspendu-a-l-assemblee-nationale",
+  "titre": "Encadrement des loyers : l'examen du texte suspendu à l'Assemblée nationale",
+  "chapeau": "L'examen du projet d'encadrement des loyers à l'Assemblée nationale a été interrompu après une séance très animée. La procédure législative reste en suspens, sans date précise pour une reprise.",
+  "corps": "## Un texte en cours d'examen\nLe projet de loi visant à encadrer les loyers a été soumis à l'Assemblée nationale pour un premier examen. La séance du 18 novembre 2026 a été marquée par des débats vifs, qualifiés d'« électrique » par les parlementaires présents. Aucun vote n’a été engagé et l’examen du texte a été suspendu à l’issue de cette réunion.\n\n## Les raisons de la suspension\nLes interventions ont révélé des divergences importantes entre les différents groupes politiques. Certains députés ont demandé des précisions supplémentaires sur les modalités d’application, tandis que d’autres ont exprimé des réserves quant à l’impact sur le marché locatif. En l’absence d’un consensus, le président de la séance a décidé de reporter la suite des travaux législatifs.\n\n## Quelles conséquences pour les locataires ?\nDans l’état actuel des choses, aucune mesure contraignante n’est entrée en vigueur. Les locataires continuent donc de bénéficier du cadre légal existant, qui ne prévoit pas de plafonnement généralisé des loyers. Ceux qui souhaitent vérifier l’évolution du texte peuvent consulter le site officiel de l’Assemblée nationale ou le service public dédié aux démarches législatives. Les associations de défense des locataires recommandent de rester attentifs aux prochains débats, qui seront annoncés sur les mêmes plateformes.\n\n## Suivi du processus législatif\nLe calendrier de reprise n’a pas été communiqué. La procédure prévoit toutefois que le texte pourra être réexaminé lors d’une séance ultérieure, après que les parlementaires auront pu approfondir les points de désaccord. Les acteurs du secteur immobilier, ainsi que les particuliers concernés, sont invités à suivre les publications officielles – notamment sur le site de l’Assemblée nationale et le portail service-public.fr – pour connaître les dates de nouvelles délibérations et les éventuelles modifications du projet de loi.\n\nEn attendant, le débat public autour de l’encadrement des loyers se poursuit, alimenté par les positions des partis politiques, des organisations syndicales et des représentants du secteur immobilier. Aucun changement concret n’est à prévoir tant que le texte n’a pas été rétabli à l’ordre du jour et soumis à un vote formel.",
+  "mots_cles": [
+    "encadrement des loyers",
+    "Assemblée nationale",
+    "loyer",
+    "législation immobilière",
+    "débat parlementaire"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-19T07:34:06+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/L-Assemblee-Nationale-Gillray.jpeg/1280px-L-Assemblee-Nationale-Gillray.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "James Gillray",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:L-Assemblee-Nationale-Gillray.jpeg",
+    "legende": "L'Assemblée Nationale ; —or —Grand Co-operative Meeting at St. Ann's Hill. — Respectfully Dedicated to the admirers of \"A Broad-Bottom'd Administration\" Js. Gillray, invt. &amp; fect. SUMMARY: Print s",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:L-Assemblee-Nationale-Gillray.jpeg"
+  },
+  "sources": [
+    {
+      "media": "Sud Ouest",
+      "titre": "Encadrement des loyers : le prolongement de deux ans attendra, l’examen suspendu après une séance électrique à l’Assemblée nationale",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNWhGOWhzT0sweFlOQ281RkNCU2pqM0xQcHFEN1JWTkZOZnZmWkMta2tFZmstNW1hQk1JZ3BCbTY5bjdoa0Y0ajZRWDJkRFA0TS1LZ1FzWVBROWVEdUFjek50YUFHVlZRQVp0bFRFcEM4S2g0aXJlLWZQZDZwbU1xcXJhUUN2ZDZCRnlxc3hlTXp0WUpNaW5IQUdMUk5MTzVmYUkyS2piWDJ5RzNGcWZnYUxKU3p5Y1VRX3AxSlZVdkQtdWEyc1RyNkY4aXZJSFJpc0VpRm4wUW5qb2hFVUNWSHRtanduTjEwWjAyNGZNRlRNX0J5UkkzVEp5clJOeEI5QVNVWHV3T2N1M3BZUloxQw?oc=5"
+    },
+    {
+      "media": "LCP-Assemblée nationale",
+      "titre": "La séance est ouverte ! - Encadrement des loyers : examen du texte à l'Assemblée - 18/11/2026",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWI0cGdRc1ZDOHJNTlFrSVkxYS0tZWJkMGpNZERVYkJhWUMwVndzZnVBM3ZwOThOVzNiTHd1d3VlMnJXY0UxWC1ScEM2MlVQZ0lGYmlQcU1wbmhXMXFBemlCX2M4VGRSNUM5NmZKUTZaRFRDSWV5Wk9HZkJIR3Nfa3FLMXBTM2hGUmVMbkladGRaRjJUTjZDelFPVkJkc2ZNdEFSNmNuVWZvU0tYQ3c?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
