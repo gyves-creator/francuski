@@ -1,0 +1,39 @@
+{
+  "slug": "calendrier-des-versements-cnav-et-carsat-revise-pour-2027",
+  "titre": "Calendrier des versements CNAV et Carsat révisé pour 2027",
+  "chapeau": "Les organismes de retraite CNAV et Carsat ont annoncé un décalage du calendrier de paiement pour l'année 2027. Cette modification concerne tous les assurés percevant une pension ou une allocation de retraite.",
+  "corps": "## Un nouveau planning pour les retraités\nLes deux principales caisses de retraite, la Caisse nationale d'assurance vieillesse (CNAV) et les caisses régionales de la Carsat, ont indiqué que le calendrier habituel des virements sera modifié pour l'année 2027. Le communiqué officiel mentionne un \"décalage\" des dates de versement, sans préciser les nouvelles échéances dans le texte disponible.\n\n## Qui est concerné ?\nCette évolution touche l'ensemble des bénéficiaires de pensions de base gérées par la CNAV ainsi que les allocations complémentaires versées par les Carsat. Les salariés du secteur privé, les fonctionnaires et les indépendants qui perçoivent leurs droits via ces organismes devront donc s'adapter à la nouvelle programmation. Il est recommandé de vérifier son compte en ligne sur le site officiel de la CNAV ou de la Carsat, ou de consulter les messages diffusés par la messagerie sécurisée du compte ameli, afin de connaître les dates précises applicables à chaque situation.\n\n## Impact sur le budget des ménages\nLe moment où la pension est versée influence directement la gestion du budget mensuel. Un report ou un avancement des paiements peut entraîner des ajustements dans le paiement des factures courantes (loyer, énergie, assurances) ou dans la planification d'éventuelles dépenses ponctuelles. Les retraités sont invités à anticiper ces changements en révisant leurs prévisions de trésorerie et, le cas échéant, à contacter leurs créanciers pour convenir d'éventuels reports de paiement.\n\n## Où trouver les informations détaillées ?\nLes dates exactes du nouveau calendrier seront publiées sur les sites institutionnels des deux caisses. Les assurés peuvent consulter le portail service-public.fr ou le site officiel de la CNAV (cnav.fr) pour accéder aux documents officiels. En cas de doute, le centre d'appel de la CNAV et les points d'accueil des Carsat restent les interlocuteurs privilégiés pour obtenir une confirmation personnalisée.\n\nEn résumé, le report du calendrier de versement des pensions en 2027 constitue une information clé pour tous les retraités. Une veille régulière des communications officielles permettra d'ajuster au mieux son budget personnel.",
+  "mots_cles": [
+    "CNAV",
+    "Carsat",
+    "pension",
+    "calendrier",
+    "budget"
+  ],
+  "rubrique": "retraite",
+  "publie_le": "2026-11-19T11:13:09+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/L%E2%80%99Assurance_retraite_Caisse_nationale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Cnav",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:L%E2%80%99Assurance_retraite_Caisse_nationale.png",
+    "legende": "Logo de l’Assurance retraite Caisse nationale",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:L’Assurance retraite Caisse nationale.png"
+  },
+  "sources": [
+    {
+      "media": "MoneyVox",
+      "titre": "Retraite : les dates des virements Cnav et Carsat décalés en 2027",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjNfb2FldTN0U0x6YmcxSE9NWnVlNEFsUGZ5ODFtT2puV3ctckZYSWtKbGtvbVVGSFFaS0d0Ylk4emNqbWNCUkxCMThDTEdTVk0tRkt2NTJGbThxYi1MZHVXOXhpZmNIUHQtamUxVWVDTjlfTzAtcndPMFVlc2JSSUQ2T05iNV80SW1fNmlPajh6VnNqUDZwd2RQS0FOSzNGNDZIM0JVUzc?oc=5"
+    },
+    {
+      "media": "Le Revenu",
+      "titre": "Retraite 2027 : calendrier des paiements CNAV et Carsat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVDNNSFFvVWlGU0hmaXB1NzRaeEI3aFc4WXZvQmhSRjFSc1ZsNk1OenJDdkxCbndZQnV5ZWJXM0x5QkVFUjZ5TVQ1WFBhQXpFWHR1YkwzMllMbXJwblNxYlpYcVlfcjVwaldyY3dXMVFtRjAxbHhyNHRzNU1DcnFjZ1VuVC1TRktUZ0Z4ZHRQVUNDU0xYb2N5OHBKd3d5VkstQ2liaHdCQUpBbTVHQlVRckxKMWdKb05GSW9UN2tDWDQwcGdRNlgxdnQ4Y0ZtLUdpbjFRYkZB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
