@@ -173,5 +173,25 @@
       "Manifestation des retraités ce 19 novembre à Paris : parcours, métro",
       "Budget 2027 : manifestation des retraités à Paris contre les mesures sociales et fiscales les visant"
     ]
+  },
+  {
+    "titre": "Conseils municipaux de Nice et Toulon examinent le budget 2027",
+    "texte": "Les conseils municipaux de Nice et de Toulon débattront du budget 2027, Nice prévoyant également l'examen d'un fonds de 500 000 euros. Ces discussions définiront les grandes orientations financières locales pour l'année à venir.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-19T17:42:22+00:00",
+    "titres_sources": [
+      "Nice : budget 2027 et fonds de 500 000 euros à l’ordre du jour du conseil municipal",
+      "Toulon : Le budget 2027 au cœur du conseil municipal"
+    ]
+  },
+  {
+    "titre": "Crise du bâtiment et hausse des défaillances d'entreprises",
+    "texte": "Le secteur du bâtiment traverse une crise marquée, avec une hausse importante des défaillances d'entreprises. Cette situation laisse de nombreux salariés inactifs, selon les observations relayées.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-19T17:42:22+00:00",
+    "titres_sources": [
+      "\"Des salariés n'ont rien à faire de la journée\" : le secteur du bâtiment en pleine crise, les défaillances de société en forte hausse",
+      "\"Des salariés n'ont rien à faire de la journée\" : le secteur du bâtiment en pleine crise"
+    ]
   }
 ]
