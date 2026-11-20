@@ -95,5 +95,26 @@
       "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, reconnaît le ministre des Comptes publics",
       "Budget 2027 : au moins 6 milliards d’euros d’économies supplémentaires seront nécessaires, estime le ministre des Comptes publics David Amiel"
     ]
+  },
+  {
+    "titre": "Le ministre du Travail soutient la suppression de l'abattement fiscal des retraités",
+    "texte": "Jean-Pierre Farandou a indiqué son accord pour éliminer l'abattement de 10 % prévu pour les pensions, mesure envisagée dans le projet de budget 2027. Cette suppression, déjà débattue au Sénat, viserait à réduire les dépenses publiques.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-20T10:19:56+00:00",
+    "titres_sources": [
+      "Budget 2027 : le ministre du Travail Jean-Pierre Farandou favorable à la suppression de l’abattement fiscal de 10 % pour les retraités",
+      "\"Avouez que c’est un peu bizarre, c’est une anomalie\": Jean-Pierre Farandou est favorable à la suppression de l'abattement fiscal des retraités, comme le propose le Sénat",
+      "Retraites : Farandou favorable à la suppression de l'abattement fiscal de 10 %"
+    ]
+  },
+  {
+    "titre": "Aide jusqu’à 10 000 € pour les commerces touchés par les manifestations",
+    "texte": "Le gouvernement a publié au Journal officiel les modalités d’une aide pouvant atteindre 10 000 € pour les établissements endommagés, à solliciter via la plateforme Démarche numérique dans les six semaines suivant le décret. Une commission régionale examinera chaque dossier et fixera le montant accordé.",
+    "rubrique": "entreprise",
+    "publie_le": "2026-11-20T10:19:56+00:00",
+    "titres_sources": [
+      "Commerces dégradés lors des manifestations : une aide jusqu'à 10.000 euros publiée au Journal officiel",
+      "Commerces endommagés lors des manifestations : les modalités de l’aide pouvant aller jusqu’à 10 000 euros publiées au « Journal officiel »"
+    ]
   }
 ]
