@@ -1,0 +1,34 @@
+{
+  "slug": "cours-des-actions-de-dassault-systemes-safran-engie-bureau-veritas-michelin-et-d",
+  "titre": "Cours des actions de Dassault Systèmes, Safran, Engie, Bureau Veritas, Michelin et d'ArcelorMittal sur les bourses européennes",
+  "chapeau": "Les cours des actions de plusieurs grands groupes industriels et technologiques sont cotés aujourd'hui sur les places boursières d'Euronext Paris et d'Amsterdam. Cette mise à jour concerne Dassault Systèmes, Safran, Engie, Bureau Veritas, Michelin et ArcelorMittal.",
+  "corps": "## Une présence notable sur les places européennes\nLes sociétés Dassault Systèmes, Safran, Engie, Bureau Veritas et Michelin affichent leurs cours d’action sur la Bourse d’Euronext Paris. De son côté, ArcelorMittal est cotée sur Euronext Amsterdam. Cette répartition reflète la dimension internationale de ces entreprises, qui opèrent dans les secteurs du logiciel, de l'aéronautique, de l'énergie, de la certification, du pneumatique et de la sidérurgie.\n\n## Suivre l'évolution des cours\nPour les particuliers qui souhaitent suivre l'évolution de ces titres, les informations de cotation sont disponibles en temps réel sur les sites officiels des places boursières, notamment euroeuro.com et les plateformes d'information financière publiques. Les bulletins de la Bourse précisent chaque jour le cours d'ouverture, le plus haut, le plus bas et le volume des transactions. Les investisseurs peuvent également consulter les sites des entreprises, qui publient régulièrement leurs communiqués de résultats et leurs perspectives.\n\n## Implications pour le portefeuille des épargnants\nLa présence de ces titres dans les indices de référence, tels que le CAC 40 ou le Euro Stoxx 50, signifie qu'ils sont souvent inclus dans les fonds indiciels ou les plans d'épargne en actions (PEA). Les épargnants disposant d'un PEA peuvent ainsi bénéficier d'une fiscalité avantageuse, sous réserve de respecter les conditions d'éligibilité fixées par l'administration fiscale. Il convient de vérifier, via le site officiel du service public ou le site des impôts, si chaque titre répond aux critères de détention au sein d'un PEA.\n\n## Vérifier sa situation et les démarches à suivre\nToute personne souhaitant investir ou suivre ces actions doit s'assurer d'être correctement informée des modalités d'ouverture d'un compte titres ou d'un PEA auprès d'un intermédiaire habilité. Les informations pratiques sont détaillées sur le site service-public.fr, qui indique les documents nécessaires, les frais éventuels et les démarches d'inscription. En cas de doute, il est recommandé de consulter les notices d'information disponibles sur les sites des places boursières ou de contacter directement le service client des établissements financiers concernés.\n\nEn résumé, les cours des actions de ces six grands groupes sont aujourd'hui disponibles sur les bourses parisiennes et amstellodamoises, offrant aux épargnants plusieurs points d'accès pour suivre leurs performances et envisager une éventuelle inclusion dans leurs stratégies d'épargne, dans le respect des règles en vigueur.",
+  "mots_cles": [
+    "cours action",
+    "Euronext Paris",
+    "Euronext Amsterdam",
+    "PEA",
+    "investissement"
+  ],
+  "rubrique": "placements",
+  "publie_le": "2026-11-20T16:10:18+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/EURONEXT_location_collage_small.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Wallnut tree",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:EURONEXT_location_collage_small.png",
+    "legende": "The locations of all Euronext Stock Exchanges (clockwise): London, Brussels, Lisbon, Paris, Amsterdam",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:EURONEXT location collage small.png"
+  },
+  "sources": [
+    {
+      "media": "Boursorama",
+      "titre": "DASSAULT SYSTEMES Cours Action DSY, Cotation Bourse Euronext Paris",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VejJhZ3dvVEpFX0NPSmxrZmZpdGo1MXVpc2kyNnFQN1JIUWFVaWw1Q2ZBbUd6cjdUaEEzclZlV2E0bUJvcUprMEFuRjkyRHZlSHc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}
