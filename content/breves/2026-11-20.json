@@ -25,5 +25,24 @@
     "titres_sources": [
       "Immobilier : les prix baissent dans 8 grandes villes en 2026"
     ]
+  },
+  {
+    "titre": "Des bons de soutien accordés aux PME, révocables en cas d'abus",
+    "texte": "Les petites et moyennes entreprises reçoivent des bons de soutien. En cas d'usage abusif, ces bons seront révoqués, indique le gouvernement.",
+    "rubrique": "entreprise",
+    "publie_le": "2026-11-20T06:43:20+00:00",
+    "titres_sources": [
+      "Les petites et moyennes entreprises (PME) bénéficient de bons de soutien, mais tout abus entraînera leur révocation.",
+      "Les petites et moyennes entreprises (PME) reçoivent des bons de soutien, qui seront révoqués en cas d'utilisation abusive."
+    ]
+  },
+  {
+    "titre": "Vitesse maximale de 80 km/h envisagée sur les autoroutes",
+    "texte": "Le gouvernement étudie de réduire la vitesse autorisée à 80 km/h sur les autoroutes. Cette mesure viserait à contenir la hausse du prix du carburant.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-20T06:43:20+00:00",
+    "titres_sources": [
+      "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant"
+    ]
   }
 ]
