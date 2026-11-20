@@ -1,0 +1,34 @@
+{
+  "slug": "le-senat-examine-le-projet-de-loi-de-finances-2027-et-debat-du-recours-au-49-3",
+  "titre": "Le Sénat examine le projet de loi de finances 2027 et débat du recours au 49.3",
+  "chapeau": "Le Sénat doit voter ce vendredi le projet de loi de finances pour 2027. La possibilité d’utiliser l’article 49.3 de la Constitution revient au cœur des discussions parlementaires.",
+  "corps": "## Le Sénat face au budget 2027\nLe Sénat se réunit ce vendredi pour examiner le projet de loi de finances qui définira les recettes et les dépenses de l’État pour l’année 2027. Cette séance marque la première étape de l’examen parlementaire du texte, qui devra ensuite être adopté par l’Assemblée nationale avant d’être promulgué.\n\n## Le 49.3 à l’ordre du jour\nParallèlement à l’examen du budget, le recours à l’article 49.3 de la Constitution est de nouveau évoqué. Cette disposition permet au gouvernement de faire adopter un texte sans vote formel, en engageant la responsabilité du gouvernement. Son utilisation est généralement réservée aux projets de loi jugés prioritaires ou aux situations où le texte risque de ne pas obtenir la majorité requise.\n\n## Qui est concerné ?\nLe débat porte principalement sur les parlementaires et les responsables du gouvernement chargés de piloter le texte budgétaire. Les sénateurs devront décider s’ils souhaitent accepter le recours au 49.3 ou privilégier un vote ordinaire, qui impliquerait un débat plus long et la possibilité d’amendements. Les citoyens peuvent suivre l’évolution du texte et les modalités de vote sur le site du Sénat ou via le portail officiel service‑public.fr.\n\n## Suivi et vérification\nPour connaître la version définitive du projet de loi de finances 2027, ainsi que les modalités d’adoption, il convient de consulter les publications officielles du Sénat et du ministère des Finances. Les informations relatives à l’éventuel usage du 49.3 seront également disponibles dans les comptes rendus des séances parlementaires, accessibles en ligne. En cas de doute sur l’impact du texte sur sa situation fiscale, chaque contribuable peut se rapprocher du centre des finances publiques ou consulter le site impots.gouv.fr.",
+  "mots_cles": [
+    "budget 2027",
+    "Sénat",
+    "article 49.3",
+    "loi de finances",
+    "parlement"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-20T05:16:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/S%C3%A9nat%2C_h%C3%A9micycle.jpg/1280px-S%C3%A9nat%2C_h%C3%A9micycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Soleil1409",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9nat,_h%C3%A9micycle.jpg",
+    "legende": "Sénat, le plateau et l’hémicycle",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Sénat, hémicycle.jpg"
+  },
+  "sources": [
+    {
+      "media": "CNews",
+      "titre": "Budget 2027 : le Sénat examine le projet de loi de finances ce vendredi, alors que l'usage du 49.3 revient sur la table",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjRXX01oeWNDR0RLYWdkNlhRa0F4Ymx6VklDMWNsUjgxNV9TdUFPR1pIcWI2TmpBNzRLbXk5V21UcU5pWjlWcFhIcTd6MVZ3VDdGVVByU1hGZFF2WlN1VUk5MWF2VUVsN2ZjcGkxU0VFT3kwUGg4WDZ1TmJzekExcmdqczdFcENnMjV4ZVVYbHVRanlUbTFpZF94RHRjV3ZnYUZaTm8ycVhqZjYtX2hhMUQ2bmF4OVZoM0HSAb8BQVVfeXFMTlFIWU95Y25EejJScEJaaWtUUlBnRU9QRlo0UklvQlNfOHZCR25RVG1lZ2ZseUx3VHUzVEN3b0NwTGRvY292ckVVRElTSTlCdUtvNlVNTlJVdDJqT3B4dFRNcGxNNW9UVVJ1SXpsV0hGaXdacUlRRkRhVnFlZ3FCb3JWeTJlNkstWlRRUlpBcEljOHQ4WktxdjNVZTc4dEExcEIwcWpZVm5NVHZPd01oNm1YMnAzU1JnYTJfOWctdmc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}

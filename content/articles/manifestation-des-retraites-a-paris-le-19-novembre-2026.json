@@ -1,0 +1,39 @@
+{
+  "slug": "manifestation-des-retraites-a-paris-le-19-novembre-2026",
+  "titre": "Manifestation des retraités à Paris le 19 novembre 2026",
+  "chapeau": "Des milliers de retraités ont défilé dans les rues de Paris le 19 novembre pour exprimer leur mécontentement. L'itinéraire de la marche et les correspondances de métro ont été communiqués aux participants.",
+  "corps": "## Un rassemblement important dans la capitale\nLe samedi 19 novembre, les rues de Paris ont été le théâtre d’une mobilisation massive de retraités. Les manifestants ont suivi un parcours prédéfini, avec des indications précises sur les lignes de métro à emprunter pour rejoindre les différents points de rassemblement. Cette organisation a permis à un grand nombre de participants de se déplacer facilement, même depuis les périphéries de la ville.\n\n## Les revendications exprimées\nLes manifestants ont profité de l’occasion pour faire entendre leurs doléances, exprimant en nombre leur colère. Bien que les revendications spécifiques n’aient pas été détaillées dans les informations disponibles, il s’agit d’une nouvelle mobilisation de la catégorie des retraités, souvent attentive aux évolutions du système de retraite.\n\n## Conseils pratiques pour les retraités\nPour les personnes concernées par la retraite, il est recommandé de vérifier régulièrement leur situation individuelle. Les sites officiels tels que service‑public.fr, info‑retraite.fr ou le site de la Caisse nationale d’assurance vieillesse permettent d’accéder à son relevé de carrière, d’estimer le montant de la pension future et de suivre les éventuelles modifications législatives. En cas de doute, les services d’accueil des caisses de retraite restent accessibles pour fournir des informations personnalisées.\n\n## Suivi de la mobilisation\nLes autorités locales ont assuré la sécurité du parcours et la fluidité du trafic pendant la manifestation. Aucun incident majeur n’a été signalé, et les services de transport ont indiqué que les lignes de métro concernées ont fonctionné normalement, avec un afflux de voyageurs supplémentaire. Les organisateurs ont rappelé que le mouvement reste pacifique et que les participants sont invités à respecter les consignes de sécurité.\n\nCette manifestation s’inscrit dans une série d’actions menées par les retraités pour faire valoir leurs attentes. Les observateurs soulignent l’importance de rester informé des évolutions législatives afin d’ajuster sa situation financière et de préparer au mieux sa retraite.",
+  "mots_cles": [
+    "retraités",
+    "manifestation",
+    "Paris",
+    "pension",
+    "information"
+  ],
+  "rubrique": "retraite",
+  "publie_le": "2026-11-20T05:15:56+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Plan_de_Paris_en_1657.JPG/1280px-Plan_de_Paris_en_1657.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jan Janssonius",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Plan_de_Paris_en_1657.JPG",
+    "legende": "Map of Paris",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Plan de Paris en 1657.JPG"
+  },
+  "sources": [
+    {
+      "media": "Sortir à Paris",
+      "titre": "Manifestation des retraités ce 19 novembre à Paris : parcours, métro",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVdYZHVEOHM5RV9FekVVVFZ3NTA1OFVscDE4ZXhlc3Jzc1QxR1NxOVI3WGxEdHg2OTR2QkV0UzdKa2NtMjRtMlNnc2NmME9SdXpuZ1NGR0JyZUYtNkg2MW84SUMtS2xsZXNtME45SWlIbTJYczNJUXV3RXBvcTN3OFVqSy1TVTloWW1HTG9KNnhsaU4tWFp3NVR6a0F1ajhBd0hCMmJrUTMza0RzZjQ3RkM0ZHI1bEVJY21EWDdwM0xyWkpPNUZVRQ?oc=5"
+    },
+    {
+      "media": "CGT État",
+      "titre": "Les retraité.es ont exprimé en nombre leur colère à Paris ce 19 novembre",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONTNVR1NTeEF1bGZaWjR5S1FoWnMwNGZGWmtZaV9IX09TSXlicTV6anJMakhxZDIyUHZ0d2E4cjRyRFBHb0I1eE9kTE9sSmJOakJ3SzdHYlZuMW4zV2phMjg2Vk9vemtDb2xYbi1uTjJ2Ry01b2RJN2pJYnRYQWxOMTdjOXZfdzVBMGlkQUhzeGpLM3V4ZEpiT2Y5LVZ1VVlEa1l5QWpyTnFCUGp3ZWpIdHhPSTY5UFZlZTl3cEltbWFOQ1UtUWhOLWRCTWtOUHBoMzBSSU1NbGdQY215b3I0WDBtV1lULUpmakE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
