@@ -44,5 +44,24 @@
     "titres_sources": [
       "Limiter la vitesse sur les autoroutes à 80 km/h : ça se précise pour contrer la hausse du prix du carburant"
     ]
+  },
+  {
+    "titre": "Avis de fiabilité des Caisses d'Épargne Rhône Alpes et Île‑de‑France",
+    "texte": "La Caisse d'Épargne Rhône Alpes et Île‑de‑France ont publié un avis sur leur solidité en cas de faillite. Ils indiquent que le Livret A reste garanti, que les parts sociales des SLE sont concernées et que frais de succession s’appliqueront en 2027, recours prévu en 2026.",
+    "rubrique": "placements",
+    "publie_le": "2026-11-20T08:00:25+00:00",
+    "titres_sources": [
+      "Caisse d'Épargne Rhône Alpes (CERA) avis : banque fiable ou pas en cas de faillite ? Livret A garanti à part, parts sociales des SLE, service succession, frais 2027 et recours (2026)",
+      "Caisse d'Épargne Île-de-France (CEIDF) avis : banque fiable ou pas en cas de faillite ? Livret A garanti à part, parts sociales des SLE, frais de succession 2027 et recours (2026)"
+    ]
+  },
+  {
+    "titre": "Annulation de la grève du transport de carburants",
+    "texte": "Les autorités ont indiqué que la grève du transport de carburants était annulée. Cette décision devrait permettre aux automobilistes de reprendre leurs déplacements sans interruption.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-20T08:00:25+00:00",
+    "titres_sources": [
+      "Bonne nouvelle pour les automobilistes : la grève du transport des carburants annulée !"
+    ]
   }
 ]
