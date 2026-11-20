@@ -225,5 +225,26 @@
       "Retraites : la réforme du RN, un net durcissement pour les carrières hachées",
       "Réforme des retraites du RN : « Les grands perdants seront les carrières hachées et donc les femmes », des économistes jugent le projet de Marine Le Pen"
     ]
+  },
+  {
+    "titre": "Projet d’éco‑quartier à La Plaine‑sur‑Mer",
+    "texte": "Un nouveau programme immobilier prévoit la création d’un éco‑quartier composé de petits hameaux à La Plaine‑sur‑Mer. Le projet vise à favoriser le développement durable sur le territoire.",
+    "rubrique": "immobilier",
+    "publie_le": "2026-11-20T15:39:55+00:00",
+    "titres_sources": [
+      "Un projet immobilier conçu comme un écoquartier de petits hameaux à La Plaine-sur-Mer",
+      "Un projet immobilier conçu comme un écoquartier de petits hameaux à La Plaine-sur-Mer"
+    ]
+  },
+  {
+    "titre": "Certaines actions françaises en hausse malgré le CAC 40",
+    "texte": "Les titres d’Orange, Vinci et Sanofi affichent respectivement +6,5 %, +4,9 % et +20 % sur un mois, progressant à contre‑courant du principal indice boursier. Cette dynamique reflète une résistance sectorielle face à la baisse du CAC 40.",
+    "rubrique": "placements",
+    "publie_le": "2026-11-20T15:39:55+00:00",
+    "titres_sources": [
+      "L'action Orange résiste et signe +6,5 % sur un mois à contre-courant du CAC 40",
+      "L'action Vinci résiste au CAC 40 en plein décrochage de l'IA, +4,9 % sur un mois",
+      "L'action Sanofi en tête du CAC 40, +20 % sur un mois à contre-courant"
+    ]
   }
 ]
