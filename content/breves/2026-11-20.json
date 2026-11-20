@@ -167,5 +167,25 @@
       "L'action Legrand, parmi les plus fortes baisses du CAC 40, cède 3,5 %",
       "L'action BNP Paribas, parmi les plus fortes baisses du CAC 40, lâche 15,5 % en trois mois"
     ]
+  },
+  {
+    "titre": "Retraite à 62 ans : Farandou critique le projet de Le Pen",
+    "texte": "Jean‑Pierre Farandou aurait critiqué le projet de Marine Le Pen visant à fixer l’âge légal de la retraite à 62 ans, le qualifiant de « trompe‑l’œil ». Il estime que la plupart des Français préfèreraient partir à 65 ans, qualifiant la mesure de « produit d’appel ».",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-20T13:27:58+00:00",
+    "titres_sources": [
+      "Retraites à 62 ans : Jean-Pierre Farandou dénonce le projet « en trompe-l’œil » de Marine Le Pen",
+      "La retraite à 60 ou 62 ans est un \"produit d'appel\": Jean-Pierre Farandou critique la réforme de Marine Le Pen et estime qu'elle ferait partir la plupart des Français plutôt à 65 ans"
+    ]
+  },
+  {
+    "titre": "Grève dans une entreprise du Maine-et-Loire contre des propositions indécentes",
+    "texte": "Des salariés d’une entreprise du Maine‑et‑Loire se seraient mis en grève, estimant les propositions qui leur sont faites indécentes. Cette mobilisation vise à contester ces mesures jugées inacceptables par les employés.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-20T13:27:58+00:00",
+    "titres_sources": [
+      "Face à des propositions jugées « indécentes », les salariés de cette entreprise de Maine-et-Loire se mettent en grève",
+      "Face à des propositions jugées « indécentes », les salariés de cette entreprise de Maine-et-Loire se mettent en grève"
+    ]
   }
 ]
