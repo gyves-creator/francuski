@@ -116,5 +116,25 @@
       "Commerces dégradés lors des manifestations : une aide jusqu'à 10.000 euros publiée au Journal officiel",
       "Commerces endommagés lors des manifestations : les modalités de l’aide pouvant aller jusqu’à 10 000 euros publiées au « Journal officiel »"
     ]
+  },
+  {
+    "titre": "Déclaration obligatoire des portefeuilles crypto >5 000 € au budget 2027",
+    "texte": "Le projet de loi de finances 2027 envisagerait d’obliger les contribuables à déclarer les portefeuilles de cryptomonnaies dont la valeur dépasse 5 000 €. Cette mesure viserait à renforcer la transparence fiscale.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-20T10:44:16+00:00",
+    "titres_sources": [
+      "Budget 2027 : faudra-t-il déclarer au fisc ses portefeuilles crypto de plus de 5 000 euros ?",
+      "Budget 2027 : faudra-t-il déclarer au fisc ses portefeuilles crypto de plus de 5 000 euros ?"
+    ]
+  },
+  {
+    "titre": "Prolongation de l’encadrement des loyers pour deux ans supplémentaires",
+    "texte": "Le Parlement a prolongé l’encadrement des loyers de deux ans, maintenant le plafonnement pour 1,2 million de locataires. La Fnaim, qui n’est pas surprise, estime toutefois que la mesure reste largement contestable.",
+    "rubrique": "immobilier",
+    "publie_le": "2026-11-20T10:44:16+00:00",
+    "titres_sources": [
+      "La Fnaim \"n'est pas étonnée\" du prolongement de l'encadrement des loyers mais estime que \"cette mesure est largement contestable\"",
+      "La Fnaim \"n'est pas étonnée\" du prolongement de l'encadrement des loyers mais estime que \"cette mesure est largement contestable\""
+    ]
   }
 ]
