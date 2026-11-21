@@ -1,0 +1,39 @@
+{
+  "slug": "cote-d-ivoire-invitee-d-honneur-au-salon-des-banques-et-pme-a-conakry",
+  "titre": "Côte d’Ivoire invitée d’honneur au Salon des banques et PME à Conakry",
+  "chapeau": "Côte d’Ivoire sera mise à l’honneur lors du Salon des banques et des PME organisé à Conakry. Kalil Konaté, porte‑parole du Premier ministre Mambé, présentera les priorités des PME ivoiriennes.",
+  "corps": "## Un événement panafricain dédié aux PME\nLe Salon des banques et des PME (SBPME) se tient cette année à Conakry, capitale de la Guinée, et réunit des acteurs du secteur bancaire ainsi que des petites et moyennes entreprises de la région. L’objectif affiché est de favoriser les échanges entre institutions financières et entrepreneurs, de présenter des solutions de financement et de partager des bonnes pratiques pour le développement des entreprises.\n\n## La Côte d’Ivoire, pays invité d’honneur\nDans le cadre de cette édition, la Côte d’Ivoire a été désignée pays invité d’honneur. Cette mise en avant vise à souligner le dynamisme de l’économie ivoirienne et à encourager les partenariats entre les entreprises ivoiriennes et les banques guinéennes ou d’autres pays participants. Kalil Konaté a été désigné pour porter la voix des PME de Côte d’Ivoire lors du salon, en se présentant comme le représentant du Premier ministre Mambé.\n\n## Quels enjeux pour les PME ivoiriennes ?\nKalil Konaté a indiqué que la participation au SBPME 2026 permettra de mettre en lumière les besoins de financement des PME ivoiriennes, d’identifier les opportunités de coopération régionale et d’attirer des investisseurs. Les entreprises intéressées peuvent suivre les annonces officielles du ministère du Commerce et de l’Industrie ivoirien ou consulter le site du salon pour connaître les programmes de rencontres et les ateliers prévus.\n\n## Comment les entrepreneurs peuvent se préparer\nLes chefs d’entreprise souhaitant profiter de l’événement sont invités à vérifier leur inscription auprès des organisateurs du salon, à préparer une présentation claire de leurs projets et à se renseigner sur les critères d’éligibilité aux dispositifs de financement présentés. Les informations détaillées sont généralement disponibles sur le site officiel du SBPME ou auprès des chambres de commerce locales.\n\nEn résumé, le salon constitue une plateforme d’échanges importante pour les PME africaines, avec une visibilité particulière accordée à la Côte d’Ivoire grâce à la présence de Kalil Konaté en tant que porte‑parole du gouvernement ivoirien.",
+  "mots_cles": [
+    "PME",
+    "Côte d'Ivoire",
+    "Conakry",
+    "Salon des banques",
+    "entreprises africaines"
+  ],
+  "rubrique": "entreprise",
+  "publie_le": "2026-11-21T16:58:16+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Boutique_de_commerce_g%C3%A9n%C3%A9ral_%C3%A0_Av%C3%A9dzi.jpg/1280px-Boutique_de_commerce_g%C3%A9n%C3%A9ral_%C3%A0_Av%C3%A9dzi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kondesso",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Boutique_de_commerce_g%C3%A9n%C3%A9ral_%C3%A0_Av%C3%A9dzi.jpg",
+    "legende": "This is an image with the theme \" Home + Habitat in Africa \" from:",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Boutique de commerce général à Avédzi.jpg"
+  },
+  "sources": [
+    {
+      "media": "AIP - Agence Ivoirienne de Presse",
+      "titre": "AIP/ Salon des banques et des PME : la Côte d’Ivoire, pays invité d’honneur à Conakry, Kalil Konaté représente le Premier ministre Mambé - AIP",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbk9hdlJfUmlMSkpvVm1wSWZqUlRVY1FGTnRFRmJWSFVnbHV5ZXBZRlE2bzBSbERIQWxhUHVMQXBtVklFcUNnRlhQbGNiWDNmejF6VkNNRDlhSDZicGplTGpwNGFqQmhmMGJpQ2d5SGFTYWk3ZHo1d2ZLU19LaDVDODFQMF9XODJtWTNOSi1iQ0p0ZVNBbkZIVWpQSFEyMVNqR2JSWUdOZ05FQ1dSQWJ6aEM2R1NQZGwxMVEtM0FEV1V4T21aai1rNllTdDNiT09kNExBTFhkZFp4WExhQm1xNm5yRQ?oc=5"
+    },
+    {
+      "media": "Linfodrome",
+      "titre": "Conakry : Kalil Konaté porte la voix des PME de Côte d'Ivoire au SBPME 2026",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3hUTkJ2ZkZYWFBYd0EzSFo1bks1bzRoX1ZUbkhWeEF0RXFKczJGVkRuRktSOWp2VzR2RXBfSXlwVTUzWGlzaVNJMC1WblJqR1oyWnQ2QlJZQ294V2pkRTRHS3NOaGdkUF90cDVSNl9WTHpkLUxnZExBc1lRVWxGZExMRUxueTFnMWFucnR3Q2s3V0hOM2hNZHk4ZFpQZU4wcVpzUGV6cDZsS0Z3VWw2WGFKVEFjTFE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
