@@ -1,0 +1,38 @@
+{
+  "slug": "droit-au-logement-reclame-un-renforcement-de-l-encadrement-des-loyers",
+  "titre": "Droit au logement réclame un renforcement de l'encadrement des loyers",
+  "chapeau": "L'association Droit au logement demande un durcissement de l'encadrement des loyers et une hausse de la construction de logements sociaux, inscrits dans l'« Acte VI » de la mobilisation contre la vie chère. Son porte‑parole, Jean‑Baptiste Eyraud, qualifie d'« criminel » un amendement relatif aux passoires thermiques.",
+  "corps": "## Des revendications centrées sur le logement\nL'association Droit au logement place le logement au cœur de son programme de lutte contre la hausse du coût de la vie. Elle milite pour un encadrement plus strict des loyers, afin de limiter les augmentations excessives qui pèsent sur les locataires, notamment les ménages modestes. Parallèlement, elle réclame le développement de nouvelles constructions de logements sociaux, jugées indispensables pour offrir des alternatives abordables sur le parc locatif. Ces deux axes s’inscrivent dans le cadre de l'« Acte VI », phase de la mobilisation nationale visant à contrer la pression financière qui se fait sentir sur les foyers.\n\nL'association critique également un amendement portant sur les « passoires thermiques », c’est‑à‑dire les logements dont la performance énergétique est très faible. Le porte‑parole, Jean‑Baptiste Eyraud, a qualifié cet amendement de « criminel », estimant qu’il ne répond pas aux exigences de lutte contre la précarité énergétique et pourrait aggraver les difficultés des locataires confrontés à des factures de chauffage élevées.\n\n## Vérifier sa situation et les dispositifs existants\nPour les locataires souhaitant connaître les règles d’encadrement des loyers applicables dans leur zone, le site service‑public.fr propose un guide détaillé et indique les plafonds en vigueur selon la localisation du logement. Les informations relatives aux aides à la rénovation énergétique, notamment pour les logements classés « passoires thermiques », sont consultables sur le portail officiel du ministère de la Transition écologique ou sur le site officiel du gouvernement dédié à la rénovation.\n\nLes personnes intéressées par le logement social peuvent se rapprocher de leur mairie ou de la caisse d'allocations familiales (CAF) pour connaître les critères d’éligibilité et les démarches d’inscription. Les listes d’attente et les critères de priorité sont généralement publiés sur les sites des offices publics de l’habitat (OPH) ou des collectivités locales.\n\nEn cas de doute ou pour obtenir un accompagnement personnalisé, il est recommandé de prendre contact avec les services d’information du public (Info‑Logement) ou de consulter les fiches pratiques disponibles sur le site officiel du service public. Ces ressources permettent de vérifier les droits, les plafonds de loyer et les possibilités d’aides, tout en restant informé des évolutions législatives en cours.",
+  "mots_cles": [
+    "logement",
+    "encadrement des loyers",
+    "logement social",
+    "passoires thermiques"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-21T10:58:56+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Droit_au_logement_%2853692184586%29.jpg/1280px-Droit_au_logement_%2853692184586%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jeanne Menjoulet from Paris, France",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Droit_au_logement_(53692184586).jpg",
+    "legende": "Manifestation du 1er mai 2024 à Paris",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Droit au logement (53692184586).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo",
+      "titre": "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\"",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeUV2QXE5dmNhMmxvUjAweGhjZHZIaW9USlV4ZzFweUFFZDZmLXVMWWVwclZjU1ZWd0RhWnlQVExjUzlEZGtkZ2NPZmtWN0wwMDNTN2FRbVFtU3pyNVE4ZWJ2UGd3Slotckl1eDFHczZFXzdMZVRyRGdMOHZxOHd0aVhObUtNY3lsYVVIaEo5MllyZVFnaE1yYTBzNS1UU1FOWWNOdDNEcm1UWGg5S0d4N3d1ZkZDNGhpSlFOd29oNlZYZ2dSdnlLYnpqWjJVQXAyY1RlTXRoYjlOXzl4YUFYR3lUNWVFWmtBeWxMeU5jeng1WUMtYml2UTRBMEtJc3RS?oc=5"
+    },
+    {
+      "media": "franceinfo- Immobilier",
+      "titre": "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\"",
+      "url": "https://www.franceinfo.fr/societe/manifestations/l-association-droit-au-logement-appelle-a-renforcer-l-encadrement-des-loyers-et-a-produire-du-logement-social_8293607.html#xtor=RSS-3-%5Beconomie%2Fimmobilier%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}

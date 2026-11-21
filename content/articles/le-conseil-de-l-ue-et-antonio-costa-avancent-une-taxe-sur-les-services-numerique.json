@@ -1,0 +1,38 @@
+{
+  "slug": "le-conseil-de-l-ue-et-antonio-costa-avancent-une-taxe-sur-les-services-numerique",
+  "titre": "Le Conseil de l'UE et Antonio Costa avancent une taxe sur les services numériques",
+  "chapeau": "Le Conseil de l'Union européenne a présenté une proposition de nouvelle taxe ciblant les services numériques dans le cadre du budget européen. Antonio Costa, président du Conseil, soutient également l'idée d'imposer les grandes entreprises du secteur numérique.",
+  "corps": "## Une proposition du Conseil européen\nLe Conseil de l'Union européenne a introduit, dans le texte budgétaire en cours d'examen, une mesure visant à instaurer une taxe spécifique sur les services numériques. Cette initiative s'inscrit dans le débat plus large sur la fiscalité des acteurs du numérique, qui bénéficient d'une forte présence sur les marchés européens sans être toujours soumise à une imposition proportionnelle à leurs activités locales. La proposition reste à l'étape de discussion et n'est pas encore adoptée. Les États membres devront examiner les modalités d'application, les critères d'éligibilité et les éventuels seuils de chiffre d'affaires avant toute mise en œuvre.\n\n## Le soutien d'Antonio Costa\nParallèlement, Antonio Costa, à la tête du Conseil, a exprimé son appui à l'introduction d'une taxe ciblant les grandes entreprises numériques. Son discours, prononcé dans le cadre des négociations budgétaires, souligne la volonté de garantir une contribution plus équitable des acteurs du numérique aux finances publiques de l'UE. Cette proposition, également présentée comme une mesure budgétaire, n'est pour l'heure qu'une intention politique et doit encore être validée par le Parlement européen et les autres institutions concernées.\n\n## Conséquences potentielles pour les entreprises et les usagers\nSi ces propositions étaient adoptées, les sociétés offrant des services en ligne – plateformes de streaming, moteurs de recherche, réseaux sociaux, etc. – pourraient voir leurs obligations fiscales augmenter. Les entreprises concernées seraient tenues de déclarer leurs revenus générés dans l'Union et de s'acquitter de la taxe selon les modalités qui seraient définies lors de la phase législative. Pour les consommateurs, le transfert de coût pourrait se traduire par une hausse des prix des services numériques, bien que les effets exacts dépendraient de la manière dont chaque entreprise répercuterait la charge fiscale.\n\n## Comment suivre l'évolution de la mesure\nLes contribuables et les professionnels du secteur numérique peuvent suivre l'avancement de la proposition en consultant les sites officiels de l'Union européenne, notamment le portail du Conseil (consilium.europa.eu) et le site du Parlement européen. Les publications officielles indiqueront les dates de vote, les textes adoptés et les éventuelles modifications apportées aux projets de loi. En cas d'adoption, les services fiscaux nationaux publieront les modalités d'application locales, permettant aux entreprises de vérifier leur situation et de se préparer aux nouvelles obligations.",
+  "mots_cles": [
+    "taxe numérique",
+    "Union européenne",
+    "budget",
+    "entreprises digitales"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-21T10:58:59+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/European_Council_%2838185339475%29.jpg/1280px-European_Council_%2838185339475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "EU2017EE Estonian Presidency",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:European_Council_(38185339475).jpg",
+    "legende": "Photo: Tauno Tõhk (EU2017EE)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:European Council (38185339475).jpg"
+  },
+  "sources": [
+    {
+      "media": "Les Echos",
+      "titre": "Budget de l'Union européenne : le Conseil propose une nouvelle taxe sur les services numériques",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFctWmJIMm84aVRZTjNyQlo5S3dHSWFxUTlmUEZPX1BCbHZjYnM5WG1Ncy1SWlA1QUpmc1hKQ2t4SFhKcE9jUmppQ2RYUklRblpvRnhnVU9qcTNGX3AwYkEzRHY5ZmgzS2I3SE1wcjdzWllpWHV3OWRkcEVLV2ttQXRiNGZZR0liVThhZ2xoU1dwZ01ERnFFZGlEbEJQcndGWldfdmVnbldkQVpVR2g2RTNXck5QRWhBN3M0NTVsd083aTVxclVrUHRfNmhqdlFTbUNB?oc=5"
+    },
+    {
+      "media": "TradingView",
+      "titre": "Budget de l'UE : Antonio Costa propose une nouvelle taxe sur les grandes entreprises numériques",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05UTQydTdBWkJwb3lleDVabkxRaGlBakRqMW5JZlIxa0Rma1k2SXdWc3h3RVZ4anpsMVlGVjlCcDVkQzlvZVpKNDJFSFNhSFd4cnJVc1pwTGtHMjUyY2RodWJB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
