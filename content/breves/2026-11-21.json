@@ -125,5 +125,23 @@
       "Capitalisation : votre retraite placée en bourse ?",
       "Capitalisation : votre retraite placée en bourse ?"
     ]
+  },
+  {
+    "titre": "Paris rejette le projet de budget européen 2028-2034",
+    "texte": "Selon l’Élysée, Paris aurait refusé le nouveau projet de budget de l’UE, prévoyant 204 milliards d’euros et une taxe numérique, présenté samedi par le président du Conseil européen. Le gouvernement le qualifierait de très décevant.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-21T11:29:34+00:00",
+    "titres_sources": [
+      "Budget de l’UE : Paris rejette le nouveau projet qui prévoit 204 milliards d'euros et une taxe numérique"
+    ]
+  },
+  {
+    "titre": "Cdiscount propose des avantages aux vendeurs Made in France",
+    "texte": "Cdiscount annoncerait des conditions préférentielles pour les entreprises françaises du Made in France inscrites sur sa plateforme. Pendant les six premiers mois, l’abonnement serait gratuit et les commissions réduites de moitié.",
+    "rubrique": "entreprise",
+    "publie_le": "2026-11-21T11:29:34+00:00",
+    "titres_sources": [
+      "Cdiscount propose des offres avantageuses aux entreprises du Made in France"
+    ]
   }
 ]
