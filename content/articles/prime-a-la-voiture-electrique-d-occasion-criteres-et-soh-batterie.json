@@ -1,0 +1,43 @@
+{
+  "slug": "prime-a-la-voiture-electrique-d-occasion-criteres-et-soh-batterie",
+  "titre": "Prime à la voiture électrique d'occasion : critères et SOH batterie",
+  "chapeau": "Une nouvelle prime pour les véhicules électriques d’occasion est conditionnée à la date d’immatriculation inscrite sur le bon de commande avant le 23 novembre. Le critère de santé de la batterie (SOH) ne doit pas être confondu avec l’autonomie affichée du véhicule.",
+  "corps": "## Conditions d’éligibilité à la prime\nLa mesure annoncée indique que moins d’un véhicule sur deux mis en circulation pourra prétendre à la nouvelle prime. L’éligibilité dépend principalement de la date d’immatriculation du véhicule, qui sert de critère de sélection. Les acquéreurs de voitures électriques d’occasion doivent donc vérifier que la date inscrite sur le certificat d’immatriculation correspond aux exigences du dispositif.\n\n## Date à mentionner sur le bon de commande\nPour bénéficier de la prime, la date d’immatriculation doit être reportée sur le bon de commande avant le lundi 23 novembre. Cette formalité doit être réalisée lors de la conclusion de la vente, afin que l’administration puisse la prendre en compte dans le traitement du dossier. Les vendeurs et les acheteurs sont invités à s’assurer que la mention est correctement renseignée.\n\n## Comprendre le SOH de la batterie\nLe \"State of Health\" (SOH) d’une batterie désigne son état de dégradation par rapport à son état neuf. Il s’agit d’un indicateur technique qui ne correspond pas directement à l’autonomie affichée du véhicule. Ainsi, un véhicule peut afficher une autonomie suffisante tout en présentant un SOH inférieur, ce qui influence la valeur résiduelle et la durée de vie restante de la batterie. Les acheteurs sont encouragés à demander un diagnostic de la batterie auprès d’un professionnel afin de connaître le SOH réel avant de finaliser l’achat.\n\n## Vérifier sa situation\nLes personnes concernées peuvent consulter les informations officielles sur le site service-public.fr ou se rapprocher de la préfecture compétente pour confirmer l’éligibilité à la prime. Un contrôle du certificat d’immatriculation et un rapport de santé de la batterie permettent de s’assurer que le véhicule répond aux critères requis.",
+  "mots_cles": [
+    "prime",
+    "voiture électrique",
+    "occasion",
+    "SOH batterie"
+  ],
+  "rubrique": "auto",
+  "publie_le": "2026-11-21T15:00:49+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Renault_Zoe_charging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "werner hillebrand-hansen",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Renault_Zoe_charging.jpg",
+    "legende": "Renault Zoe all-electric car charging at a on-street charging station",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Renault Zoe charging.jpg"
+  },
+  "sources": [
+    {
+      "media": "JeChange",
+      "titre": "Voiture électrique d'occasion : moins d'1 sur 2 peut prétendre à la nouvelle prime, la date d'immatriculation fait le tri",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlV0OVNJTzJJdFhaSVNxNDVueG10RHF2eTRObEVqaWRiRWVzZlBtUFFJVGY3bTdIdDdLSWQyS1lxb0N1cmFIaHE1dkpTeUZ2T3BDTGQ1djNtWFdLYTRoN1hKblN1Y1ZZTXJRVi1KWEtza2tKMDd1dEFhbEs1a2thNVc0VFZTZjI2TWJLeE1mLXJ1SWtscWpnTnlNa0o3LXFRclpoTjRteHo3U25aTkpVWU9B?oc=5"
+    },
+    {
+      "media": "Selectra",
+      "titre": "Prime voiture électrique : la date à faire écrire sur le bon de commande avant lundi 23 novembre",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQzQtUHNsaXNYM0ljdHBiOVJCV29qdTZNX2VzNjNFTWpYYWozQzF6WW1SSWJHLU94V204c3J6akxPQXkybkdLcndueW5Ld1RmM1JCZXdOd08yWjYxYk84TTVjTW9OQTF6Zkt1emZUdURZZWtyV0h5bDR6XzVGeDR3cXFwU2MtcWxKSnJqR2t5V1E?oc=5"
+    },
+    {
+      "media": "L'Automobiliste",
+      "titre": "Voiture électrique d’occasion : le SOH de la batterie ne se confond pas avec l’autonomie",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2hBMEc1ZTBURE8zTUpPOS1fbFoxSjNhYWVJekZiaUZkQU5NcGwyd2N0ekZ4d1JxbWFJQVFFWERYUkxtS1JGMlVIMDR3Mkw3b3lwX0FvbXpWaDc0VjN1Y01hY0hSclRIbHdkYkFxa1MyMnllUjc3VGd4aGFJb3prNlQ0MTNXQXl1U2kwcE1PUmdpd2ZBZUxIQ29jbV9LVzdyeVlqeVRTdzRzTW5sQllWUHJ5RUtncUdmQVpBYnhB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 3
+}
