@@ -103,5 +103,27 @@
       "CAC 40 : −5,27 % cette semaine, que faire lundi ?",
       "CAC 40 : les grands perdants de la semaine"
     ]
+  },
+  {
+    "titre": "La Banque centrale réfute la taxe de 12 % sur l’épargne",
+    "texte": "La Banque centrale a déclaré qu'aucune taxe de 12 % n'est prévue sur l'épargne des particuliers. Cette précision met fin aux rumeurs circulant récemment.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-21T10:31:53+00:00",
+    "titres_sources": [
+      "Taxe de 12% sur l’épargne : la BCT dément la rumeur",
+      "La BCT dément toute taxe de 12% sur l’épargne",
+      "Vers une hausse de la taxe municipale?",
+      "La Banque centrale dément toute taxe sur l’épargne"
+    ]
+  },
+  {
+    "titre": "Le débat sur la retraite par capitalisation relancé",
+    "texte": "Le principe de placer une partie des cotisations de retraite en actions revient sur la scène électorale, les candidats à la présidentielle en faisant régulièrement la promotion. Aucun dispositif n'est encore adopté.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-21T10:31:53+00:00",
+    "titres_sources": [
+      "Capitalisation : votre retraite placée en bourse ?",
+      "Capitalisation : votre retraite placée en bourse ?"
+    ]
   }
 ]
