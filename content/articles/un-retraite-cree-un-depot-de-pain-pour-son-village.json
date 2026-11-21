@@ -1,0 +1,34 @@
+{
+  "slug": "un-retraite-cree-un-depot-de-pain-pour-son-village",
+  "titre": "Un retraité crée un dépôt de pain pour son village",
+  "chapeau": "Dans un petit village français, un senior a transformé son domicile en point de distribution de pain. Cette initiative montre comment les retraités peuvent mobiliser leurs ressources pour soutenir la vie locale.",
+  "corps": "## Un projet né de la convivialité\nUn habitant retraité a décidé d'ouvrir un dépôt de pain chez lui, invitant les habitants du village à venir se procurer du pain quotidiennement. L'objectif affiché est de faciliter l'accès à ce produit de première nécessité, tout en renforçant les liens de voisinage. Le retraité a indiqué que le fait d'accueillir du monde lui procure du plaisir, soulignant l'aspect social de l'action.\n\n## Pourquoi les retraités s'engagent-ils dans ce type d'initiative ?\nLes personnes âgées disposent souvent de davantage de temps libre que les actifs, ce qui leur permet de s'investir dans des projets communautaires. Le volontariat et les actions locales sont fréquemment cités comme des moyens de rester actif, d'apporter une contribution concrète à la collectivité et de lutter contre l'isolement. Dans de nombreuses communes, les associations de retraités jouent un rôle clé dans l'organisation d'événements, la mise à disposition de services de proximité ou le soutien aux personnes en difficulté.\n\n## Impacts potentiels pour le budget des ménages\nUn dépôt de pain gratuit ou à prix modéré peut alléger les dépenses alimentaires des foyers, notamment ceux aux revenus modestes. En réduisant le besoin d'acheter du pain dans les commerces, les ménages peuvent réaffecter une partie de leur budget à d'autres postes de dépense. Les habitants intéressés peuvent se renseigner auprès de la mairie ou du centre communal d'action sociale (CCAS) pour connaître les modalités d'accès et les éventuelles aides complémentaires.\n\n## Comment vérifier son éligibilité et soutenir l'initiative\nLes résidents souhaitant profiter du dépôt de pain peuvent se rendre directement au domicile indiqué ou contacter les services municipaux pour obtenir les horaires d'ouverture. Pour ceux qui désirent participer ou proposer un soutien matériel, les points de contact habituels sont le service des affaires sociales de la commune ou le site officiel de la collectivité. Les informations pratiques sont généralement publiées sur le site de la mairie ou accessibles via le numéro d'information local.\n\nCette démarche illustre comment l'expérience et la disponibilité des retraités peuvent être mises au service du bien commun, créant des solutions de proximité qui profitent à l'ensemble de la communauté.",
+  "mots_cles": [
+    "retraite",
+    "volontariat",
+    "département de pain",
+    "vie locale",
+    "budget ménage"
+  ],
+  "rubrique": "retraite",
+  "publie_le": "2026-11-21T06:07:04+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Retrait%C3%A9s_9_janvier_1000359.jpg/1280px-Retrait%C3%A9s_9_janvier_1000359.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "G.Garitan",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Retrait%C3%A9s_9_janvier_1000359.jpg",
+    "legende": "manifestation contre la réforme des retraites à Reims. Thomas Rose militant CGT et LO micro en mains à droite de l'image.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Retraités 9 janvier 1000359.jpg"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "« Ça me fait plaisir de recevoir du monde » : retraité, il ouvre un dépôt de pain chez lui, dans son petit village",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcExVbUNnRzBSV2pJM1NWdWcxNWNZcjNkNmx3dFRNenBuNHJjeXVvd01Ha0dvYmNUc0drMWdFTlBrWGlqUHYwN2x1LWJrVENuUmw0eXpIR2lCTFJNNmx6T0JYQkRhSHdQeWQzcG9QNE1HdDZKWlh4S041QW55al9RdXI1QllyWEs2cEpuZUJIelFNY0JLRXI3Sjd1U2E0M3FCbTBkaGgzWEEtX21kcWhDbWNoY3Fhb05BUGhVQkFuOWpBaUp2b1RlajdZQ0JBWHYybDBQNkZHS0NfLUliWmJsb2lXeTdYOEg4ZHAwTkFZekdXUlVZNGpCMWV5X3d5NFlVdjhELWF4MXRQd1lfOVJuNVFjcjJhVFU5?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}
