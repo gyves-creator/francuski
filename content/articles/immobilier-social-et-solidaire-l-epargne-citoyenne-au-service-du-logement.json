@@ -1,0 +1,38 @@
+{
+  "slug": "immobilier-social-et-solidaire-l-epargne-citoyenne-au-service-du-logement",
+  "titre": "Immobilier social et solidaire : l’épargne citoyenne au service du logement",
+  "chapeau": "L’immobilier social et solidaire se développe comme une alternative d’investissement au profit du logement abordable. Cette forme d’épargne citoyenne permet de financer des projets de rénovation ou de construction de habitats collectifs.",
+  "corps": "## Un modèle qui se démarque\nL’immobilier social et solidaire regroupe des projets immobiliers à vocation non lucrative, destinés à offrir des logements à loyers maîtrisés ou à répondre à des besoins spécifiques (logement étudiant, seniors, personnes en situation de précarité). Contrairement aux opérations classiques du marché privé, les financements proviennent d’investisseurs particuliers qui souhaitent placer leur argent dans une démarche d’intérêt général. Cette logique d’épargne citoyenne s’appuie sur des structures telles que les coopératives d’habitants, les associations ou les fonds dédiés à la solidarité.\n\n## Qui peut participer et comment vérifier son éligibilité\nToute personne disposant d’un capital disponible peut, en principe, souscrire à ce type d’investissement, sous réserve des conditions fixées par l’organisme gestionnaire. Les projets sont souvent présentés sous forme de parts sociales ou de prêts à taux préférentiels. Les investisseurs intéressés sont invités à consulter les sites officiels comme service‑public.fr ou le portail dédié à l’habitat social afin d’identifier les dispositifs en cours, les critères d’éligibilité (revenus, plafonds de ressources, zones géographiques) et les démarches administratives à accomplir. Les informations sont également disponibles auprès des collectivités locales ou des organismes de logement social.\n\n## Un impact attendu sur le parc immobilier\nLe financement participatif de l’immobilier solidaire vise à revitaliser des bâtiments vacants, à créer de nouvelles résidences collectives ou à rénover des quartiers en difficulté. En mobilisant l’épargne citoyenne, ces projets peuvent réduire la dépendance aux financements bancaires classiques et offrir des loyers plus accessibles. Le modèle encourage également la mixité sociale, en permettant à des ménages aux revenus variés d’accéder à un même ensemble de logements.\n\n## Perspectives de développement\nLes acteurs du secteur soulignent que le modèle reste à développer et que de nouvelles initiatives sont attendues pour élargir l’offre. Les collectivités locales, les associations et les fonds publics sont appelés à renforcer leur coopération afin de faciliter l’accès à ces placements solidaires. Les observateurs indiquent que la visibilité des projets et la transparence des mécanismes de financement sont des leviers essentiels pour inciter davantage d’épargnants à s’engager.\n\nEn résumé, l’immobilier social et solidaire représente une voie d’investissement qui conjugue rendement modéré et impact social, en répondant aux besoins de logement abordable tout en mobilisant l’épargne des citoyens.",
+  "mots_cles": [
+    "immobilier solidaire",
+    "épargne citoyenne",
+    "logement abordable",
+    "investissement social"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-21T19:00:51+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Immeubles_Ind.JPG/1280px-Immeubles_Ind.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "FLLL",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Immeubles_Ind.JPG",
+    "legende": "Rue des Immeubles-Industriels -near Place de la Nation in Paris- General view",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Immeubles Ind.JPG"
+  },
+  "sources": [
+    {
+      "media": "franceinfo",
+      "titre": "Immobilier solidaire : quand l’épargne citoyenne fait revivre de nouveaux lieux de vie",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX2FtRHBqcDVONGpTdEhyczRJdXZFajN5LXF1V2JpZHRjbDR5TUtmY1ZvN2JDRERSOEZUM1BaREthVHZiOERPLXI5LTA2ZGtUd1NiSTFlZ25YQkpIM0p3M1R2dFF0RGg4NHJlUXMyN0JhUVQ0aEI2bWZzR1RqeWIwNzFOTmxQcjFSRGRkRklMUHFkdG5lNmV1MVZSTW83UExfcTI0dEZoUlA4TWZJLWZxMkRQR3hHTnJtczZKR29CRVRIT1NGUXJfTnVTa3E3V1hiUXRpOFBWb3hjRkg2dHpoSHM2dGNHR0U?oc=5"
+    },
+    {
+      "media": "franceinfo- Immobilier",
+      "titre": "Immobilier solidaire : quand l’épargne citoyenne fait revivre de nouveaux lieux de vie",
+      "url": "https://www.franceinfo.fr/replay-radio/info-immobilier/immobilier-solidaire-quand-l-epargne-citoyenne-fait-revivre-de-nouveaux-lieux-de-vie_8271686.html#xtor=RSS-3-%5Beconomie%2Fimmobilier%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}

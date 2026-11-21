@@ -163,5 +163,16 @@
       "La police arrête une vingtaine d’automobilistes sous l’emprise de l’alcool, trois permis retirés",
       "Vingt et un automobilistes roulaient ivres, trois permis retirés"
     ]
+  },
+  {
+    "titre": "Le gouvernement envisage de supprimer l'abattement fiscal des retraités",
+    "texte": "Le gouvernement français prévoit de supprimer l'abattement fiscal dont bénéficient les retraités, ce qui réduirait leurs revenus nets. Cette mesure, présentée comme une correction d’une anomalie persistante, suscite des inquiétudes parmi les seniors.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-21T19:01:20+00:00",
+    "titres_sources": [
+      "« Une anomalie qui dure depuis longtemps » : le gouvernement veut supprimer l'abattement fiscal des retraités",
+      "Retraité, ce que vous pourriez vraiment perdre si l'abattement fiscal était supprimé, comme le veut le gouvernement",
+      "Retraité, ce que vous pourriez vraiment perdre si l'abattement fiscal était supprimé, comme le veut le gouvernement"
+    ]
   }
 ]
