@@ -1,0 +1,39 @@
+{
+  "slug": "economiste-de-la-construction-un-levier-d-economie-pour-les-coproprietes",
+  "titre": "Économiste de la construction : un levier d’économie pour les copropriétés",
+  "chapeau": "Un professionnel de l’analyse des devis permet à certaines copropriétés d’économiser jusqu’à 425 000 €, selon des témoignages récents. Pourtant, son recours se heurte à des réticences de la part de certains syndics et maîtres d’œuvre.",
+  "corps": "## Un métier encore méconnu mais décisif\nL’économiste de la construction, spécialisé dans l’étude détaillée des devis et des métrages, intervient désormais davantage dans les projets de rénovation de copropriété. Son rôle consiste à vérifier la cohérence des offres, à identifier les doublons de prestations et à négocier les prix des matériaux et de la main‑d’œuvre. Dans le cas présenté, l’intervention de ce professionnel a permis d’éviter une dépense supplémentaire de 425 000 € pour les travaux envisagés.\n\n## Pourquoi les copropriétés font appel à ce profil\nLes travaux de rénovation dans les immeubles en copropriété représentent un marché important, où les coûts peuvent rapidement dépasser les prévisions. En faisant appel à un économiste de la construction, les conseils syndicaux peuvent disposer d’une expertise indépendante, capable de comparer les devis de différents entrepreneurs et de proposer des ajustements techniques afin de réduire le budget global. Cette démarche s’inscrit dans une logique de maîtrise des dépenses, particulièrement pertinente pour les copropriétaires qui voient leur charge de copropriété augmenter.\n\n## Les freins rencontrés par les acteurs traditionnels\nMalgré les bénéfices constatés, certains syndics et maîtres d’œuvre restent réticents à solliciter ce professionnel. La crainte exprimée est de perdre leur position centrale dans la gestion du chantier et la négociation avec les entreprises. Cette résistance peut limiter l’adoption généralisée de la pratique, même si les économies réalisées sont démontrées dans plusieurs dossiers.\n\n## Comment les copropriétaires peuvent s’informer\nLes résidents souhaitant explorer cette option peuvent se renseigner auprès de leur conseil syndical ou du syndic de leur immeuble. Il est recommandé de demander des références d’économistes de la construction ayant déjà travaillé sur des projets similaires. Les services publics tels que le site officiel du ministère de la Transition écologique et solidaire offrent également des informations sur les compétences requises et les modalités de recours à ce type de prestataire. Enfin, la consultation de la documentation disponible sur service‑public.fr permet de vérifier les obligations légales liées aux travaux de rénovation en copropriété.",
+  "mots_cles": [
+    "économiste construction",
+    "copropriété",
+    "rénovation",
+    "économies travaux",
+    "syndic"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-22T11:54:50+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Rue_des_immeubles_industriels_04.jpg/1280px-Rue_des_immeubles_industriels_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Brunodumaine",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rue_des_immeubles_industriels_04.jpg",
+    "legende": "Décor intérieur pâtisserie Eric Kayser",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Rue des immeubles industriels 04.jpg"
+  },
+  "sources": [
+    {
+      "media": "Figaro Immobilier",
+      "titre": "«Sans lui, notre copropriété aurait payé 425.000 euros de plus» : comment l’économiste de la construction fait baisser la facture des travaux",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbGdzZVhScHgwY0ZaaW9IWjVfTlRQWG5QSFVHbklRSHFZV2U4b3E2RlFGMnR1dzhLYTcyZnVybWZUbEVfR0JlcW9QaTZXaXdjNUxXbnpObmwxR203Yl9YVFBSMjd0LTZRMFFzOGlLQmY4eUhXa0cyYWNCX3V3MWJLdkdfdlpJcldzUnBCM0VMWmo4ckhQTDYyd0NSVG9GN3Z5RG5KMUk5eXU5QnpDa1R6LV9VWWZUcDVvMEpQWUZ1NDJ0UE4yZXBKRnJncEEtOV9xQTRGdDZlVWxydEJJWVVpc1ljWjlVaEdqYkZ0SDVxc1k4S2tYZjluY21RQWJLVDhuQ202blhEeElBQWZxcHFOZFpUN0FtOXEtRTdHWG4yOGY?oc=5"
+    },
+    {
+      "media": "Le Figaro - Gestion de patrimoine immobilier : Actualité et conseils pour la gestion de patrimoine immobilier : défiscalisation, location meublée",
+      "titre": "«Sans lui, notre copropriété aurait payé 425.000 euros de plus» : comment l’économiste de la construction fait baisser la facture des travaux",
+      "url": "https://immobilier.lefigaro.fr/article/sans-lui-notre-copropriete-aurait-paye-425-000-euros-de-plus-ce-professionnel-meconnu-peut-faire-baisser-la-facture-des-travaux-dans-votre-immeuble-20261121"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
