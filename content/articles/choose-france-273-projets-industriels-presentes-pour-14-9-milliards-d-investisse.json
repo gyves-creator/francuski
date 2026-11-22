@@ -1,0 +1,33 @@
+{
+  "slug": "choose-france-273-projets-industriels-presentes-pour-14-9-milliards-d-investisse",
+  "titre": "Choose France : 273 projets industriels présentés pour 14,9 milliards d’investissements",
+  "chapeau": "Le sommet Choose France réunit les entreprises françaises autour de 273 projets industriels, dont 81 projets inédits. Le dispositif annonce 14,9 milliards d’euros d’investissements nouveaux, principalement dans la santé, la cosmétique et les biocarburants.",
+  "corps": "## Un rendez‑vous dédié aux entreprises françaises\nLe sommet Choose France, organisé par le ministère de l’Économie, cible les sociétés implantées ou désireuses de s’implanter en France. Au programme, 273 projets industriels présentés, parmi lesquels 81 projets qualifiés d’inédits. Le communiqué de la présidence du dispositif précise que ces initiatives couvrent plusieurs filières, notamment la santé, la cosmétique et les biocarburants. L’objectif affiché est de canaliser les capitaux privés vers des secteurs jugés stratégiques pour la relance industrielle.\n\n## Montants annoncés et répartition sectorielle\nSelon les informations publiées, les projets présentés représentent un total de 14,9 milliards d’euros d’investissements nouveaux. Cette enveloppe regroupe les engagements financiers annoncés par les entreprises participantes, sans précision de répartition par secteur. Les acteurs du secteur de la santé, de la cosmétique et des biocarburants sont mis en avant comme bénéficiaires majeurs, ce qui reflète les priorités gouvernementales en matière d’innovation et de transition énergétique.\n\n## Qui peut profiter de ces opportunités ?\nLe dispositif s’adresse à toutes les entreprises françaises, qu’elles soient déjà implantées sur le territoire ou en phase de création. Les PME, les ETI et les grands groupes sont invités à déposer leurs projets auprès des services dédiés du ministère de l’Économie. Pour vérifier l’éligibilité d’un projet, les entreprises peuvent consulter le site officiel du sommet Choose France ou contacter le guichet unique des aides à l’investissement disponible sur service‑public.fr. Les critères de sélection portent sur la capacité à créer ou maintenir des emplois, à développer des activités à forte valeur ajoutée et à contribuer aux objectifs de souveraineté industrielle.\n\n## Suivi et perspectives\nLe sommet constitue une étape de visibilité pour les projets présentés, mais la concrétisation des investissements dépendra de la mise en œuvre des dossiers auprès des autorités compétentes. Les entreprises intéressées sont invitées à suivre les appels à projets publiés sur le portail officiel et à se tenir informées des éventuelles évolutions législatives ou réglementaires qui pourraient impacter les dispositifs d’aide. Le dispositif Choose France reste ainsi un levier majeur pour soutenir la dynamique industrielle française en 2026 et au-delà.",
+  "mots_cles": [
+    "investissements",
+    "entreprises françaises",
+    "Choose France",
+    "sommeil industriel"
+  ],
+  "rubrique": "entreprise",
+  "publie_le": "2026-11-22T19:02:19+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Choose_France_Summit.jpg/1280px-Choose_France_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "PMarcantoni",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Choose_France_Summit.jpg",
+    "legende": "Pascal Cagni au sommet de Versailles Choose France (Juin 2021)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Choose France Summit.jpg"
+  },
+  "sources": [
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Choose France : 273 projets industriels seront présentés lors de ce sommet dévolu aux entreprises tricolores",
+      "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}
