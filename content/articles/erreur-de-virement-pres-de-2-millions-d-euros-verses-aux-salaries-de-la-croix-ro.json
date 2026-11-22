@@ -1,0 +1,39 @@
+{
+  "slug": "erreur-de-virement-pres-de-2-millions-d-euros-verses-aux-salaries-de-la-croix-ro",
+  "titre": "Erreur de virement : près de 2 millions d’euros versés aux salariés de la Croix‑Rouge",
+  "chapeau": "La Croix‑Rouge française a indiqué qu’une anomalie informatique a conduit à un versement d’environ deux millions d’euros à ses salariés. L’organisme a annoncé le lancement des démarches de récupération de ces sommes.",
+  "corps": "## Une boulette informatique\nUne défaillance du système de paie a entraîné le transfert de près de deux millions d’euros aux comptes de salariés de la Croix‑Rouge. L’erreur, qualifiée de « boulette informatique », a été découverte peu après les virements. Aucun détail supplémentaire n’a été communiqué sur les dates exactes des versements ni sur le nombre de bénéficiaires.\n\n## Que faire pour les salariés concernés\nLes salariés qui auraient reçu un montant inattendu doivent vérifier leurs bulletins de salaire et leurs relevés bancaires. En cas de doute, il est recommandé de contacter le service des ressources humaines de l’organisme afin d’obtenir des précisions sur la nature du versement. Si le montant est effectivement erroné, il devra être restitué ; à défaut, il pourrait être considéré comme un revenu imposable, entraînant une éventuelle régularisation auprès de l’administration fiscale. Les salariés peuvent se renseigner sur les modalités de remboursement et les implications fiscales sur le site impots.gouv.fr ou auprès de leur centre des impôts.\n\n## Impact sur le budget de l’institution\nLe rappel de ces sommes représente une charge supplémentaire pour la trésorerie de la Croix‑Rouge, qui devra rééquilibrer son budget prévisionnel. Cette situation souligne l’importance de contrôles renforcés sur les systèmes de paie afin d’éviter de futures erreurs similaires.\n\nLes salariés et les gestionnaires sont invités à rester vigilants et à signaler toute anomalie dès leur détection pour limiter les conséquences financières tant pour les individus que pour l’organisme.",
+  "mots_cles": [
+    "Croix-Rouge",
+    "virement erroné",
+    "salaire",
+    "impôt",
+    "récupération"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-22T05:10:56+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Si%C3%A8ge_national_de_la_Croix-Rouge_fran%C3%A7aise_%28Montrouge%29.jpg/1280px-Si%C3%A8ge_national_de_la_Croix-Rouge_fran%C3%A7aise_%28Montrouge%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_national_de_la_Croix-Rouge_fran%C3%A7aise_(Montrouge).jpg",
+    "legende": "Siège national de la Croix-Rouge française (Montrouge).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Siège national de la Croix-Rouge française (Montrouge).jpg"
+  },
+  "sources": [
+    {
+      "media": "Economie Matin",
+      "titre": "Croix-Rouge : près de 2 millions d’euros virés par erreur à des salariés",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWppd0t0MTFyclE4RTFHSzdSbjNxUUZSZ295TXZCTngyOHNDSVdQOHd0TDAtRFVEc3BaU3BDTk9SQi1DZ3I3QlBtRE9QODdpcEZ1ek8wc2VIc09Wc0ZlR3dKNjZaVnUwUVpWcXFVMzBySmtITlc5Vy1DQnYxVzJCeERlZXZaaDMtYnhsZzgzM0JRejFHQnNDbnhPZWg?oc=5"
+    },
+    {
+      "media": "Orange Actualités",
+      "titre": "Croix-Rouge : deux millions d'euros versés par erreur aux salariés après une étonnante boulette informatique",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdE9tbEQ4a2pTU05EaHZUZ1M5dHgzM3ZzYzF6ZjlzcHhGeXRMaVA1VGhHNS1SUGxmQWtINjlGdW4xeVBEa2lJUktZZFU4VXlGY1BvSVAta0VLYnl0bWsyVU9aNEFQaFVkaGxrN1FQMDRaM0g2ZjZob3dfQTltdjM0VXNMOHVlbDRkWlRaTUtGZmZNbG1yN2x4bU5DQTNDNnA3Z19KZ2xld09XNEFFaFBtaV9uTGNWVWVpNUhRQmNIQXUteV9aSTRPME5MTXUyX0ZBVldNdG1tUzFSODZ6eVZQT0F5TERuOF9TcGFRZ1pTUGVSYVI0VHNDd09mYzZGSGt3djQydg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}

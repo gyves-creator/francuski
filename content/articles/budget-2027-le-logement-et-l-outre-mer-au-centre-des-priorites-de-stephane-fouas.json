@@ -1,0 +1,39 @@
+{
+  "slug": "budget-2027-le-logement-et-l-outre-mer-au-centre-des-priorites-de-stephane-fouas",
+  "titre": "Budget 2027 : le logement et l'outre‑mer au centre des priorités de Stéphane Fouassin",
+  "chapeau": "Stéphane Fouassin, ministre, a présenté le projet de budget 2027 en soulignant les enjeux du logement et de la continuité territoriale outre‑mer. Il a également indiqué la volonté de revoir la copie du texte budgétaire avant son adoption.",
+  "corps": "## Logement au cœur du budget 2027\nLe ministre a rappelé que le logement figure parmi les priorités du budget 2027, tant sur le continent que dans les territoires d'outre‑mer. Aucun chiffre précis n’a été communiqué, mais l’accent est mis sur le maintien et le développement des politiques de construction, de rénovation et d’accès au logement social. Les habitants concernés pourront suivre les évolutions du texte budgétaire sur le site du ministère des finances ou via les publications officielles.\n\n## Continuité territoriale des territoires d'outre‑mer\nDans le même temps, Stéphane Fouassin a défendu la continuité territoriale des collectivités d’outre‑mer, en insistant sur la nécessité de garantir des services publics et des infrastructures adaptés. Cette orientation vise à réduire les disparités entre les régions métropolitaines et les territoires ultramarins, sans que des montants ou des programmes spécifiques ne soient détaillés dans les annonces publiques.\n\n## Révision de la copie du budget\nLe ministre a également exprimé le souhait de « revoir la copie du budget 2027 », indiquant une volonté de peaufiner le texte avant son vote définitif. Cette démarche implique que les parlementaires disposeront d’un délai supplémentaire pour examiner les projets de loi de finances, afin de garantir la cohérence des mesures annoncées.\n\n## Suivi et démarches pour les usagers\nPour les contribuables et les ménages concernés par les mesures de logement ou les spécificités des territoires d’outre‑mer, il est recommandé de consulter régulièrement les sites officiels tels que service‑public.fr ou le portail du ministère de la Cohésion des territoires. Ces plateformes publient les textes définitifs, les modalités d’accès aux aides et les calendriers de mise en œuvre dès que le budget est adopté.\n\nEn résumé, le budget 2027 s’articule autour d’une attention renforcée pour le logement et la continuité territoriale outre‑mer, avec une phase de réexamen du texte prévue avant son adoption finale.",
+  "mots_cles": [
+    "budget 2027",
+    "logement",
+    "outre-mer",
+    "continuité territoriale",
+    "Stéphane Fouassin"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-22T05:10:51+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Remiremont_-_Rue_Paul-Doumer_-_Centre_des_Finances_publiques_-_1.jpg/1280px-Remiremont_-_Rue_Paul-Doumer_-_Centre_des_Finances_publiques_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Mathieu Kappler",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Remiremont_-_Rue_Paul-Doumer_-_Centre_des_Finances_publiques_-_1.jpg",
+    "legende": "Remiremont, Vosges, France: front facade and portal of Centre des Finances publiques, at Rue Paul-Doumer.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Remiremont - Rue Paul-Doumer - Centre des Finances publiques - 1.jpg"
+  },
+  "sources": [
+    {
+      "media": "Free Dom",
+      "titre": "Budget 2027 : Stéphane Fouassin défend le logement et la continuité territoriale outre-mer (VIDEO)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjFwZXhUMUNMOWZOSm5ybnBGR2RrR1dtTGxNdEN0bnVEZm1BalA0czhNNmQzSGc2RVRadWlqTWtaQ3ZGY1k1cFlrYW13SXFTbHFsQmVrSGY5MnU2X2lENXFYUkpZZzg3VEJZOTRKeXlscldVenVTSlpsYTBLWENpUjIwa05pVlB4RjNpOWVRQ2l5R2hOSGVGZ3lLaFAtMlFlZFhfYmpzQ0ZrMmVNN2dtN3RKSVM?oc=5"
+    },
+    {
+      "media": "Zinfos974",
+      "titre": "Logement et billets d’avion : Stéphane Fouassin veut revoir la copie du budget 2027",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemRrakYySFNjZjA0dWEtU2pRRWNMUlJvVW1SLUpJaEtrMUVKX1ZMdlN2RVBpazRqSlV1Vy0tc0ZFQUtLN3J5Y2czc1JHUEJyanBxNlR6SFpjdFQyMzhjNUF5dVpCa0gycWdjMDBqd1Q1U240dnA0VUNnallWZ0VaN3l0d0o2OFlyOGpuUV9rdlM5dFp6UW1nWkxNUnNfNnF6Z09jbW1GY2R5Uzg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
