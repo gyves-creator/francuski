@@ -1,0 +1,39 @@
+{
+  "slug": "le-plan-d-epargne-retraite-a-l-honneur-sur-lci",
+  "titre": "Le plan d’épargne retraite à l’honneur sur LCI",
+  "chapeau": "Catherine André a présenté les atouts du plan d’épargne retraite (PER) lors d’une émission LCI. Le débat a également soulevé les interrogations sur la pertinence de ce dispositif pour les épargnants.",
+  "corps": "## Un sujet d’actualité pour les futurs retraités\nL’émission diffusée le 22 novembre 2026 a mis en lumière le plan d’épargne retraite, un produit d’épargne à long terme destiné à préparer la fin de carrière. L’intervenante a expliqué les raisons pour lesquelles ce dispositif attire de plus en plus d’épargnants, notamment grâce à la souplesse de sortie et aux incitations fiscales qui le caractérisent.\n\n## Les points de vigilance évoqués\nAu cours du même programme, la question de l’adéquation du PER avec les projets individuels a été posée. Les experts ont rappelé que la pertinence du produit dépend de la situation personnelle de chaque épargnant, de son horizon de placement et de ses besoins futurs. Ils ont invité les auditeurs à vérifier les conditions d’éligibilité et les modalités de sortie auprès des services publics, notamment via les sites service-public.fr ou impots.gouv.fr.\n\n## Comment s’informer et comparer les offres\nLe plan d’épargne retraite est proposé par plusieurs établissements financiers, mais les caractéristiques peuvent varier. Les consommateurs sont encouragés à consulter les fiches d’information disponibles sur les sites officiels, à comparer les frais de gestion et à examiner les options de sortie (capital ou rente). En cas de doute, il est possible de solliciter un conseiller de la Banque de France ou de se rendre dans un point d’accueil de la Caisse des Dépôts.\n\n## Perspectives pour les épargnants français\nL’émission a conclu que le PER reste un dispositif à considérer dans le cadre d’une stratégie d’épargne globale, sans toutefois constituer une solution unique. Les auditeurs sont invités à analyser leurs projets de retraite, à tenir compte de leurs revenus futurs et à suivre les évolutions législatives qui pourraient impacter les conditions du plan.",
+  "mots_cles": [
+    "plan d'épargne retraite",
+    "épargne",
+    "retraite",
+    "LCI",
+    "Catherine André"
+  ],
+  "rubrique": "placements",
+  "publie_le": "2026-11-22T16:58:33+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Guchen%2C_%C3%89glise_Sainte-Catherine_PA00095377.jpg/1280px-Guchen%2C_%C3%89glise_Sainte-Catherine_PA00095377.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Pierre André Leclercq",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Guchen,_%C3%89glise_Sainte-Catherine_PA00095377.jpg",
+    "legende": "St. Catherine's Church of Guchen .- Hautes-Pyrenees",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Guchen, Église Sainte-Catherine PA00095377.jpg"
+  },
+  "sources": [
+    {
+      "media": "TF1 Info",
+      "titre": "\"Un très bon produit\" : pourquoi le plan épargne retraite séduit de plus en plus les Français ? Les explications de Catherine André sur LCI",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUFF5ankxaXZWMkxmVFEtTUE4VDZoTE8tMzMwMFZiVzhtTHpOY1cxUGozSTBkTWN1Mk1rTlFINXF2QlJycnB0TjdLN1g3VHc1dzFGdzI3UjdDdmNsQVpVa2Jzck1FNTc5REJ5bk0ySmd2LUVHOVNVX3ZWMGE4SjBuUFNPTXBFVkl6bjg0VG83YTZ0MFk1TU1LT2Z4ZGZEV0dsYnQ4Vi1HTk5pclVuS3hGQnY4d2cxMFV1UWtlZXlvUU81cVZrRGRuS2h5UzdhbG41U1NidzZJVUtkZlBUSHI0dEwyU2dqR0NnUXI2VTJsWU1IbzhscHA0THF2bnR5UmJReGNiejdtazlYNV9CLUpRbm9CNHZwbHM?oc=5"
+    },
+    {
+      "media": "TF1+",
+      "titre": "L'épargne retraite, est-ce vraiment un bon plan ? Les explications de Catherine André sur LCI",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdlh4SG5oNDVVdXZqNFM2RlhwZVl2RC1BY2d0R1VXX0RVbkJmTzBxcU1FR1RmekJMR3hydWhpUnk5UF9UdWNac1pLdFJUaTJLOWZ5QjcwNHBpWjYxTnpWdGdFc0JJV1NrSXZCSFhjSW00ekUtVUpoNDJ1TG40ZkJFZ3daekk5RG13UEtELWNxc190TDFlVTlZZFdSbjVqQXZnQ1F1WG1FdkFNenI3YnZvUHlmeWtzMUJ6X1d1VVJRTVA3QW9TRDM0TjRncTF6Skd6RGlZR0NIOXNSdHBrWTg3dGFSVVF3Q0NUeFI3Mzln?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
