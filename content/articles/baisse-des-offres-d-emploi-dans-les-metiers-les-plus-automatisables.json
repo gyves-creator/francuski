@@ -1,0 +1,39 @@
+{
+  "slug": "baisse-des-offres-d-emploi-dans-les-metiers-les-plus-automatisables",
+  "titre": "Baisse des offres d’emploi dans les métiers les plus automatisables",
+  "chapeau": "Une récente étude met en évidence une diminution notable des offres d’embauche dans les professions les plus exposées à l’intelligence artificielle. Cette tendance soulève des questions pour les salariés et les chercheurs d’emploi concernés par l’automatisation.",
+  "corps": "## Une étude révèle un ralentissement des recrutements\nUne enquête récemment publiée a observé une chute des offres d’emploi dans les métiers jugés les plus automatisables. Bien que les auteurs ne puissent établir de lien de causalité direct avec l’avancée de l’intelligence artificielle, les données montrent une tendance à la réduction des postes disponibles dans ces secteurs. Le phénomène concerne principalement les fonctions où les tâches sont répétitives ou fortement standardisées, comme la saisie de données, la logistique de base ou certains postes de production.\n\n## Implications pour les salariés et les demandeurs d’emploi\nCette évolution peut impacter les parcours professionnels des personnes exerçant ou souhaitant exercer ces métiers. Les salariés concernés peuvent voir leurs perspectives d’évolution ou de sécurisation de l’emploi diminuer, tandis que les chercheurs d’emploi devront peut‑être réorienter leurs candidatures vers des secteurs moins exposés à l’automatisation. Pour vérifier l’évolution du marché local, il est recommandé de consulter les plateformes publiques d’emploi, telles que le site de Pôle emploi, ou de se rapprocher des services d’orientation professionnelle. Ces outils permettent de comparer les offres publiées et d’identifier les filières où la demande reste stable ou croît.\n\n## Comment anticiper les changements du marché du travail\nFace à la diminution des offres dans les métiers automatisables, les acteurs du marché du travail sont invités à renforcer l’accompagnement des salariés. Les organismes de formation professionnelle, les branches professionnelles et les collectivités locales peuvent proposer des programmes de reconversion ou de montée en compétences, notamment dans les domaines où l’intelligence artificielle crée de nouvelles opportunités (analyse de données, cybersécurité, développement d’algorithmes, etc.). Les salariés peuvent également s’informer sur les dispositifs de financement de la formation continue, disponibles sur le site du ministère du Travail ou via les conseils régionaux.\n\n## Suivi de la situation\nL’étude ne précise pas de date d’entrée en vigueur de mesures spécifiques, mais elle souligne la nécessité d’un suivi régulier des indicateurs d’emploi. Les observateurs du marché du travail, les instituts de recherche et les autorités publiques sont encouragés à publier des rapports périodiques afin de mesurer l’impact réel de l’automatisation sur l’offre d’emploi. En attendant, les personnes concernées peuvent rester vigilantes en consultant les sources officielles et en se renseignant sur les évolutions sectorielles.",
+  "mots_cles": [
+    "emploi",
+    "intelligence artificielle",
+    "automatisation",
+    "marché du travail",
+    "offre d'emploi"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-22T10:57:54+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/3_ronds_intelligence_humaine_artificielle_animale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Lamiot",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:3_ronds_intelligence_humaine_artificielle_animale.png",
+    "legende": "210 Intersections between animal, human, and artificial intelligence—the latter now beginning to be used to better understand communication systems between animals, as well as between humans and anima",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:3 ronds intelligence humaine artificielle animale.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Emploi",
+      "titre": "Les offres d'emploi décrochent dans les métiers les plus exposés à l'IA",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/les-offres-d-emploi-decrochent-dans-les-metiers-les-plus-exposes-a-l-ia_8250511.html#xtor=RSS-3-%5Beconomie%2Femploi%5D"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Les offres d'emploi décrochent dans les métiers les plus exposés à l'IA",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/les-offres-d-emploi-decrochent-dans-les-metiers-les-plus-exposes-a-l-ia_8250511.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
