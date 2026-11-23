@@ -88,5 +88,28 @@
       "CAC 40 : la Bourse rebondit après une semaine de turbulences liées à l’IA",
       "CAC 40 : la Bourse rebondit après une semaine de turbulences liées à l’IA"
     ]
+  },
+  {
+    "titre": "Le Sénat prévoit la taxation totale des indemnités d'affections longues",
+    "texte": "Le Sénat a voté la fiscalisation intégrale des indemnités versées aux patients en affection de longue durée dans le cadre du budget 2027. Ces prestations seront désormais soumises à l'impôt sur le revenu à 100 %.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-23T13:35:55+00:00",
+    "titres_sources": [
+      "Budget 2027 : les indemnités pour affections de longue durée bientôt imposées à 100% ?",
+      "Le Sénat accentue la fiscalité des indemnités perçues au titre des affections de longue durée",
+      "Les patients en affection longue durée devront-ils bientôt payer plus d'impôts? Les sénateurs durcissent la fiscalité sur ces arrêts maladie",
+      "Budget 2027 : le Sénat vote la fiscalisation intégrale des indemnités pour affections de longue durée"
+    ]
+  },
+  {
+    "titre": "Le Sénat prolonge la prime carburant jusqu'en 2027",
+    "texte": "Le gouvernement a obtenu l'adoption au Sénat d'une prolongation de la prime carburant jusqu'en 2027. Cette mesure maintiendra l'aide financière aux ménages pour compenser la hausse des prix du carburant.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-23T13:35:55+00:00",
+    "titres_sources": [
+      "Prime carburant : le gouvernement fait adopter au Sénat une prolongation en 2027",
+      "Prime carburant : le Sénat approuve une prolongation jusqu’en 2027",
+      "Prime carburant : le gouvernement fait adopter au Sénat une prolongation en 2027"
+    ]
   }
 ]
