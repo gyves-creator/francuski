@@ -217,5 +217,15 @@
       "Pêche : troisième guichet d’aide au carburant, 42 centimes par litre",
       "Aide au carburant : nouveau guichet ouvert pour les pêcheurs"
     ]
+  },
+  {
+    "titre": "Cour des comptes : retraite à 65 ans proposée",
+    "texte": "La Cour des comptes recommande de porter l’âge légal de départ à la retraite à 65 ans, afin d’assurer la pérennité du système. Cette proposition vise à instaurer une règle d’or pour piloter les retraites.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-23T19:48:10+00:00",
+    "titres_sources": [
+      "Cour des comptes propose un départ à la retraite à 65 ans",
+      "Pourquoi la Cour des comptes prône une règle d’or pour piloter les retraites"
+    ]
   }
 ]
