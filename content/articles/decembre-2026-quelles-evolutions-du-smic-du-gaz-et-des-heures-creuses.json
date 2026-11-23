@@ -1,0 +1,39 @@
+{
+  "slug": "decembre-2026-quelles-evolutions-du-smic-du-gaz-et-des-heures-creuses",
+  "titre": "Décembre 2026 : quelles évolutions du SMIC, du gaz et des heures creuses",
+  "chapeau": "Les dépêches du 23 novembre indiquent que le 1er décembre 2026 pourrait apporter des changements concernant le salaire minimum, les tarifs du gaz et les plages d'heures creuses. Aucun détail chiffré n'est fourni, incitant les ménages à vérifier les informations officielles dès leur publication.",
+  "corps": "## SMIC en décembre 2026\nLes titres font état d'une possible évolution du salaire minimum au 1er décembre. En France, le SMIC est revalorisé chaque année, généralement au 1er janvier, mais des ajustements peuvent intervenir en cours d'année en fonction de l'inflation ou de décisions gouvernementales. Pour connaître le montant exact qui pourrait être appliqué en décembre, il convient de consulter le site du ministère du Travail ou le service public dédié aux salariés.\n\n## Tarifs du gaz\nLe secteur du gaz naturel connaît régulièrement des révisions tarifaires, notamment à l'approche de la période hivernale. Les dépêches signalent un changement à la date mentionnée, sans préciser le nouveau barème. Les consommateurs peuvent suivre l'évolution des prix sur le site de la Commission de régulation de l'énergie (CRE) ou auprès de leur fournisseur. Les informations publiées par la CRE précisent les dates d'entrée en vigueur des nouvelles offres tarifaires.\n\n## Heures creuses d’électricité\nLes heures creuses, périodes où le coût de l'électricité est réduit, sont souvent ajustées pour équilibrer la demande pendant les mois froids. Les titres évoquent une modification à compter du 1er décembre, mais ne détaillent pas les nouveaux créneaux horaires. Les foyers concernés peuvent vérifier les horaires applicables auprès de leur opérateur ou sur le site d'Enedis, qui indique les plages d'offres en fonction des zones géographiques.\n\n## Vérifier sa situation\nFace à l'absence de chiffres précis, les lecteurs sont invités à se rendre sur les plateformes officielles : service-public.fr pour le SMIC, cre.fr pour les tarifs du gaz, et le site du gestionnaire du réseau électrique pour les heures creuses. Ces sites permettent de confirmer les éventuelles modifications et d'ajuster son budget en conséquence.",
+  "mots_cles": [
+    "SMIC",
+    "gaz",
+    "heures creuses",
+    "décembre 2026",
+    "budget"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-23T07:50:36+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Minist%C3%A8re_du_Travail_et_de_l%27Emploi.png/1280px-Minist%C3%A8re_du_Travail_et_de_l%27Emploi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "CLF21",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Minist%C3%A8re_du_Travail_et_de_l%27Emploi.png",
+    "legende": "Logo du Ministère du Travail et de l'Emploi en septembre 2024",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Ministère du Travail et de l'Emploi.png"
+  },
+  "sources": [
+    {
+      "media": "stephanelarue.com",
+      "titre": "Tempo épargne les réveillons : Smic, gaz, heures creuses, ce qui bouge en décembre",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGdJSWVNdFp4elY2Wk5ET1RfY2h6OF9YcDlOM2RnNmQzaXd6SmtmNmJvZWtCMmRKVERpQmZLYUp0V1Z5NkNfb2NKTmlUZ0t1ejg4d19aQUNDRWt3Y2NmamlYTHhfdnQ5Um05ZkFhX1F0cXVLeWNpcjhnc0IwR3djUEM0dGRFODJMMXV5Ry1TYzdaX2hySmtOZkpjUXlDY2dwMDQ4UnpSNA?oc=5"
+    },
+    {
+      "media": "Selectra",
+      "titre": "Ce qui change le mardi 1er décembre 2026 : gaz, Smic, heures creuses, la date de la veille à ne pas rater",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGg5Y2hjQll3X1BRR3R2Si1rMWN6bEhYTl9OcXcxeEMyOEIxXy1vM3pJeU1HaHhQZ1VLRXJlTWxCbGI5N3lON1BUbm9HMzdzUmpNd2xBV2s5OWJncVE5TWYyaGlfUFo1WkpncVFpR0ladVhVaU5GWVpaMWxPdXZCMGdtYlV0cXZwSW9hLTFmNFdlc3NIUlNoeGRB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
