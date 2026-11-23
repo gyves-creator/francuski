@@ -1,0 +1,44 @@
+{
+  "slug": "julius-baer-voit-son-benefice-avant-impots-augmenter-de-17",
+  "titre": "Julius Baer voit son bénéfice avant impôts augmenter de 17 %",
+  "chapeau": "Le groupe bancaire suisse a annoncé une hausse de 17 % de son bénéfice ajusté avant impôts sur les dix premiers mois de l’exercice. Cette progression figure dans les derniers résultats publiés par la société.",
+  "corps": "## Une hausse de 17 % sur dix mois\nLe rapport financier le plus récent de Julius Baer indique que le bénéfice ajusté avant impôts a progressé de 17 % par rapport à la même période de l’année précédente. Les résultats couvrent les dix premiers mois de l’exercice, sans préciser les montants exacts ni les facteurs détaillés de cette évolution.\n\n## Réactions du marché et perspectives\nCette amélioration du résultat avant impôt intervient dans un contexte où les banques suisses affichent des performances variées. Les analystes du secteur soulignent généralement que la rentabilité d’une institution bancaire dépend de la gestion de ses actifs sous gestion, de la qualité de ses services de gestion de fortune et de l’évolution des conditions de marché. Aucun commentaire officiel n’a été fourni sur les raisons précises de la hausse, ni sur les prévisions pour le reste de l’exercice.\n\nPour les investisseurs et les parties prenantes, il est recommandé de consulter les documents officiels publiés par la société, disponibles sur le site de l’autorité des marchés financiers suisse ou sur la plateforme d’information financière de la banque. Ces sources permettent de vérifier les chiffres détaillés, les perspectives de croissance et les éventuelles répercussions fiscales liées à la performance affichée.\n\nEn l’absence d’informations complémentaires, il convient de rester attentif aux prochains communiqués de la banque, notamment ceux qui préciseront la situation financière à la clôture de l’exercice et les éventuelles décisions stratégiques qui pourraient influencer les résultats futurs.",
+  "mots_cles": [
+    "bénéfice",
+    "banque",
+    "Julius Baer",
+    "impôts",
+    "finance"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-23T11:17:43+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/BAZ_020147.jpg/1280px-BAZ_020147.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Hussel Thomas",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BAZ_020147.jpg",
+    "legende": "Exterior view of the building at Bahnhofstrasse 36, Zurich.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:BAZ 020147.jpg"
+  },
+  "sources": [
+    {
+      "media": "agefi.com",
+      "titre": "Julius Baer: bénéfice ajusté avant impôts en hausse de 17%",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkxDUURkOFRYdjc1eFNZaWRJZ01qUndRS1JGaDBDNFNJeUlqaFRhbmNUNjQzOHhYTS1Wc1QyVE00bHNmajliZlU0UnI0eUVsTHhuZ1dxRW9jTEJjYm9xX3lodFFfODdEVE44ZHIzTWZ1QXdKaVluaVI4YTBlVlhqLXFsTDVQM0hXUkJhX2p3cV9QOUFIMnZOTERndVRha1V3?oc=5"
+    },
+    {
+      "media": "Zonebourse Suisse",
+      "titre": "Les actifs sous gestion et le bénéfice avant impôts ajusté de Julius Baer progressent sur 10 mois",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd3hnQklONVd1UlROeGJrZ1dDU0p4dTE0UmxBVnBJZWNKZmFKOXRrWENiZTRlN2QzRzFtaHEwT0x2ZVRsODBZU19aS2ZHUlBPNHMzLU8xVS1sTV81N2RDazRQOTNtQldqZWY3OS1YTFJQenNWNXFWSWJ1d2NMamNmNkVVaWNwMWpFbEdDYWUtblVwdTNydDMySU5fUFNFOFdCY0hsNzMzdHp3M2lyUkpoMkw2MmFJanpMTzhTUlhWSm5VSUV5dVdzX0dTcjVMSUF0d05LS2pXT1p0Q3JsbVdKZ2JCLUlTNEJpXzdadl9B?oc=5"
+    },
+    {
+      "media": "Zonebourse",
+      "titre": "Julius Bär accroît son bénéfice avant impôts sur dix mois",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT2tSekMtT09iVU5Ta05xMnNrZ3AzNWZJU0JYVlVGeF9YU1FyVHJrMmhGNHN2ajE0QkdCWGppUGN0bkJqbFYxX3JRZFYxY3djV1ZLVmdvNTRxbEFEa1pyTlF6SHBxR1lNd3cyYWMzNldKb0hneG4tYldSOW9nckZwUDRVY3Z5bmhEWmQ0UTFKakp5OFp4X1lveThuYmEzUmI4TTkyQXB1aWFoVU92Vjgyd0pXRVhXdWpCeFE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 3
+}
