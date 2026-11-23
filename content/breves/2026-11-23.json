@@ -58,5 +58,25 @@
       "CAC 40 : à l'ouverture, Paris tente un rebond après le krach des valeurs IA à Wall Street",
       "CAC 40 : La Bourse de Paris ouvre en hausse, espérant un rebond à Wall Street"
     ]
+  },
+  {
+    "titre": "Métropole de Lyon sort du dispositif d'encadrement des loyers",
+    "texte": "La Métropole de Lyon annonce qu’elle se retire du dispositif d’encadrement des loyers, affectant les communes de Lyon et Villeurbanne. Cette sortie modifie le cadre de fixation des loyers dans le territoire métropolitain.",
+    "rubrique": "immobilier",
+    "publie_le": "2026-11-23T10:47:42+00:00",
+    "titres_sources": [
+      "Lyon et Villeurbanne. Encadrement des loyers : la Métropole va sortir du dispositif",
+      "Encadrement des loyers : la Métropole de Lyon annonce finalement sortir du dispositif"
+    ]
+  },
+  {
+    "titre": "Le TAS rendra sa décision dans l'affaire FSF-CAF-FRMF le 24 novembre",
+    "texte": "Le Tribunal administratif de la sécurité (TAS) doit publier sa décision concernant le litige entre la FSF, la CAF et le FRMF le mardi 24 novembre. Cette ordonnance déterminera l'issue du différend entre les trois parties.",
+    "rubrique": "aides-social",
+    "publie_le": "2026-11-23T10:47:42+00:00",
+    "titres_sources": [
+      "Affaire FSF-CAF-FRMF : le TAS annoncera sa décision mardi 24 novembre",
+      "CAF-FRMF-FSF : le TAS annoncera sa décision mardi"
+    ]
   }
 ]
