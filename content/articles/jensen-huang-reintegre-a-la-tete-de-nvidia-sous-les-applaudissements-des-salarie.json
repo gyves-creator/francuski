@@ -1,0 +1,44 @@
+{
+  "slug": "jensen-huang-reintegre-a-la-tete-de-nvidia-sous-les-applaudissements-des-salarie",
+  "titre": "Jensen Huang réintégré à la tête de Nvidia sous les applaudissements des salariés",
+  "chapeau": "Le conseil d'administration de Nvidia a annoncé la reprise immédiate de Jensen Huang comme directeur général et président. Son retour, salué par plusieurs centaines d'employés à Santa Clara, intervient dix jours après sa démission liée à un scandale.",
+  "corps": "## Un retour inattendu\nLe conseil d'administration du groupe américain spécialisé dans les puces informatiques a communiqué lundi la réintégration de Jensen Huang à la direction de Nvidia. Cette décision a été prise dix jours après la démission du dirigeant, qui avait été motivée par des accusations mêlant adultère, espionnage et contrebande. Aucun détail supplémentaire n’a été fourni sur les raisons exactes de ce revirement.\n\n## Réaction des salariés\nSur le campus de Santa Clara, plusieurs centaines de collaborateurs ont accueilli le dirigeant avec des applaudissements. Le geste a été décrit comme une manifestation de ferveur, soulignant le soutien de nombreux employés à la figure fondatrice de l’entreprise. Aucun représentant syndical ou du personnel n’a été cité dans les informations diffusées.\n\n## Enjeux pour l’entreprise et ses équipes\nLe retour d’un fondateur à la direction d’une société cotée en bourse suscite naturellement des interrogations sur la continuité de la stratégie et la stabilité interne. Bien que les communiqués ne mentionnent pas de changements immédiats dans les politiques salariales ou les conditions de travail, les salariés peuvent suivre les annonces officielles de la direction sur le site intranet de l’entreprise ou via les canaux de communication interne pour vérifier d’éventuelles évolutions.\n\n## Suivi parlementaire et médiatique\nDes parlementaires, tant démocrates que républicains, ont demandé des explications sur les circonstances du départ et du retour de Jensen Huang. Les demandes d’éclaircissements s’inscrivent dans un contexte où les pratiques de gouvernance d’entreprise sont scrutées de près par les autorités publiques. Les réponses officielles seront probablement publiées dans les prochains jours, et les salariés comme les investisseurs sont invités à consulter les communiqués du ministère de la Justice ou les publications de la Securities and Exchange Commission pour suivre les développements.",
+  "mots_cles": [
+    "Nvidia",
+    "Jensen Huang",
+    "direction",
+    "salariés",
+    "gouvernance"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-24T05:22:01+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Coolcaesar",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+    "legende": "Nvidia headquarters in Santa Clara, California. Photographed by user Coolcaesar on August 4, 2018.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:NVIDIA Headquarters.jpg"
+  },
+  "sources": [
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés ; Wall Street clôture en très forte hausse",
+      "url": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html"
+    },
+    {
+      "media": "Pause Hardware",
+      "titre": "De retour chez NVIDIA, Jensen Huang accueilli par des centaines de salariés à Santa Clara",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2QS1lN1JDaUhMc2FMME5sUzlzY1hyX2Y0V2liXzRCcXVEZGkzUzJIcjV3TjkxOWdBR2RtVjVyN1ZsaVlFZXBibElMcFQwckZwWFlPQnlBdEYzbGtlTnhxMlBsUnU5YTZ3Y3dzYTBUMEpyMmRPRUtpdWpnX2tmVVk?oc=5"
+    },
+    {
+      "media": "BFM",
+      "titre": "Jensen Huang est de retour au siège de Nvidia, accueilli avec ferveur par les salariés",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUtsLWl1SExhMDZXVW45ZU1kNEVORlVjbEpSWS1zN2x5Nlp3T1djQW9yT0VaSFkxS0NqeGtFbjM5SDNfc2VmQTcxS1BDTXlvUlNBV201ZkV0czlRSVZBQ2FCYTdaOEpXWHRKSzlKMzYtSWZZXzlZWEc3V3loak5sdU1zT2JvTmg4aGRUdExZMGhwaWg5NlJLNDA4UzRsdExqdElsUkR1ZjBZanB4VHdYajZqRHBSaE1nYWU1ZUtsWUFZbURNZktvWmN5WUZpRWRkOTFhOHZn?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 3
+}

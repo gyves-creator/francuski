@@ -1,0 +1,38 @@
+{
+  "slug": "aberdeen-introduira-une-taxe-de-sejour-de-7-des-avril-2027",
+  "titre": "Aberdeen introduira une taxe de séjour de 7 % dès avril 2027",
+  "chapeau": "La ville d'Aberdeen a annoncé l'instauration d'une taxe de séjour de 7 % à compter d'avril 2027. Cette mesure concernera les visiteurs séjournant dans les établissements d'hébergement de la ville.",
+  "corps": "## Une nouvelle taxe de séjour à Aberdeen\nLa municipalité d'Aberdeen a communiqué qu'à partir d'avril 2027, une taxe de séjour sera appliquée à hauteur de 7 % du prix du logement. Cette redevance s'ajoute aux frais déjà facturés par les hôtels, chambres d'hôtes et locations de courte durée. Elle vise à financer les services publics locaux, notamment l'entretien des espaces touristiques et les actions de promotion de la destination.\n\n## Qui est concerné et comment s'y préparer\nTous les voyageurs séjournant dans un hébergement payant à Aberdeen seront soumis à cette taxe. Les réservations effectuées avant la date d'entrée en vigueur ne seront pas concernées, tandis que les séjours à partir d'avril 2027 devront intégrer ce pourcentage dans le budget global du voyage. Les établissements sont tenus d'afficher clairement le montant de la taxe sur leurs factures. Les touristes français peuvent vérifier les modalités exactes sur le site officiel de la ville d'Aberdeen ou auprès de l'office du tourisme local.\n\n## Impact sur le budget des visiteurs\nL'ajout d'une taxe de 7 % représente un coût supplémentaire qui peut influencer le choix de la destination ou le type d'hébergement. Pour les voyageurs au budget limité, il est recommandé de comparer les offres en tenant compte de cette taxe, afin d'éviter une surprise au moment du règlement. Les plateformes de réservation en ligne intègrent généralement ces taxes dans le prix affiché, mais il convient de vérifier la ventilation des frais avant de finaliser la réservation.\n\n## Points de vigilance et démarches administratives\nLa mise en place de la taxe de séjour est une décision prise par les autorités locales d'Aberdeen. Aucun texte de loi national n'est mentionné dans les informations disponibles, ce qui indique que la mesure relève de la compétence municipale. Les visiteurs souhaitant s'assurer de la conformité de leur séjour peuvent consulter le service des impôts locaux ou le site officiel de la ville. En cas de doute, il est possible de contacter directement l'établissement d'accueil pour obtenir le détail du calcul de la taxe.",
+  "mots_cles": [
+    "taxe de séjour",
+    "Aberdeen",
+    "tourisme",
+    "budget voyage"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-24T05:22:06+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Aberdeen_from_Tollohill_Woods.JPG/1280px-Aberdeen_from_Tollohill_Woods.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ragazzi99",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Aberdeen_from_Tollohill_Woods.JPG",
+    "legende": "Aberdeen City Centre from Tollohill Woods, Aberdeen, Scotland, United Kingdom",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Aberdeen from Tollohill Woods.JPG"
+  },
+  "sources": [
+    {
+      "media": "Le Journal de Montréal",
+      "titre": "Alors on taxe!",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jdHdCVlUxcXRfX0ZMcU15LUp1eXgyWEtiQi1RTHp0N0FhX1ljSEo2eHNZUG9TMzd4emNKbExabVpxcExxZVdfTUhnVFJMTVFMb1YtaW5yMDV6WFhXTkFqQnFoOERmTlBLRmc?oc=5"
+    },
+    {
+      "media": "Pixidia",
+      "titre": "Taxe de séjour Aberdeen : 7 % dès avril 2027",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nQUVyMDNCeVk2SzQ2dWlKOHRjNWNHdWZDRi1xXzNkVjROclFkaFQyajd5ZE1OZEI1dnhfamhEZEdBNkpRdWxfZ2hmOWlqNVh2aWZjSFM5QUtkQQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
