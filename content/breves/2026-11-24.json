@@ -59,5 +59,27 @@
       "VRAI OU FAUX. L'âge moyen des premières cotisations retraite est-il vraiment 27 ans en France",
       "VRAI OU FAUX. L'âge moyen des premières cotisations retraite est-il vraiment 27 ans en France ?"
     ]
+  },
+  {
+    "titre": "Les prix des logements anciens reculent de 1,2 % au 3ᵉ trimestre 2026",
+    "texte": "Selon l'Insee, le prix moyen des logements anciens a baissé de 1,2 % sur un an, soit au troisième trimestre 2026. Cette évolution marque une première baisse annuelle depuis plusieurs années.",
+    "rubrique": "immobilier",
+    "publie_le": "2026-11-24T09:23:16+00:00",
+    "titres_sources": [
+      "Immobilier : les prix des logements anciens reculent de 1,2 % au troisième trimestre 2026",
+      "Immobilier : les prix des logements anciens reculent de 1,2% sur un an selon l'Insee",
+      "Immobilier : les prix des logements anciens reculent de 1,2 % sur un an au 3T 2026"
+    ]
+  },
+  {
+    "titre": "Le ministre Amiel soutient la suppression de l'abattement de 10 % sur les pensions",
+    "texte": "David Amiel, ministre des Comptes publics, a déclaré soutenir la proposition du Sénat visant à supprimer l'abattement fiscal de 10 % accordé aux retraités dans le budget 2027. Cette mesure, présentée comme un choix budgétaire, viserait à réduire les avantages fiscaux des pensions.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-24T09:23:16+00:00",
+    "titres_sources": [
+      "Suppression de l'abattement fiscal de 10% appliqué aux pensions de retraites : \"Je salue le choix courageux du Sénat\", confie David Amiel, ministre des Comptes publics",
+      "Suppression de l'abattement fiscal de 10% appliqué aux pensions de retraites : \"Je salue le choix courageux du Sénat\", confie David Amiel, ministre des Comptes publics",
+      "David Amiel sur France 2 soutient la suppression de l’abattement fiscal des retraités"
+    ]
   }
 ]
