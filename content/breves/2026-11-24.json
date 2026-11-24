@@ -199,5 +199,25 @@
       "Coup de tonnerre au Sénat : pourtant promise, la suppression de l'abattement pour les retraités rejetée",
       "Budget 2027 : coup de théâtre, le Sénat renonce à supprimer l’abattement de 10 % des retraités"
     ]
+  },
+  {
+    "titre": "Stellantis prévoit la suppression de l'équipe de nuit à Sochaux",
+    "texte": "L'usine de Sochaux devrait mettre fin à l'activité de son équipe de nuit dès janvier 2027, touchant environ 500 postes. Chaque salarié concerné serait reçu par sa hiérarchie d'ici fin novembre, selon le communiqué de l'entreprise.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-24T17:35:35+00:00",
+    "titres_sources": [
+      "L'usine Stellantis de Sochaux arrête l'activité de son équipe de nuit à partir de janvier 2027, 500 emplois sont concernés",
+      "L'usine Stellantis de Sochaux arrête l'activité de son équipe de nuit à partir de janvier 2027, 500 emplois sont concernés"
+    ]
+  },
+  {
+    "titre": "Un bus d'orientation prévu dans la commune",
+    "texte": "Un dispositif mobile devrait arriver dans la commune pour proposer des outils d'orientation aux étudiants, aux demandeurs d'emploi et aux salariés en reconversion. L'initiative vise à faciliter l'accès à l'information professionnelle.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-24T17:35:35+00:00",
+    "titres_sources": [
+      "Étudiants, sans emploi, salariés en reconversion… Un bus arrive dans cette commune pour donner les clés de l’orientation",
+      "Étudiants, sans emploi, salariés en reconversion… Un bus arrive dans cette commune pour donner les clés de l’orientation"
+    ]
   }
 ]
