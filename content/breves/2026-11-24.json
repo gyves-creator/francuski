@@ -219,5 +219,26 @@
       "Étudiants, sans emploi, salariés en reconversion… Un bus arrive dans cette commune pour donner les clés de l’orientation",
       "Étudiants, sans emploi, salariés en reconversion… Un bus arrive dans cette commune pour donner les clés de l’orientation"
     ]
+  },
+  {
+    "titre": "Office Depot France ferme 27 magasins, 185 licenciements économiques",
+    "texte": "L’entreprise, placée en liquidation judiciaire début octobre, a décidé de fermer définitivement ses 27 points de vente et son site internet en France. Les 185 salariés concernés seront licenciés pour motif économique.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-24T18:04:15+00:00",
+    "titres_sources": [
+      "Office Depot France ferme définitivement ses 27 magasins, 185 salariés licenciés",
+      "Office Depot met la clé sous la porte, 185 salariés licenciés",
+      "Office Depot ferme définitivement ses 27 magasins et son site Internet en France, faute d’avoir trouvé un repreneur"
+    ]
+  },
+  {
+    "titre": "Policiers de la Manche manifestent contre jour de carence, retraite et salaire",
+    "texte": "Des policiers de la Manche ont organisé une manifestation pour protester contre le jour de carence, les conditions de retraite et la rémunération. Le mouvement reflète leur mécontentement vis‑à‑vis des réformes en cours.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-24T18:04:15+00:00",
+    "titres_sources": [
+      "Jour de carence, retraite, rémunération : dans la Manche, les policiers manifestent leur mécontentement",
+      "Jour de carence, retraite, rémunération : dans la Manche, les policiers manifestent leur mécontentement"
+    ]
   }
 ]
