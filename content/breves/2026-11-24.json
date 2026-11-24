@@ -92,5 +92,26 @@
       "Vol de cuivre sur une borne de recharge de voiture électrique à Domfront-en-Poiraie",
       "La société américaine Aptera lance la première voiture électrique qui se recharge toute seule"
     ]
+  },
+  {
+    "titre": "Ventes de voitures électriques en hausse de 50 % en Europe",
+    "texte": "Les ventes de véhicules électriques ont progressé de 50 % en Europe sur les dix derniers mois, tandis que le réseau de bornes de recharge devrait s’étendre. En France, les modèles électriques ont dépassé les hybrides en octobre, contrairement à d’autres pays européens.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-24T11:06:31+00:00",
+    "titres_sources": [
+      "Voiture électrique : les ventes bondissent de 50 % en Europe sur dix mois !",
+      "Voiture électrique : les bornes de charge vont devenir encore plus nombreuses en Europe",
+      "Voiture électrique : en France, elle devance l’hybride en octobre, mais l’Europe est loin d’être unanime"
+    ]
+  },
+  {
+    "titre": "David Amiel plaide pour l'adoption du budget 2027 avant fin d'année",
+    "texte": "Le député David Amiel a appelé à faire adopter le projet de loi de finances 2027 avant la fin de l'année, soulignant l'irrégularité d'un processus sans compromis. Il estime qu'un tel scénario serait paradoxal.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-24T11:06:31+00:00",
+    "titres_sources": [
+      "France : David Amiel défend l’adoption du budget 2027 avant la fin de l’année",
+      "Budget 2027 : David Amiel verrait « un paradoxe » à ce qu’il n’y ait pas de compromis"
+    ]
   }
 ]
