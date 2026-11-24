@@ -113,5 +113,27 @@
       "France : David Amiel défend l’adoption du budget 2027 avant la fin de l’année",
       "Budget 2027 : David Amiel verrait « un paradoxe » à ce qu’il n’y ait pas de compromis"
     ]
+  },
+  {
+    "titre": "Immobilier ancien : les prix reculent au troisième trimestre",
+    "texte": "Les prix de l’immobilier ancien ont baissé de 1,2 % au troisième trimestre, selon les dernières données. Un autre indicateur montre une chute de 0,2 % pour le même périmètre au T3 2026.",
+    "rubrique": "immobilier",
+    "publie_le": "2026-11-24T11:40:03+00:00",
+    "titres_sources": [
+      "L’immobilier ancien recule encore et les acheteurs voient leurs ambitions fondre",
+      "Immobilier ancien : les prix ont reculé de 1,2 % au T3",
+      "Les prix de l’immobilier ancien en France baissent de 0,2% au 3e trimestre 2026"
+    ]
+  },
+  {
+    "titre": "Christophe Dugarry accuse la CAF de corruption après l’ovation à Infantino",
+    "texte": "Christophe Dugarry a dénoncé, lors de la réunion de la CAF, une corruption directe liée au soutien apporté à Gianni Infantino. Il a qualifié l’ovation d’inacceptable.",
+    "rubrique": "aides-social",
+    "publie_le": "2026-11-24T11:40:03+00:00",
+    "titres_sources": [
+      "CAF : Christophe Dugarry dénonce « de la corruption en direct » après l’ovation à Infantino",
+      "Christophe Dugarry dénonce la corruption lors de la CAF",
+      "FIFA. \"De la corruption en direct\" : Christophe Dugarry s'indigne du soutien de la CAF à Gianni Infantino"
+    ]
   }
 ]
