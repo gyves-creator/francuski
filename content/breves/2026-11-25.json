@@ -102,5 +102,15 @@
       "Le trafic des trains Eurostar entre Londres et Paris fortement perturbé dans les deux sens en raison d'une \"grève imprévue\"",
       "Une grève surprise à Eurostar provoque plusieurs annulations de trains entre Paris et Londres"
     ]
+  },
+  {
+    "titre": "Baisse du diesel en France attire les automobilistes suisses",
+    "texte": "Le prix du diesel en France va de nouveau diminuer, incitant les automobilistes suisses à traverser la frontière. Cette baisse devrait renforcer le trafic transfrontalier et soutenir les stations-service françaises.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-25T12:50:44+00:00",
+    "titres_sources": [
+      "Prix du diesel, quand sa baisse attire les automobilistes suisses en France",
+      "Bonne nouvelle pour les automobilistes : le prix du diesel va encore baisser"
+    ]
   }
 ]
