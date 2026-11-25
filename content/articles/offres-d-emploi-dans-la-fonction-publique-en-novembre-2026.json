@@ -1,0 +1,38 @@
+{
+  "slug": "offres-d-emploi-dans-la-fonction-publique-en-novembre-2026",
+  "titre": "Offres d’emploi dans la fonction publique en novembre 2026",
+  "chapeau": "Plusieurs postes de la fonction publique ont été publiés en novembre 2026, couvrant des secteurs culturels, patrimoniaux, linguistiques et logistiques. Ces recrutements offrent des perspectives aux candidats recherchant une carrière dans le service de l’État.",
+  "corps": "## Divers postes proposés\nDes annonces ont été diffusées pour cinq fonctions distinctes : coordinateur de micro‑folie, conservateur du patrimoine, coordinateur des langues régionales, musicien interprète, responsable de l’accueil et de la billetterie, ainsi que responsable des transports et du fret. Toutes les offres sont classées sous la même période de publication, le 25 novembre 2026, et ciblent des profils variés allant du secteur culturel au secteur logistique.\n\n## Modalités de candidature dans la fonction publique\nLes candidatures aux postes de la fonction publique sont généralement soumises via le portail officiel du recrutement public, accessible sur service‑public.fr. Les candidats doivent respecter les délais indiqués dans chaque offre et fournir les pièces demandées, qui comprennent souvent un CV, une lettre de motivation et, le cas échéant, les résultats d’un concours ou d’une sélection interne. Les modalités spécifiques (concours externe, interne ou sur titre) sont précisées dans chaque avis d’ouverture de poste.\n\n## Cadre de rémunération et évolution de carrière\nLes rémunérations des fonctions publiques sont encadrées par des grilles indiciaires publiées par l’État. Le niveau de traitement dépend du grade, de l’échelon et du corps d’affectation. Les agents recrutés bénéficient également des avantages liés à la fonction publique, tels que la stabilité de l’emploi, la protection sociale et les possibilités d’avancement. Pour connaître le traitement exact applicable à chaque poste, il convient de consulter les référentiels disponibles sur le site du ministère concerné ou de contacter le service des ressources humaines de l’administration concernée.\n\n## Où trouver les informations complémentaires\nLes annonces détaillées, incluant les conditions d’accès, les critères de sélection et les dates limites, sont consultables sur les sites institutionnels de recrutement public. Les candidats peuvent également se rendre sur les points d’information de la fonction publique ou appeler les services dédiés pour vérifier leur éligibilité et obtenir des précisions sur le déroulement du processus de sélection.",
+  "mots_cles": [
+    "emploi public",
+    "recrutement fonction publique",
+    "concours",
+    "candidature"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-25T11:11:19+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Meister_der_Kahriye-Cami-Kirche_in_Istanbul_005.jpg/1280px-Meister_der_Kahriye-Cami-Kirche_in_Istanbul_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Master of the Church of the Holy Saviour in Chora, Istanbul",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Meister_der_Kahriye-Cami-Kirche_in_Istanbul_005.jpg",
+    "legende": "",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Meister der Kahriye-Cami-Kirche in Istanbul 005.jpg"
+  },
+  "sources": [
+    {
+      "media": "Juristique",
+      "titre": "Coordinateur de Micro-Folie (H/F) dans la fonction publique : offres d’emploi en novembre 2026",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVNDbmpjSDdPVDN1V3Y4NEs1TVhSN096eWFHZy1ZOXlsUGlzZnR4ZjQ4ZEVNMVIzMzZYQnVxQTkyX1R0M1BvOEROVk51WUVUdmpJbmpLZjFwSHd6M2wzVVZFc3UtQmk1c3REazFGY2dDS2F6REVIWWhXMy1zZ3BPZnhSWDhxNnNORFFMN2FqTWdyR1NYNzRNV1FsSDJTbmRTSkhya0ZpbjA1T2ZvcTVZ?oc=5"
+    },
+    {
+      "media": "Helloworkplace",
+      "titre": "Hausse du Smic : de plus en plus d’offres d’emploi au salaire minimum",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zendkUUZ6N0RkNlc5bFNsYXBVbFVpRkVPblc5VkZvd095WHFIVXQ2SGZtaVVmbGstcnVMd19GUXpVTGY2LUYyZVVReWl3dUhBY2FnTFp3LWVUNzJtcmxiMENYQ2tKSVZmV1d1eGZSVTI?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
