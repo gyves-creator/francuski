@@ -1,0 +1,43 @@
+{
+  "slug": "gouvernement-maintient-l-interdiction-de-louer-les-passoires-thermiques",
+  "titre": "Gouvernement maintient l’interdiction de louer les passoires thermiques",
+  "chapeau": "Le ministre de la Ville et du Logement, Vincent Jeanbrun, a confirmé que la proposition du Rassemblement national visant à supprimer l’interdiction de louer des logements dits « passoires thermiques » ne sera pas adoptée. Cette décision confirme le maintien de la mesure actuelle, jugée « pas acceptable » par le gouvernement.",
+  "corps": "## Contexte de l’interdiction\nDepuis la mise en place du dispositif de lutte contre les logements très énergivores, les biens classés DPE (Diagnostic de performance énergétique) F ou G ne peuvent plus être proposés à la location. L’objectif est de réduire la consommation d’énergie des habitations et d’améliorer le confort thermique des locataires, tout en participant aux objectifs climatiques nationaux. Le critère DPE est consultable sur le diagnostic remis lors de la transaction ou sur le site du service public.\n\n## Position du gouvernement\nLe ministre de la Ville et du Logement, Vincent Jeanbrun, a indiqué que la mesure proposée par le Rassemblement national, qui aurait supprimé cette interdiction, n’est « pas acceptable ». Le texte de loi en première lecture, adopté mardi, ne prévoit donc pas de modification de la règle actuelle. Le gouvernement précise que la mesure restera en vigueur tant qu’une évolution législative n’aura pas été décidée, ce qui exclut à ce jour toute suppression de l’interdiction.\n\n## Conséquences pour les locataires et les propriétaires\nPour les locataires, le maintien de l’interdiction signifie que les annonces de location devront obligatoirement indiquer le classement DPE, et les biens classés F ou G ne seront plus proposés. Les propriétaires de logements concernés devront entreprendre des travaux de rénovation énergétique pour pouvoir les remettre sur le marché locatif. Les aides existantes, telles que MaPrimeRénov' ou les certificats d’économies d’énergie, restent accessibles et peuvent être mobilisées pour financer ces travaux. Les intéressés peuvent vérifier leur éligibilité et les démarches à suivre sur les sites officiels comme service-public.fr ou le portail dédié à la rénovation énergétique.\n\n## Suivi de l’évolution législative\nLe texte de loi a été adopté en première lecture, mais il reste soumis à un examen en commission puis à un vote en seconde lecture. Les débats parlementaires pourront éventuellement faire émerger de nouvelles propositions ou ajustements. Les acteurs du secteur immobilier sont invités à suivre les publications officielles du ministère du Logement et les mises à jour du Journal officiel pour connaître les éventuelles modifications futures.",
+  "mots_cles": [
+    "logement",
+    "passoires thermiques",
+    "interdiction location",
+    "Vincent Jeanbrun"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-25T16:23:08+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/20241008-P1120704_Jeanbrun_Vincent_Wikipedia.jpg/1280px-20241008-P1120704_Jeanbrun_Vincent_Wikipedia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "TrisHR",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:20241008-P1120704_Jeanbrun_Vincent_Wikipedia.jpg",
+    "legende": "Vincent Jeanbrun, député de la septième circonscription du Val-de-Marne",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:20241008-P1120704 Jeanbrun Vincent Wikipedia.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Gestion de patrimoine immobilier : Actualité et conseils pour la gestion de patrimoine immobilier : défiscalisation, location meublée",
+      "titre": "Défendue par le RN, la suppression de l’interdiction de louer des passoires thermiques ne sera pas portée par le gouvernement",
+      "url": "https://immobilier.lefigaro.fr/article/defendue-par-le-rn-l-interdiction-de-louer-des-passoires-thermiques-ne-sera-pas-portee-par-le-gouvernement-20261125"
+    },
+    {
+      "media": "franceinfo- Immobilier",
+      "titre": "Projet de loi sur le logement : le gouvernement \"ne portera pas la suppression\" de l'interdiction de louer des passoires thermiques",
+      "url": "https://www.franceinfo.fr/politique/projet-de-loi-sur-le-logement-le-gouvernement-ne-portera-pas-la-suppression-de-l-interdiction-de-louer-des-passoires-thermiques_8299518.html#xtor=RSS-3-%5Beconomie%2Fimmobilier%5D"
+    },
+    {
+      "media": "Figaro Immobilier",
+      "titre": "Défendue par le RN, la suppression de l’interdiction de louer des passoires thermiques ne sera pas portée par le gouvernement",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYy1mTkJCMVFINm9IS1AzUTM2eDhaTGhMWHBHbDFpcnNyVE1RYi1ZNEpvSlc4UUhaYjl1cmZ0elg4S3drUGVhbHZIVWI2YnNqV2lPS2RuVk96bENKOG1Fb09CUndCaWhyYVVIdVdfR3JTZ0JoQnhubmNqbW4xUGFGUlpMMnlERF9Dc3BJX3d6ZkJ2Z2kxbF9fUWJLMUdGUU8yc2hCVnowT0xDRUdCOHowTWxVZURBSXU3QzkyU3hIU3dVSTFXUC1TdXNITXZoSUt2TGpTbFF2ZHFMX3dVeUpQb2hqa2lya2pvWUE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 3
+}
