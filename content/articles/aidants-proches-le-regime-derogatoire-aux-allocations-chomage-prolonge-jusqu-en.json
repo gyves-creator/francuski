@@ -1,0 +1,39 @@
+{
+  "slug": "aidants-proches-le-regime-derogatoire-aux-allocations-chomage-prolonge-jusqu-en",
+  "titre": "Aidants proches : le régime dérogatoire aux allocations chômage prolongé jusqu'en 2029",
+  "chapeau": "Le dispositif qui suspend le versement des allocations chômage aux aidants proches a été maintenu jusqu'en 2029. Cette décision prolonge le sursis déjà en place pour les personnes qui assurent un accompagnement quotidien d'un proche en situation de dépendance.",
+  "corps": "## Un cadre juridique prolongé\nLe régime dérogatoire, instauré pour les aidants proches, prévoit que les personnes engagées dans l’accompagnement d’un proche en situation de dépendance peuvent voir leurs droits aux allocations chômage suspendus. La mesure, initialement prévue pour une durée limitée, a été prolongée jusqu’en 2029, assurant ainsi une continuité de protection pour les aidants concernés.\n\n## Qui peut en bénéficier ?\nCe dispositif s’adresse aux salariés ou aux demandeurs d’emploi qui, en raison de leurs responsabilités familiales, assurent un suivi quotidien d’un proche atteint d’une maladie, d’un handicap ou d’une perte d’autonomie. La notion d’« aidant proche » est définie par les textes en vigueur et implique généralement la prise en charge d’un proche au domicile, sans rémunération. Les personnes concernées doivent justifier de cette situation auprès des services compétents pour bénéficier du sursis des allocations chômage.\n\n## Comment vérifier son éligibilité ?\nLes aidants proches souhaitant savoir s’ils sont éligibles au régime dérogatoire doivent se rapprocher de leur agence Pôle emploi ou consulter le site officiel du service public. Les démarches consistent à fournir les pièces justificatives attestant de la situation de dépendance du proche (certificat médical, attestation de l’établissement de santé, etc.). Les informations actualisées sont également disponibles sur le portail officiel du ministère du Travail, où les modalités de dépôt de dossier sont détaillées.\n\n## Conséquences pratiques pour le budget familial\nLe maintien du sursis des allocations chômage signifie que les aidants proches ne percevront pas ces prestations pendant la période de prise en charge, mais qu’ils restent inscrits comme demandeurs d’emploi. Cette situation peut impacter le budget mensuel, notamment en l’absence de revenus de remplacement. Les personnes concernées sont invitées à explorer les aides complémentaires existantes, telles que l’allocation personnalisée d’autonomie (APA) ou les aides locales, afin de compenser la perte éventuelle de ressources. Les services sociaux départementaux et les caisses d’allocations familiales offrent des informations sur les dispositifs d’aide financière supplémentaires.\n\nEn résumé, la prolongation du régime dérogatoire jusqu’en 2029 assure aux aidants proches une continuité de la prise en charge administrative de leur situation, tout en les invitant à vérifier régulièrement leurs droits et à solliciter les aides complémentaires disponibles.",
+  "mots_cles": [
+    "aidants proches",
+    "allocations chômage",
+    "régime dérogatoire",
+    "prolongation",
+    "2029"
+  ],
+  "rubrique": "aides-social",
+  "publie_le": "2026-11-26T17:20:53+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/P%C3%B4le_emploi_Metz_Blida.jpg/1280px-P%C3%B4le_emploi_Metz_Blida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Flocci Nivis",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:P%C3%B4le_emploi_Metz_Blida.jpg",
+    "legende": "View from the other side of the Moselle on the employment office in the Avenue de Blida in Metz.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Pôle emploi Metz Blida.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Soir",
+      "titre": "Aidants proches : sursis prolongé jusqu’en 2029 pour les allocations de chômage",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWhpNzFwZmpsYlpqcENucEhhemVOVGMyR21xV1N0Szh3UU9NQm40MFc0VjRxSmV5SUU3eFNpM2NTbkpyNWNYdWtIdnhXanhzZE42a2d2cEh3X3h3VU1TUHRCS2ZaY1BQSThVMDdlV3lBcEptZWNzLWJDTkNKUUhycHJTQ3ZXaENrWF9QNUJSV3g5RkhJMDZGazdsQ3dIY3RWdHplMlV5anhaQWtlTHlISnh4V1Jtd0NndlIyaXN6a2VLUQ?oc=5"
+    },
+    {
+      "media": "Le Vif",
+      "titre": "Aidants proches: le régime dérogatoire aux allocations de chômage maintenu jusqu'en 2029",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWkV5WXlvbkdfd1ZBVXUzSWxLclJVSGRJRWE5Q2tMV1RtOEtTdjhBTHY0V1RxeWNrdjVucGZmbGswLWw5TjdQSTRmRWFtNWtGQTU0ZkhjUmpOajFENEZ6MnlYVGM1bk1PUDVFUWZkRzBrMXFpVGJQNDRJdmVTNEJwT3RtY0VDUTh5czZEUWZjaVdmdFVKYU5HOEU4ZmJBOFVnemJPeVUtSWpRZzA2VUJhTU9Yc2ozaFc5?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
