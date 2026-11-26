@@ -70,5 +70,26 @@
       "\"Comment on va faire ?\", au moins 1500 salariés de Stellantis à Mulhouse touchés par du chômage partiel d'ici janvier",
       "Stellantis: jours de chômage technique à Mulhouse en décembre et janvier"
     ]
+  },
+  {
+    "titre": "Le Sénat envisage une hausse de la taxe foncière",
+    "texte": "Le Sénat aurait voté un texte prévoyant l’ajout d’une taxe spéciale d’équipement à la taxe foncière, ce qui pourrait faire augmenter le montant dû par les contribuables. Cette mesure, si adoptée, toucherait l’ensemble des propriétaires fonciers.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-26T16:50:10+00:00",
+    "titres_sources": [
+      "Taxe foncière : pourquoi cette décision du Sénat peut faire grimper la facture ?",
+      "Taxe spéciale d'équipement sur la taxe foncière : comment la calculer et la contester après le vote du Sénat",
+      "Mauvaise nouvelle en vue pour vos impôts : cette décision du Sénat pourrait bien faire bondir le montant de votre taxe foncière"
+    ]
+  },
+  {
+    "titre": "Un couple ouvre une pension canine dans les Côtes-d'Armor",
+    "texte": "Après dix ans d’élevage, un couple a inauguré une pension canine destinée à accueillir tous les chiens dans le département des Côtes-d'Armor. L’établissement propose des services d’hébergement et de soins adaptés aux besoins des animaux.",
+    "rubrique": "retraite",
+    "publie_le": "2026-11-26T16:50:10+00:00",
+    "titres_sources": [
+      "« Un lieu adapté à tous les toutous » : dix ans après avoir créé son élevage, ce couple ouvre une pension canine dans les Côtes-d’Armor",
+      "« Un lieu adapté à tous les toutous » : dix ans après avoir créé son élevage, ce couple ouvre une pension canine dans les Côtes-d’Armor"
+    ]
   }
 ]
