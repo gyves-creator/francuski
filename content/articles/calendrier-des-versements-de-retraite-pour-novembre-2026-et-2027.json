@@ -1,0 +1,39 @@
+{
+  "slug": "calendrier-des-versements-de-retraite-pour-novembre-2026-et-2027",
+  "titre": "Calendrier des versements de retraite pour novembre 2026 et 2027",
+  "chapeau": "Les organismes de retraite ont publié les dates de paiement prévues pour novembre 2026 ainsi que le calendrier complet de 2027. Les assurés sont invités à vérifier leur situation sur les sites officiels.",
+  "corps": "## Versement des pensions en novembre 2026\nLes caisses de retraite ont communiqué les dates auxquelles les pensions seront versées au cours du mois de novembre 2026. Cette information vise à permettre aux retraités d’anticiper leurs rentrées d’argent et d’organiser leurs dépenses courantes.\n\n## Calendrier complet des paiements 2027\nUn calendrier détaillé a également été publié pour l’ensemble de l’année 2027. Il précise les échéances mensuelles de versement, afin d’assurer une visibilité maximale pour les bénéficiaires. Les dates sont accessibles sur les plateformes officielles des caisses de retraite et sur le portail service-public.fr.\n\n## Comment s’assurer de la bonne réception de son paiement\nChaque retraité peut vérifier la date qui le concerne en se connectant à son espace personnel sur le site de sa caisse ou en consultant les informations disponibles sur le site du service public. En cas de doute, il est possible de contacter le service client de l’organisme gestionnaire ou de se rendre dans une agence locale. Les démarches restent gratuites et ne nécessitent aucun document supplémentaire au-delà de l’identifiant habituel.\n\n## Points d’attention pour les nouveaux bénéficiaires\nLes personnes qui viennent d’entrer dans le système de retraite doivent également se référer à ce calendrier, car les dates de versement sont les mêmes pour l’ensemble des assurés, quel que soit le moment d’ouverture des droits. Il convient de vérifier que les coordonnées bancaires sont à jour afin d’éviter tout retard de paiement.",
+  "mots_cles": [
+    "retraite",
+    "versement",
+    "calendrier",
+    "paiement",
+    "pension"
+  ],
+  "rubrique": "retraite",
+  "publie_le": "2026-11-26T12:15:08+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/CNAV_Endeavour_%284381-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown Unknown , Royal Canadian Navy",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:CNAV_Endeavour_(4381-1).jpg",
+    "legende": "Caption from The Crowsnest magazine March-April 1965 CNAV Endeavour , the first oceanographic survey ship to be built for the Department of National Defence, was accepted March 9 at Yarrows Limited, V",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:CNAV Endeavour (4381-1).jpg"
+  },
+  "sources": [
+    {
+      "media": "La République des Pyrénées",
+      "titre": "Versement des retraites en novembre : les dates de paiement à connaître",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRnp4MU5BQ2tOcTlNTzM5NHFmY21DWDZ2b0lsYUx0dlNoQW93X1JhOG9TNEFlb3l0ajl6MXRuYXd4LWs1ZzlsUENiY3hxSXdHYWxBWEhBY3FSY0JpRnJlc2xjaXl6YzlDR1BTY2djWW82VVpjTU83RzRTRjBhV3V5TldDelpUUTFZdWlxQnRWYVowdTZmV0dKZTJMNkxYUVNCY0hDZzhMdDJBeU1xaTJOOE1rdlBiT3hWV1RXVURCajc5S3FqdmhKbkwtektyZ29jUXNHLWRB?oc=5"
+    },
+    {
+      "media": "Bonjoursenior.fr",
+      "titre": "Dates de paiement des retraites 2027 : le calendrier complet",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFZQUkxicHp3aEVoR0dJa0k2WUZoSG1zOFZKUEVlS0djLUxGb3RDWEhFZXJRbzB2Y1JQLUhENTZlVGlKQ3JQWHpFcGtPNFQ5M1lzQl90cUZCaWxSZVcwWnVtUXZWWEpGUjBCTlBpeHNKUE55eDVRUWRZYVZyQW81YVJka3c3X2QwdmlwRDVCZWNYa1hSN2IzLU1UYUNwa3dz?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
