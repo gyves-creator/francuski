@@ -1,0 +1,39 @@
+{
+  "slug": "encadrement-des-loyers-prolonge-deux-ans-mais-une-faille-juridique-pour-certains",
+  "titre": "Encadrement des loyers prolongé deux ans, mais une faille juridique pour certains propriétaires",
+  "chapeau": "L'encadrement des loyers a été officiellement prolongé pour deux ans dès la semaine dernière. Cependant, une disposition permet à certains bailleurs de contourner ce dispositif légalement.",
+  "corps": "## Prolongation du dispositif d'encadrement des loyers\nDepuis la semaine dernière, la mesure d'encadrement des loyers a été prolongée pour une durée de deux ans. Cette décision, prise au niveau préfectoral, vise à maintenir la maîtrise des augmentations de loyer dans les zones où le dispositif est appliqué, afin de protéger les locataires contre les hausses excessives. La prolongation s’inscrit dans la continuité des politiques de régulation du marché locatif mises en place ces dernières années.\n\n## Une échappatoire juridique pour certains bailleurs\nParallèlement à cette prolongation, il a été constaté que la rédaction de l’arrêté préfectoral comporte une marge d’interprétation qui autorise certains propriétaires à éviter l’application du plafonnement. Cette « bévue » permet aux bailleurs qui remplissent les critères prévus par la réglementation de ne pas être soumis aux limites de l’encadrement. Le mécanisme exact n’est pas détaillé dans les informations disponibles, mais il s’agit d’une possibilité légale reconnue par les autorités compétentes.\n\n## Qui est concerné et comment vérifier son éligibilité\nLe dispositif concerne les logements situés dans les zones d’application de l’encadrement, généralement les zones tendues où la demande dépasse l’offre. Les locataires de ces zones continuent de bénéficier du plafonnement des loyers, à condition que le propriétaire ne recoure à la dérogation mentionnée. Les bailleurs doivent se référer aux textes officiels publiés sur le site du service public pour connaître les conditions précises d’application et les éventuelles exclusions. En cas de doute, il est recommandé de consulter la rubrique dédiée à l’encadrement des loyers sur service-public.fr ou de contacter la préfecture compétente.\n\n## Implications pour le budget des ménages\nPour les locataires, la prolongation du dispositif garantit une stabilité du loyer pendant deux années supplémentaires, ce qui peut faciliter la prévision des dépenses de logement. En revanche, les propriétaires qui utilisent la dérogation peuvent fixer des loyers supérieurs aux plafonds, ce qui crée une disparité selon les cas. Les ménages doivent donc rester vigilants et vérifier, lors de la signature ou du renouvellement d’un bail, si le logement est soumis à l’encadrement ou s’il bénéficie de l’exemption prévue. Cette vigilance permet d’anticiper d’éventuels ajustements de loyer et d’ajuster le budget en conséquence.",
+  "mots_cles": [
+    "encadrement loyers",
+    "prolongation",
+    "bailleurs",
+    "locataires",
+    "budget logement"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-26T15:18:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Prefecture_de_Police_at_Site_central_de_Gesvres%2C_Paris.jpg/1280px-Prefecture_de_Police_at_Site_central_de_Gesvres%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "iMahesh",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Prefecture_de_Police_at_Site_central_de_Gesvres,_Paris.jpg",
+    "legende": "Prefecture de Police at Site central de Gesvres, Paris",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Prefecture de Police at Site central de Gesvres, Paris.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Gestion de patrimoine immobilier : Actualité et conseils pour la gestion de patrimoine immobilier : défiscalisation, location meublée",
+      "titre": "La bévue de ces préfets qui permet aux propriétaires d’éviter l’encadrement des loyers",
+      "url": "https://immobilier.lefigaro.fr/article/la-bevue-des-prefets-qui-permet-aux-proprietaires-d-eviter-l-encadrement-des-loyers-20261126"
+    },
+    {
+      "media": "Figaro Immobilier",
+      "titre": "La bévue des préfets qui permet aux propriétaires d’éviter l’encadrement des loyers",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ21oc0JaemxJVk85OTlIWU1RWXpfZWhtREpWWU1KYkVncVllcmNYWkFNQUEzbVZZRXpxZVBUOHV6cWtCRVhTVml5S05PWkMzc0dSdzdpNEk4ZVllUWFhd0psQTJGY1R3ak9NdjZQcUNZZ29hcy0yT2pQVFNXWWJueFltbFlVRmdEU0xJREpERVo3LUdkXzZwb3ZwcFpIcXlvOW1RRDVMMk13emZ5cGh2ZkNKckxhLVY5NFFUcEtPQTJjLUdKZ190TlRFTQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
