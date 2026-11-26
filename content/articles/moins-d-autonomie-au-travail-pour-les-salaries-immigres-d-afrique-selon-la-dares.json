@@ -1,0 +1,44 @@
+{
+  "slug": "moins-d-autonomie-au-travail-pour-les-salaries-immigres-d-afrique-selon-la-dares",
+  "titre": "Moins d’autonomie au travail pour les salariés immigrés d’Afrique selon la Dares",
+  "chapeau": "Une étude de la Dares révèle que les salariés immigrés originaires d’Afrique occupent davantage des postes peu autonomes. Cette situation touche tous les sexes et peut influencer la progression de carrière et le revenu.",
+  "corps": "## Une moindre autonomie constatée\nL’enquête menée par la Direction de l'animation de la recherche, des études et des statistiques (Dares) indique que les salariés issus de l’immigration africaine disposent de moins d’autonomie dans leurs fonctions. Le terme « autonomie » désigne la capacité à prendre des décisions opérationnelles et à organiser son travail de façon indépendante. Un faible niveau d’autonomie est souvent associé à des postes où les consignes sont très précises et où la marge de manœuvre est limitée.\n\n## Des emplois concentrés dans des métiers peu qualifiés\nLe même rapport précise que « les immigrés occupent plus souvent des postes d'agents d'entretien, de gardiennage ou de sécurité ». Ces métiers, bien que essentiels, offrent généralement des marges de décision restreintes et des possibilités de formation interne limitées. En pratique, cela peut se traduire par des niveaux de salaire de base plus modestes et des perspectives d’évolution de carrière plus lentes.\n\n## Conséquences pour le budget des ménages\nUn poste à faible autonomie implique souvent des rémunérations moins élevées, ce qui impacte directement le pouvoir d’achat des ménages concernés. Les salariés peuvent ainsi se retrouver plus dépendants d’aides sociales ou de compléments de revenu. Il est recommandé aux personnes concernées de vérifier leur situation sur les sites officiels tels que service-public.fr ou impots.gouv.fr afin d’identifier d’éventuelles aides au logement, à la formation ou à la mobilité professionnelle.\n\n## Que faire pour mieux comprendre son statut ?\nPour les travailleurs concernés, il est utile de consulter les fiches de poste et les conventions collectives applicables à leur secteur. Ces documents précisent les critères d’évolution, les possibilités de formation et les éventuels dispositifs de reconversion. Les services d’orientation professionnelle, accessibles via Pôle emploi, peuvent également fournir des informations personnalisées sur les parcours de formation éligibles.\n\nEn résumé, l’étude de la Dares met en lumière une concentration des salariés immigrés d’Afrique dans des emplois à faible autonomie, avec des répercussions potentielles sur leurs revenus et leurs perspectives d’évolution. Une meilleure connaissance des droits et des dispositifs d’accompagnement reste indispensable pour optimiser la situation financière de ces ménages.",
+  "mots_cles": [
+    "immigration",
+    "autonomie",
+    "salaires",
+    "Dares",
+    "emploi"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-26T07:38:49+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/RF-DARES_RVB.png/1280px-RF-DARES_RVB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jorisam75",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:RF-DARES_RVB.png",
+    "legende": "L'image est celle du nouveau logo de la Dares depuis début 2021",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:RF-DARES RVB.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo",
+      "titre": "Les salariés immigrés originaires d'Afrique disposent de moins d'autonomie dans leur travail, selon la Dares",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQk9ET2lueU5wUk1pVWswRFJJWTczUDZoZUM1bW1IYUxaUVQ4akl1MzZuUjJ4cEFFUzJiaEljdWtKRHpXM3J3OEtRS3d3VmxIQWoyZDBuZk91VDFxcjBKdUhlcFNlaGk2b21nWUdNem44MnFPY1pYQk5QMTN2OXVZVXN0Z2pWMm10S1gyM0lwWlI5VXUwN0c5dEU3RXg2RTFYM3VMMjZPb05TazhBUWhDeHNIUU1xLTkwMmM3RUJlUl96NnhReFNsZV9QUDF0RTBjSENjVFRoOWFWQm9TUUtiSW1QelRsbThMc1Fidzg0Z2VfbjZR?oc=5"
+    },
+    {
+      "media": "franceinfo- Emploi",
+      "titre": "Les salariés immigrés originaires d'Afrique disposent de moins d'autonomie dans leur travail, selon la Dares",
+      "url": "https://www.franceinfo.fr/economie/emploi/les-salaries-immigres-originaires-d-afrique-disposent-de-moins-d-autonomie-dans-leur-travail-selon-la-dares_8300922.html#xtor=RSS-3-%5Beconomie%2Femploi%5D"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Les salariés immigrés originaires d'Afrique disposent de moins d'autonomie dans leur travail, selon la Dares",
+      "url": "https://www.franceinfo.fr/economie/emploi/les-salaries-immigres-originaires-d-afrique-disposent-de-moins-d-autonomie-dans-leur-travail-selon-la-dares_8300922.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 3
+}
