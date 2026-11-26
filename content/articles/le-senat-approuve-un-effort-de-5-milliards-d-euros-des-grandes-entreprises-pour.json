@@ -1,0 +1,39 @@
+{
+  "slug": "le-senat-approuve-un-effort-de-5-milliards-d-euros-des-grandes-entreprises-pour",
+  "titre": "Le Sénat approuve un effort de 5 milliards d’euros des grandes entreprises pour le budget 2027",
+  "chapeau": "Le Sénat a voté l’inclusion d’une contribution de cinq milliards d’euros à destination des grandes entreprises dans le budget 2027. Cette mesure, présentée comme nécessaire pour réduire le déficit, a été soutenue par la majorité de droite sénatoriale.",
+  "corps": "## Une mesure votée par le Sénat\nLe texte du budget 2027 comporte une disposition prévoyant un effort financier de cinq milliards d’euros demandé aux grandes entreprises. Cette disposition a été approuvée par le Sénat, où la droite détient la majorité. La rapporteure générale, Christine Lavarde, élue Les Républicains, a justifié la décision en rappelant la nécessité de combler le déficit budgétaire.\n\n## Implications pour les entreprises\nL’adoption de cette mesure par le Sénat signifie qu’elle devra encore être examinée par l’Assemblée nationale avant d’entrer en vigueur. En attendant, les entreprises concernées peuvent suivre l’évolution du texte en consultant les sites officiels du gouvernement, tels que service-public.fr ou legifrance.gouv.fr, où sont publiés les projets de loi de finances et leurs amendements. Aucun détail supplémentaire sur les modalités de calcul ou les seuils d’application n’a été communiqué dans les dépêches.\n\n## Contexte budgétaire\nLe budget 2027 vise à réduire le déficit public, d’où la recherche de ressources supplémentaires auprès des acteurs économiques les plus solvables. La mesure s’inscrit dans une logique de partage de l’effort fiscal, évoquée par la rapporteure comme indispensable pour atteindre les objectifs de consolidation des comptes de l’État.\n\n## Points de suivi\n- Vérifier la progression du texte au Parlement via le site de l’Assemblée nationale.\n- Consulter les publications officielles pour connaître les éventuelles modifications ou précisions apportées avant l’adoption définitive.\n- S’informer auprès de son expert-comptable ou du service des impôts des entreprises pour anticiper les impacts éventuels une fois la loi votée.",
+  "mots_cles": [
+    "budget 2027",
+    "entreprises",
+    "déficit",
+    "Sénat",
+    "fiscalité"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-26T05:24:45+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/S%C3%A9nat_2026_actuel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Totovesi",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9nat_2026_actuel.jpg",
+    "legende": "Sénat français",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Sénat 2026 actuel.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Monde.fr",
+      "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhtVVZuekxSa2F3NG96WGNzY0dCcE5panBwbzBYTnVmZl9KV3Z6UXU3OElqN2V4Uy1JX2hNeVJUUTR5YVFtczZ4VU5UOUJyT3RHMGZwX1Q3MTBtYy1IMnl0QUtHTjRyUXRpaGZ0eDFkVlFLRVRIbmVVaHpndVBsYnV6S0xOYTNSTV83dWloR0lWdG5venBOWldxSFlOUHJaZkFvZ3pFTDBUdHh6N3hlSTRRY3podlJ3RjI4X1pvRjZiVTdwZzB0eVNVaTU4cWlucXd6eEN5SVd5ME5iTzZPanVsZ0ZxWV96ZHhGVUc0WnU0WVNCUkp4S2YzbWE?oc=5"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
