@@ -101,5 +101,28 @@
       "Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale",
       "Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale"
     ]
+  },
+  {
+    "titre": "Naufrage d'un navire transportant du carburant au large d'Ibiza",
+    "texte": "Un navire transportant environ 7 000 tonnes de carburant a sombré au large d’Ibiza, faisant un mort. Aucun signe de marée noire n’a été constaté, mais les autorités surveillent les risques de pollution.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-26T18:37:22+00:00",
+    "titres_sources": [
+      "Un mort, 7 000 tonnes de carburant à bord, pas de traces de marée noire... Ce que l'on sait du naufrage d'un navire au large de l'île espagnole d'Ibiza",
+      "Ibiza : un navire transportant du carburant fait naufrage",
+      "Au large d’Ibiza, quels risques présentent les 7000 tonnes de carburant ?",
+      "Espagne : un pétrolier transportant 66 000 barils de carburant coule au large d’Ibiza"
+    ]
+  },
+  {
+    "titre": "Les salariés de Rockstar UK refusent la reconnaissance syndicale",
+    "texte": "Lors d’un vote interne, 75,3 % des employés de Rockstar UK se sont prononcés contre la reconnaissance d’un syndicat. L’entreprise a ainsi confirmé le rejet de la démarche syndicale.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-26T18:37:22+00:00",
+    "titres_sources": [
+      "GTA VI : les salariés de Rockstar, l'éditeur du jeu, rejettent la reconnaissance d'un syndicat",
+      "Les salariés de l'éditeur de GTA VI rejettent la reconnaissance d'un syndicat",
+      "Rockstar UK : 75,3 % des salariés votent contre le syndicat"
+    ]
   }
 ]
