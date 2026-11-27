@@ -1,0 +1,33 @@
+{
+  "slug": "xavier-le-mentec-chef-de-la-caserne-de-lorient-part-a-la-retraite",
+  "titre": "Xavier Le Mentec, chef de la caserne de Lorient, part à la retraite",
+  "chapeau": "Le commandant Xavier Le Mentec quitte la caserne des pompiers de Lorient après plusieurs décennies de service. Sa fille reprend la direction, assurant la continuité du poste.",
+  "corps": "## Un départ symbolique après une carrière longue\nXavier Le Mentec, décrit comme une « force tranquille », met fin à son mandat à la tête de la caserne des pompiers de Lorient. Son départ intervient à l’issue d’une carrière caractérisée par la gestion d’interventions majeures et la formation des équipes locales. Le passage du flambeau à sa fille, déjà intégrée dans les services, souligne la dimension familiale et la volonté de préserver la cohérence opérationnelle.\n\n## Le régime de retraite des sapeurs-pompiers\nLe statut de sapeur-pompier professionnel relève du régime général de la fonction publique. La pension de retraite est calculée en fonction du nombre d’années de service effectif et du traitement indiciaire perçu. Les agents peuvent vérifier leurs droits, le montant prévisionnel et les démarches à accomplir sur le site officiel service‑public.fr, rubrique « Retraite des fonctionnaires ». Il convient de signaler que la liquidation du droit à la retraite se fait généralement quelques mois avant la date de cessation d’activité, afin d’assurer le versement du premier mois de pension.\n\n## Les démarches à anticiper pour les familles de pompiers\nLorsque l’un des membres d’une famille travaille dans la même caserne, les procédures de transmission de poste restent encadrées par le service des ressources humaines de la municipalité. Les candidats internes, comme la fille de M. Le Mentec, doivent suivre les étapes de validation du poste, incluant la vérification des qualifications et la validation du niveau de responsabilité. Les salariés concernés sont invités à consulter le portail de la fonction publique ou à prendre contact avec le service du personnel de la mairie de Lorient pour obtenir les informations précises sur les conditions de prise de fonction.\n\n## Impact budgétaire pour le foyer\nLe passage à la retraite entraîne la perception d’une pension mensuelle, qui vient remplacer le salaire perçu jusqu’alors. Les foyers doivent donc ajuster leur budget en intégrant ce revenu stable, tout en tenant compte d’éventuelles cotisations sociales ou prélèvements obligatoires. Pour anticiper ces changements, il est recommandé de consulter le simulateur de revenu disponible sur impots.gouv.fr, qui permet d’estimer l’impact fiscal de la pension. En cas de doute, le centre des finances publiques de Lorient reste le point de contact privilégié pour obtenir des réponses personnalisées.",
+  "mots_cles": [
+    "retraite",
+    "pompiers",
+    "fonction publique",
+    "pension"
+  ],
+  "rubrique": "retraite",
+  "publie_le": "2026-11-27T07:37:42+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg/1280px-Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "François GOGLINS",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sens-FR-89-rassemblement_novembre_2025_des_retrait%C3%A9s-a4.jpg",
+    "legende": "Rassemblement syndical (CGT) des retraités, le 6 novembre 2025 à Sens (Yonne, France), devant la sous-préfecture.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Sens-FR-89-rassemblement novembre 2025 des retraités-a4.jpg"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "PORTRAIT. Xavier Le Mentec, « une force tranquille » de la caserne des pompiers de Lorient part à la retraite, sa fille prend le flambeau",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTFRRVExJVWZXeGtwQW9lN1FXOGJ5YVFqbFBDMHlXbFZCaDEwbjhvb25FWGNiblRMaEhpS1pmTVpGRWVOU1JXaVJUUHFJdEFGd0MwV2plNEd2M0Noc0Z3YkFtV3FmV1NDbERYWlFqV1d3VW9vYm9kSVpDR3Q2OElVOU1ONTVVZ1kyTTZ3UnIya2Q3QXJKeUYxSmdpN19ZbF9mN1o1Q1BGSUpSbHYwVmdxSTY3eUNHVEUtOUVJcjFsOWtZdXlqelhDWmtqQ0V3alhuVU9EMUpGdEkwQnZOYU1iR2xFRHhIUGZabTNCTlNkT1F1ODNiRXRxMzd6ZldDaGtycG5ETnNmV3JKUWJ0UkJ3bUdFUW5jbnJmOTRaVHBmeFpCTl9OMkk4X1dwR0JUWUxqOGJoNHkwdw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}
