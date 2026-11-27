@@ -1,0 +1,34 @@
+{
+  "slug": "nouvelle-mesure-fiscale-renforce-l-avantage-jeanbrun-pour-l-achat-du-neuf",
+  "titre": "Nouvelle mesure fiscale renforce l’avantage Jeanbrun pour l’achat du neuf",
+  "chapeau": "Un dispositif fiscal additionnel vient d’être présenté pour rendre plus attractive l’incitation déjà mise en place par le gouvernement en 2026. Cette mesure vise à soutenir les acquéreurs de logements neufs et à encourager la construction de nouveaux bâtiments.",
+  "corps": "## Un dispositif qui vient compléter l’avantage Jeanbrun\nLe gouvernement a introduit en 2026 l’« avantage Jeanbrun », un dispositif destiné à favoriser l’achat de logements neufs. Selon les informations communiquées, un dispositif fiscal supplémentaire vient maintenant s’ajouter à ce dispositif existant, afin d’en accroître l’attractivité. Aucun détail chiffré n’a été fourni dans le communiqué, mais l’objectif affiché est de rendre l’opération d’achat dans le neuf plus rentable pour les futurs propriétaires.\n\n## Qui peut en bénéficier ?\nCette mesure s’adresse principalement aux ménages qui envisagent d’acquérir un bien immobilier neuf, que ce soit en accession à la propriété ou en investissement locatif. Les acquéreurs devront se conformer aux conditions déjà prévues par l’avantage Jeanbrun, auxquelles s’ajouteront les critères du nouveau dispositif fiscal. Pour vérifier leur éligibilité, les intéressés sont invités à consulter les sites officiels tels que service-public.fr ou à prendre contact avec un notaire ou un conseiller fiscal.\n\n## Impact sur le marché immobilier\nEn renforçant l’incitation fiscale, le gouvernement espère stimuler la demande de logements neufs, ce qui pourrait soutenir le secteur de la construction. Les promoteurs immobiliers pourraient ainsi bénéficier d’une dynamique accrue, tandis que les acquéreurs pourraient profiter d’une réduction du coût net de leur investissement. Aucun chiffre officiel n’a été communiqué quant à l’ampleur de l’effet attendu sur les prix ou le volume des ventes.\n\n## Suivi et mise en œuvre\nLe dispositif fiscal additionnel a été présenté comme étant immédiatement applicable, mais les modalités précises de mise en œuvre restent à détailler par les services fiscaux. Les contribuables sont encouragés à se tenir informés des éventuelles circulaires ou guides pratiques qui seront publiés sur les sites gouvernementaux. En cas de doute, il est possible de solliciter un renseignement auprès de l’administration fiscale ou de consulter les informations disponibles sur impots.gouv.fr.\n\nEn résumé, ce nouveau levier fiscal vient renforcer l’avantage Jeanbrun, déjà en place depuis 2026, afin de rendre l’achat d’un logement neuf plus intéressant sur le plan financier. Les futurs acquéreurs doivent suivre les évolutions législatives et vérifier leur situation auprès des autorités compétentes pour profiter pleinement de cet avantage.",
+  "mots_cles": [
+    "avantage Jeanbrun",
+    "logement neuf",
+    "fiscalité",
+    "immobilier",
+    "achat"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-27T11:07:08+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/1896_-_Cochinchine_-_Sa%C3%AFgon_-_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg/1280px-1896_-_Cochinchine_-_Sa%C3%AFgon_-_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Salles, André (1860-1929)",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:1896_-_Cochinchine_-_Sa%C3%AFgon_-_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg",
+    "legende": "Palais du Gouvernement Général en Cochinchine",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:1896 - Cochinchine - Saïgon - Palais du Gouvernement Général.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Gestion de patrimoine immobilier : Actualité et conseils pour la gestion de patrimoine immobilier : défiscalisation, location meublée",
+      "titre": "Immobilier : cette astuce méconnue qui rend l’achat dans le neuf beaucoup plus rentable",
+      "url": "https://immobilier.lefigaro.fr/article/immobilier-cette-astuce-meconnue-qui-rend-l-achat-dans-le-neuf-beaucoup-plus-rentable-20261127"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}

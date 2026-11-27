@@ -1,0 +1,33 @@
+{
+  "slug": "le-secteur-du-jeu-video-demande-un-renforcement-du-credit-d-impot",
+  "titre": "Le secteur du jeu vidéo demande un renforcement du crédit d’impôt",
+  "chapeau": "Les acteurs du jeu vidéo, confrontés à une situation économique difficile, sollicitent les candidats à la présidentielle pour intensifier le dispositif fiscal qui soutient leur activité. Ils réclament notamment un renforcement du crédit d’impôt dédié au secteur.",
+  "corps": "## Un secteur en crise qui se tourne vers la fiscalité\n\nDepuis plusieurs années, l’industrie du jeu vidéo française fait face à des difficultés liées à la concurrence internationale, aux coûts de production élevés et à la volatilité des marchés. Les professionnels du secteur, regroupés au sein d’associations professionnelles, ont exprimé, à l’approche de l’élection présidentielle, le besoin d’un soutien politique plus important. Leur revendication principale porte sur le crédit d’impôt jeu vidéo, un dispositif fiscal qui permet aux entreprises de récupérer une partie des dépenses engagées dans la conception et la production de jeux.\n\n## Le crédit d’impôt jeu vidéo : un levier déjà en place\n\nLe crédit d’impôt jeu vidéo, instauré il y a plusieurs années, vise à encourager la création de contenus numériques en France en accordant aux sociétés éligibles une réduction d’impôt proportionnelle aux dépenses de recherche, de développement et de production. Ce mécanisme a permis à de nombreuses entreprises de financer leurs projets et de maintenir ou créer des emplois. Cependant, les acteurs du secteur jugent que le dispositif actuel ne suffit plus à compenser les pressions économiques auxquelles ils sont confrontés.\n\n## Les demandes formulées aux candidats\n\nLes représentants du secteur ont indiqué que le renforcement du crédit d’impôt serait essentiel pour assurer la compétitivité du secteur français. Ils appellent les candidats à la présidentielle à proposer des mesures visant à augmenter le taux de récupération ou à élargir le champ des dépenses éligibles. Aucun chiffre précis n’a été communiqué dans les revendications publiques, mais l’enjeu est présenté comme crucial pour la pérennité des studios de développement et la création d’emplois qualifiés.\n\n## Comment vérifier son éligibilité et suivre les évolutions\n\nLes entreprises intéressées par le crédit d’impôt jeu vidéo peuvent consulter les informations officielles disponibles sur le site du service public (service-public.fr) ou sur le portail dédié aux aides aux entreprises (entreprises.gouv.fr). Les critères d’éligibilité, les démarches de déclaration et les pièces justificatives requises y sont détaillés. En cas de modification du dispositif, les évolutions seront publiées sur le site du ministère de l’Économie, des Finances et de la Relance et sur le site officiel du gouvernement.\n\nCette mobilisation du secteur montre que les questions fiscales restent au cœur des préoccupations des entreprises du numérique, et que les débats électoraux peuvent influencer les futures orientations de la politique de soutien à l’innovation.",
+  "mots_cles": [
+    "jeu vidéo",
+    "crédit d’impôt",
+    "industrie numérique",
+    "budget entreprise"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-27T11:07:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie%2C_des_Finances_et_de_la_Relance_02.jpg/1280px-B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie%2C_des_Finances_et_de_la_Relance_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "SailEOuiAla",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie,_des_Finances_et_de_la_Relance_02.jpg",
+    "legende": "Façade côté Seine du Bâtiment \"Colbert\" du ministère de l'Économie, des Finances et de la Relance + Pont de Bercy + Seine",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Bâtiment \"Colbert\" du ministère de l'Économie, des Finances et de la Relance 02.jpg"
+  },
+  "sources": [
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Jeu vidéo : en crise, le secteur interpelle les candidats à l’élection présidentielle",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/27/jeu-video-en-crise-le-secteur-interpelle-les-candidats-a-l-election-presidentielle_6815838_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}
