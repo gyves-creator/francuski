@@ -1,0 +1,39 @@
+{
+  "slug": "sixieme-avenue-s-associe-a-gapaylo-pour-garantir-les-loyers",
+  "titre": "Sixième Avenue s’associe à GaPayLo pour garantir les loyers",
+  "chapeau": "Sixième Avenue, l’émission consacrée à l’immobilier, annonce un partenariat avec la fintech GaPayLo afin de proposer une garantie de loyers. Cette initiative vise à sécuriser les paiements pour les locataires et les propriétaires.",
+  "corps": "## Un partenariat annoncé dans le secteur locatif\nSixième Avenue a déclaré s’allier à GaPayLo, une société spécialisée dans les solutions de paiement et de garantie financière. L’objectif annoncé est de mettre en place un dispositif permettant de garantir le versement des loyers, tant pour les locataires que pour les bailleurs.\n\n## Fonctionnement de la garantie de loyers\nLe principe de la garantie consiste à offrir une assurance ou un engagement de paiement en cas de défaut du locataire. Selon les informations communiquées, le dispositif sera proposé aux utilisateurs de la plateforme de location liée à l’émission, mais les modalités exactes – telles que le montant de la garantie, les conditions d’éligibilité ou les frais éventuels – n’ont pas été détaillées. Les parties intéressées devront donc se référer aux sites officiels de Sixième Avenue et de GaPayLo pour connaître les critères d’accès et les éventuelles démarches à accomplir.\n\n## Implications pour le budget des locataires et des propriétaires\nPour les locataires, une garantie de loyers peut faciliter l’accès à un logement en rassurant le propriétaire sur la capacité à honorer les paiements. Cela peut également éviter le recours à des cautions traditionnelles ou à des garanties de tiers, souvent perçues comme contraignantes. Du côté des bailleurs, le dispositif promet de réduire le risque d’impayés, ce qui peut contribuer à stabiliser les revenus locatifs et à limiter les procédures de recouvrement. Aucun chiffre précis n’a été communiqué sur l’impact financier attendu, il convient donc d’évaluer chaque situation individuelle.\n\n## Comment vérifier son éligibilité\nLes personnes souhaitant profiter de cette garantie sont invitées à consulter les pages dédiées sur les sites de Sixième Avenue et de GaPayLo, où seront publiées les conditions d’inscription, les documents requis et les éventuels contacts d’assistance. En cas de doute, il est possible de se rapprocher des services publics compétents, tels que la Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes (DGCCRF), ou de solliciter un conseil auprès d’associations de consommateurs spécialisées dans le logement.",
+  "mots_cles": [
+    "location",
+    "garantie de loyers",
+    "immobilier",
+    "locataires",
+    "bailleurs"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-27T19:12:51+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bulletin_r%C3%A9f%C3%A9rendum_Gabon_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "https://sudd.ch/doku.php?lang=fr&amp;item=ga012024-zettel.webp",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bulletin_r%C3%A9f%C3%A9rendum_Gabon_2024.png",
+    "legende": "Bulletin de vote du référendum de 2024 au Gabon",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Bulletin référendum Gabon 2024.png"
+  },
+  "sources": [
+    {
+      "media": "Toute la Franchise",
+      "titre": "Sixième Avenue, l’immobilier par M6 s’allie à GaPayLo pour donner un nouvel élan à la location immobilière",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iZ1pmY3IteWRwd0cweER1WEI2bFA0NGc4WGEtZHV2cGlsTjRlOTV6TjRCVk1GNXBURU1jVTl0T3NkR2tOS0dkVGRwUllGZHN3S2E0TEpRZGNmZF9mZFF5aTU0SFZQWGh1VlNqeTRfN2FUUTdHVzgxRlZlaw?oc=5"
+    },
+    {
+      "media": "MySweetImmo",
+      "titre": "Location : Sixième Avenue s’allie à GaPayLo pour garantir les loyers",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2xlT3Y4T3NzdVQtRG9ZMUNDYkx1b3J5bjBlZ0pFbDRKRy1ZVXgyZTNrN2p0eG0ya090cElJWTJSNGV1WnJ1dktXcU1wcnFCUHZYc09ubFRhdkIwdFBLcHNJdkdGVmZNajk3RG1tc2tfeVk5ZWVoNURiQzYwWER6NEV4c21SR2tZSmlBVk1NdVhsZW9BWnN3QnhmcVMycGgzRTZ3OVdBZVg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
