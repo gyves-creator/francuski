@@ -1,0 +1,39 @@
+{
+  "slug": "forum-bfmtv-du-26-11-2026-impots-argent-public-et-gaspillage",
+  "titre": "Forum BFMTV du 26/11/2026 : impôts, argent public et gaspillage",
+  "chapeau": "Le 26 novembre 2026, BFMTV a diffusé un forum dédié aux impôts et à la gestion de l'argent public, intitulé « Impôts, argent public : le grand gâchis ». Les intervenants ont abordé la façon dont les prélèvements financent la retraite, la santé et l'éducation, et ont interrogé la population sur la destination de 1 000 euros d'impôts.",
+  "corps": "## Un débat télévisé sur la transparence fiscale\nLe programme a réuni plusieurs personnalités pour examiner la perception du public face aux dépenses de l'État. Le titre même du forum, « le grand gâchis », reflète la volonté d'analyser les éventuelles lacunes dans la communication sur l'utilisation des recettes fiscales. Aucun chiffre précis n’a été présenté dans les résumés, mais le fil conducteur était la question de savoir comment chaque tranche d’impôt contribue aux services collectifs.\n\n## Les thématiques principales abordées\nParmi les sujets évoqués, la retraite, la santé et l’éducation ont été cités comme domaines majeurs financés par les impôts. Les participants ont également soulevé la problématique de la visibilité du budget : les contribuables souhaitent comprendre ce que représente, par exemple, un paiement de 1 000 euros d’impôts. Le forum a ainsi servi de plateforme d’échange, sans toutefois fournir de données chiffrées détaillées.\n\n## Pourquoi ce type de forum intéresse les ménages\nDans le contexte français, les recettes fiscales sont essentielles au maintien des services publics. Les débats médiatiques comme celui-ci permettent aux citoyens d’obtenir des éclaircissements sur les mécanismes de financement et d’exprimer leurs attentes. Pour vérifier la répartition réelle de leurs impôts, les contribuables peuvent consulter les sites officiels tels que impots.gouv.fr ou le portail service-public.fr, où les rapports budgétaires sont publiés chaque année.\n\n## Perspectives et suites possibles\nBien que le forum n’ait pas abouti à des mesures concrètes, il a mis en lumière le besoin d’une meilleure communication de la part des institutions. Les discussions pourraient inciter les pouvoirs publics à renforcer la transparence des comptes et à développer des outils d’information plus accessibles. En attendant, les contribuables restent invités à suivre les publications officielles et à participer aux consultations publiques lorsqu’elles sont ouvertes.",
+  "mots_cles": [
+    "impôts",
+    "argent public",
+    "forum",
+    "dépenses publiques",
+    "transparence fiscale"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-27T05:24:08+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/BFMTV_Pau_TDF_2012_1.JPG/1280px-BFMTV_Pau_TDF_2012_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "France64160",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BFMTV_Pau_TDF_2012_1.JPG",
+    "legende": "Un véhicule satellite (« V.S. ») de la chaîne française d'information en continu BFM TV à Pau pour le Tour de France 2012 le 16 juillet 2012.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:BFMTV Pau TDF 2012 1.JPG"
+  },
+  "sources": [
+    {
+      "media": "BFM",
+      "titre": "Le Forum BFMTV – Impôts, argent public : le grand gâchis",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNEIwMXRqUXhGNlBXTUxYWkxyc0EwQnNfRklMYXNQYzdTWkdHQ0d2RFY2dkFld2JoeUN6UEZsZk53US1mcmdWOElDcUdUWTFjY3pWblFhQ1JiSjIwOTBuUE5PYmd0M1AwYzJaUDNlaHlaM0Q0eEcxRkhXbzBadUVhVlRZUXZvcEprZjBMOE5uZ0FoaWNGbXN0LTk1SllNZnBPR1JHMDJyQmVYemdQTl82TTg4TVd5Z25qZThiMVgtcnVqajdfWkpWM0tDQUZpSUw0ZUZ3dzZVd3k?oc=5"
+    },
+    {
+      "media": "Programme TV Ouest-France",
+      "titre": "Le forum BFM TV, Impôts, argent public : le grand gâchis jeudi 26 novembre 2026 sur BFM TV : résumé et diffusions",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXpHWGVORFZCdURWdlFGT3R3QldIa3M4bi1sXy1EOU9SUURRajh4eE0tSDFlNXFnejhCZm9URk1WSC1qNHpUdEFqQUpCdTlTT3ZVVUxCM2FKY25lOEhOTlVpNlgyOWE3OFVSdG1jN0RsN1dORE84RGxxa3VwVVZnUXp2eHM2WV9uRVhVMEFQekRRU2g2VFRCc0hsR19TYl91bHhB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
