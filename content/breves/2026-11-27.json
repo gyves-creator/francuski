@@ -17,5 +17,24 @@
     "titres_sources": [
       "Budget 2027 : le Sénat fait marche arrière sur les économies proposées"
     ]
+  },
+  {
+    "titre": "Le Sénat veut réduire l’avantage fiscal de l’assurance‑vie pour riches",
+    "texte": "Au Sénat, les groupes de gauche et du centre ont proposé de diminuer l’avantage fiscal de l’assurance‑vie, jugé favorable aux ménages les plus aisés. La mesure viserait à rendre le dispositif plus équitable.",
+    "rubrique": "placements",
+    "publie_le": "2026-11-27T06:45:27+00:00",
+    "titres_sources": [
+      "Assurance-vie : au Sénat, la gauche et le centre s’allient contre un avantage fiscal des gros patrimoines",
+      "Assurance-vie : le Sénat rabote un avantage fiscal qui profite surtout aux plus riches"
+    ]
+  },
+  {
+    "titre": "Sangliers : conduite nocturne compliquée à Lorient",
+    "texte": "Les automobilistes du pays de Lorient signalent que la multiplication des sangliers complique la conduite nocturne. Les autorités locales envisagent des mesures pour sécuriser les routes.",
+    "rubrique": "auto",
+    "publie_le": "2026-11-27T06:45:27+00:00",
+    "titres_sources": [
+      "« Conduire de nuit m’est devenu compliqué » : avec la prolifération des sangliers, les automobilistes exposés dans le pays de Lorient"
+    ]
   }
 ]
