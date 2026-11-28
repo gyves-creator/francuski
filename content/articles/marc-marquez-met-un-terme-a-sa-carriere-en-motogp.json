@@ -1,0 +1,39 @@
+{
+  "slug": "marc-marquez-met-un-terme-a-sa-carriere-en-motogp",
+  "titre": "Marc Márquez met un terme à sa carrière en MotoGP",
+  "chapeau": "Le champion multiple de MotoGP annonce sa retraite, invoquant la crainte de nouvelles blessures. Cette décision marque la fin d’une trajectoire exceptionnelle dans le sport automobile.",
+  "corps": "## Un parcours jalonné de succès\nMarc Márquez, considéré comme l’un des pilotes les plus talentueux de l’histoire du MotoGP, a accumulé plusieurs titres mondiaux depuis ses débuts. Sa progression rapide et ses performances spectaculaires ont fait de lui une figure emblématique du championnat, attirant l’attention des fans et des sponsors à l’échelle internationale.\n\n## Les raisons invoquées\nDans une déclaration récente, le pilote a expliqué que la décision de se retirer était motivée par la peur de subir de nouvelles blessures graves. Après plusieurs saisons marquées par des accidents et des périodes de convalescence, il estime que la poursuite de la compétition comporte un risque trop élevé pour sa santé à long terme. Cette prise de parole reflète une préoccupation croissante parmi les athlètes de sports à haute intensité, où la santé physique devient un facteur décisif dans la durée de la carrière.\n\n## Conséquences financières d’une retraite sportive\nLa fin d’une carrière active entraîne des changements significatifs sur le plan financier. Les revenus directs liés aux contrats de course, aux primes de performance et aux accords de sponsoring peuvent être interrompus ou révisés. Toutefois, les sportifs de haut niveau bénéficient souvent de dispositifs de prévoyance spécifiques, tels que des assurances couvrant les accidents et des plans de retraite mis en place par les fédérations ou les équipes. Il est recommandé aux athlètes de vérifier leur situation auprès des organismes compétents, comme la Caisse Nationale d’Assurance Vieillesse (CNAV) ou les caisses de retraite des sportifs professionnels, afin de s’assurer que les droits acquis sont correctement pris en compte.\n\n## Perspectives d’après‑retraite\nAu-delà des aspects financiers, la reconversion professionnelle constitue un enjeu majeur. De nombreux anciens pilotes s’orientent vers des rôles de consultant, d’ambassadeur de marque ou d’entraîneur, ce qui peut générer de nouvelles sources de revenus. Les dispositifs d’accompagnement à la reconversion, proposés par les syndicats sportifs ou les structures de formation, offrent un cadre pour préparer cette transition.\n\nCette retraite inattendue de Marc Márquez rappelle que, même au sommet du sport, la santé reste la priorité. Les athlètes envisagent de plus en plus leurs perspectives à long terme, en équilibrant les exigences de la compétition avec les impératifs de sécurité et de stabilité financière.",
+  "mots_cles": [
+    "MotoGP",
+    "retraite",
+    "Marc Márquez",
+    "sport professionnel",
+    "sécurité"
+  ],
+  "rubrique": "retraite",
+  "publie_le": "2026-11-28T05:15:33+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Marc_Marquez_at_the_2026_Spanish_Grand_Prix_%28cropped%29.jpg/1280px-Marc_Marquez_at_the_2026_Spanish_Grand_Prix_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Denkmit",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg",
+    "legende": "Marc Marquez at the 2026 Spanish Grand Prix",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marc Marquez at the 2026 Spanish Grand Prix (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "Courrier international",
+      "titre": "Marc Marquez, légende cabossée de la moto, prend sa retraite à cause de “la peur” de se blesser, encore",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY3RHbUZPMkEtOTlrb2tDbkdVbnFyQmVWRTBCTW9oMTN0d2FObGpMZERiUWtfeEVVVTJQTzFDRS1GSVVyd1FwelI0VGNqYkJqMHJKSXZ2RUtlRzBDY05maVVScndYb3p6UjlWTnZ3VGFIMlBZbU1uNmxxQlFCNjhmTUlTbjgwY0hJQl82bmVWTEo3UTZxNVlhQS1jdmhWUjNuTkc0bTF2emxLaGdEck1Pa0JtLWN1aTZyd0lOY2x1Q0RiaXd2bDdWdk1fbXZHNGE0SFAzb2hTcWpTSnA4enNscXpTSEgzdEU0cUxyVUdXMA?oc=5"
+    },
+    {
+      "media": "France TV",
+      "titre": "VIDEO. Moto GP : la retraite surprise de Marc Marquez - Stade 2 la quotidienne",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGROSnFDaTRndDU1anJfbjdCazl2MXhQS29yemRsVWk5LVlzSlVUQk4tWUpIM1lCdTJ4eXdvZmZpcGxHSjBNTlRfZlZhdmpjVkZaTlcxS1h3cUtwZmRDLWkxQmY5OG5kMTVoX3EzdkZTOU83TV8tOU1pVk5QMklRX1NPYUN0anBzbUFLRDNrYTR0WUFHTlk3N2RMUFRpUnU4azRIdTFfTlFjRXg5WGp0YQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
