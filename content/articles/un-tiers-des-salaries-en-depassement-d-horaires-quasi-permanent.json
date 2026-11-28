@@ -1,0 +1,43 @@
+{
+  "slug": "un-tiers-des-salaries-en-depassement-d-horaires-quasi-permanent",
+  "titre": "Un tiers des salariés en dépassement d'horaires quasi permanent",
+  "chapeau": "Une étude du Centre d'études de l'emploi et du travail révèle qu'un tiers des salariés français travaille régulièrement au-delà de leurs horaires habituels. Cette situation soulève des questions sur la conformité aux règles du temps de travail et sur les impacts financiers pour les employés.",
+  "corps": "## Un phénomène largement répandu\nL’enquête du Centre d'études de l'emploi et du travail indique que près de 33 % des actifs déclarent être en dépassement quasi permanent de leurs horaires de travail. Cette proportion concerne l’ensemble des secteurs d’activité, du commerce à l’industrie, et montre que le phénomène n’est pas limité à quelques professions spécifiques. Le dépassement des horaires peut prendre différentes formes : quelques minutes supplémentaires chaque jour, des journées entières au-delà du temps légal, ou encore des semaines où le volume horaire dépasse largement la durée légale du travail.\n\n## Cadre légal et obligations de l’employeur\nEn France, la durée légale du travail est fixée à 35 heures hebdomadaires. Tout temps de travail excédant ce seuil doit être considéré comme des heures supplémentaires, soumises à des majorations de salaire ou à un repos compensateur, conformément au Code du travail. L’employeur a l’obligation de tenir un décompte précis des heures effectuées et de les déclarer. En outre, les conventions collectives ou accords d’entreprise peuvent prévoir des plafonds différents, mais ils restent soumis à la législation nationale.\n\n## Impacts sur le budget des salariés\nLorsque les heures supplémentaires sont correctement rémunérées, elles constituent une source de revenu additionnel. Cependant, la rémunération dépend du taux de majoration applicable, qui varie selon le nombre d’heures effectuées et le secteur concerné. En l’absence de paiement ou de compensation, les salariés peuvent voir leurs droits à la retraite ou à la sécurité sociale affectés, car les cotisations sont calculées sur le salaire déclaré. Les salariés concernés peuvent vérifier leurs bulletins de paie sur le site officiel du service public ou contacter leur représentant du personnel pour s’assurer du respect des règles.\n\n## Comment vérifier sa situation\nLes salariés souhaitant s’assurer que leurs heures supplémentaires sont correctement prises en compte peuvent consulter le détail de leurs heures sur le portail net-entreprises ou demander un relevé d’activité à leur employeur. En cas de doute, il est possible de saisir l’inspection du travail, dont les coordonnées sont disponibles sur le site du ministère du Travail. Les organisations syndicales offrent également des points d’information gratuits pour accompagner les salariés dans leurs démarches.\n\nCette étude met en lumière l’importance d’un suivi rigoureux du temps de travail, tant pour les employeurs que pour les salariés, afin d’éviter des dérives qui pourraient impacter le pouvoir d’achat et la protection sociale des travailleurs.",
+  "mots_cles": [
+    "horaires de travail",
+    "heures supplémentaires",
+    "salariés",
+    "temps de travail"
+  ],
+  "rubrique": "salaire-travail",
+  "publie_le": "2026-11-28T10:04:01+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Cee_-_Galiza_-_Cruceiro.jpg/1280px-Cee_-_Galiza_-_Cruceiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Luis Miguel Bugallo Sánchez",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cee_-_Galiza_-_Cruceiro.jpg",
+    "legende": "Wayside cross in Cee , Galicia (Spain)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Cee - Galiza - Cruceiro.jpg"
+  },
+  "sources": [
+    {
+      "media": "Franceinfo",
+      "titre": "Dépasser ses horaires de travail, une pratique répandue chez les salariés",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZGNvSTRfVjRVTEpsemhTMl9ISGtYdkdXakQtTE9YcjEtMkpLUENWQWdTMGhhTmYwQzJWTkd6dVhNN3U3UlBuVnhJdGdlaG5keVRrcEtTaUdvX1hkdW8xa3oxRXBJaEd2S1lNZzlJMi1YRU1zeXBhZUV4VUJMOW9HWlJmRTdDQVJUY29xYldCR25RUWlmY2pfellTOWIzbXExcWl3YU1uVkx4XzVkNTlpa2VxM3dPclp6Z2RLelU2ekt4STlIUjAwbTllZXU5M1pGX2c2Ykk5Qkc?oc=5"
+    },
+    {
+      "media": "franceinfo- Emploi",
+      "titre": "Dépasser ses horaires de travail, une pratique répandue chez les salariés",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/depasser-ses-horaires-de-travail-une-pratique-repandue-chez-les-salaries_8281904.html#xtor=RSS-3-%5Beconomie%2Femploi%5D"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Dépasser ses horaires de travail, une pratique répandue chez les salariés",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/depasser-ses-horaires-de-travail-une-pratique-repandue-chez-les-salaries_8281904.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 3
+}
