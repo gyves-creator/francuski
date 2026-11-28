@@ -47,5 +47,25 @@
       "Découvrez les loyers à ne pas dépasser pour votre logement, après la prolongation de leur encadrement",
       "Découvrez les loyers à ne pas dépasser pour votre logement, après la prolongation de leur encadrement"
     ]
+  },
+  {
+    "titre": "Immobilier à Laval : les prix se maintiennent malgré la hausse des taux",
+    "texte": "Le marché immobilier de Laval reste stable, les prix ne diminuent pas, selon les acteurs locaux, la hausse des taux d'intérêt freine la dynamique. Aucun rebond n'est attendu à court terme.",
+    "rubrique": "immobilier",
+    "publie_le": "2026-11-28T09:36:43+00:00",
+    "titres_sources": [
+      "« Les prix ne baissent pas » : plombé par la hausse des taux d’intérêt, le marché immobilier stagne dans le secteur de Laval",
+      "« Les prix ne baissent pas » : plombé par la hausse des taux d’intérêt, le marché immobilier stagne dans le secteur de Laval"
+    ]
+  },
+  {
+    "titre": "Erreur de conversion : taxe foncière du Jura gonflée à 100 000 €",
+    "texte": "Dans le Jura, une erreur de conversion entre francs et euros a conduit l'administration fiscale à réclamer près de 100 000 € de taxe foncière. La commune conteste le montant et sollicite une rectification.",
+    "rubrique": "fiscalite",
+    "publie_le": "2026-11-28T09:36:43+00:00",
+    "titres_sources": [
+      "Jura. Près de 100 000 euros de taxe foncière réclamés à la commune : les impôts avaient confondu francs et euros",
+      "Jura. 5000 % d'augmentation de la taxe foncière : les impôts ont confondu euros et francs"
+    ]
   }
 ]
