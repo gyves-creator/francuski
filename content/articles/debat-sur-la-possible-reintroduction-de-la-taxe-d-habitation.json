@@ -1,0 +1,39 @@
+{
+  "slug": "debat-sur-la-possible-reintroduction-de-la-taxe-d-habitation",
+  "titre": "Débat sur la possible réintroduction de la taxe d'habitation",
+  "chapeau": "Le retour de la taxe d'habitation fait l'objet de nombreuses interrogations. Aucun texte officiel n'a encore été présenté, la mesure reste à l'état de discussion.",
+  "corps": "## Un sujet qui revient sur le devant de la scène\nDepuis la suppression progressive de la taxe d'habitation pour les résidences principales, le sujet refait surface dans le débat public. Les récentes publications mettent en avant la question de savoir si cet impôt local pourrait être réinstauré, sans toutefois préciser de projet de loi ou de texte en cours d'examen.\n\n## Absence de décision concrète\nAucun texte législatif ou réglementaire n'a été présenté à ce jour. Les informations disponibles se limitent à des interrogations et à des analyses de la faisabilité d'un tel retour. En l'absence de texte officiel, il n'est pas possible de déterminer de date d'entrée en vigueur, de taux ou de modalités d'application.\n\n## Qui pourrait être concerné ?\nSi la taxe d'habitation était réintroduite, elle toucherait les occupants de logements, qu'ils soient propriétaires ou locataires, comme c'était le cas avant la réforme qui a abouti à son abolition progressive pour les résidences principales. Les contribuables souhaitant vérifier leur situation ou suivre l'évolution du débat peuvent consulter le site du service public dédié aux impôts locaux ou se rapprocher du centre des finances publiques de leur lieu de résidence.\n\n## Points de vue exprimés\nLes deux dépêches soulignent que la question est largement débattue, sans toutefois mentionner de position officielle du gouvernement, de l'opposition ou des organisations syndicales. Le manque de précisions sur les arguments avancés par les différents acteurs rend difficile d'évaluer les enjeux budgétaires ou sociaux liés à une éventuelle reprise de cet impôt.\n\nEn attendant l'émergence éventuelle d'un texte, les ménages restent vigilants et peuvent suivre les annonces officielles via les canaux habituels (service-public.fr, impots.gouv.fr). Toute évolution législative sera alors détaillée dans les communications officielles, permettant aux contribuables d'ajuster leur budget en conséquence.",
+  "mots_cles": [
+    "taxe d'habitation",
+    "impôt local",
+    "fiscalité",
+    "logement",
+    "budget"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-28T11:00:38+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Village-tas_-_Coussey.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "État français (Direction générale des finances publiques)",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Village-tas_-_Coussey.png",
+    "legende": "Coussey, un exemple de village-tas (dans sa partie historique)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Village-tas - Coussey.png"
+  },
+  "sources": [
+    {
+      "media": "TF1 Info",
+      "titre": "\"La question de la taxe d'habitation a été omniprésente\" : cet impôt va-t-il faire son retour ?",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVRSdVdFMFJQZ3VtMTk3MnRjMm04NEdYajNSZHlpSnhSQ2VqZDdSSVpoTENVWXIwZzNQa0h3SWlad2lzTkFIelgyWmhYQjJBZ3hNMWVNOV9YMGFpS1AwSTJwdXY2M1RDdWZyMVR4bU5kYzBOTDNhWGtBRjJINzVjdnNTMjBwbHZuVDZfS0tjcllHRk5uYjJFM1dEaU9qMnJVTUhMb0JTSHZuN1EyTUlweUFiZkIxSU1GVVNINktoS2ZwMDNiemFybFVOYUVXcFlmYnpKYjh5Zw?oc=5"
+    },
+    {
+      "media": "TF1+",
+      "titre": "Allons-nous de nouveau payer la taxe d'habitation ?",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObElxT1IxbHRmNEhzUEFLVTR4SWphNW5rYmdhRi1VNVpTWFBzQS16REc1R2ozY2VvbV9YSWFES0QtZnN6eVoyZzJCWS1ZME0wMTAzc01LbHM5ckkzT2xfWFpDcE0tSmJwZE8zZEFOckpTVlBzOTJhUmw3cVJEVkJUU3ZUN1VvWW5WR00tWlNKdXoxNk1HbGo2TXYyTU1zZXNNd2FsNXZKYUwyMHBidkZfTENpUmdXMGgtX0lYVUNZUQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
