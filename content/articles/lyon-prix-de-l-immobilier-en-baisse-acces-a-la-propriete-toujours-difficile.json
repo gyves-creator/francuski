@@ -1,0 +1,38 @@
+{
+  "slug": "lyon-prix-de-l-immobilier-en-baisse-acces-a-la-propriete-toujours-difficile",
+  "titre": "Lyon : prix de l’immobilier en baisse, accès à la propriété toujours difficile",
+  "chapeau": "Les prix des logements à Lyon reculent, mais le revenu exigé pour acheter augmente, rendant la première acquisition plus ardue. Cette situation pèse sur les ménages qui souhaitent passer du locatif à la propriété.",
+  "corps": "## Baisse des prix, hausse du revenu requis\nLes dernières observations du marché immobilier lyonnais indiquent une tendance à la baisse des prix de vente des appartements et maisons. Malgré cette correction, les études locales montrent que le salaire moyen nécessaire pour financer un achat s’est élevé, ce qui complique l’accès à la propriété pour de nombreux habitants. La combinaison d’une offre plus abondante, de la fin de la période de forte spéculation et d’un contexte de taux d’intérêt plus élevés explique en partie la diminution des prix. En parallèle, les conditions d’octroi de prêts restent strictes, avec des exigences de capacité d’endettement qui poussent les acquéreurs à disposer d’un revenu plus important que par le passé.\n\n## Pourquoi le revenu requis augmente-t-il ?\nPlusieurs facteurs contribuent à l’écart entre la baisse des prix et la hausse du revenu requis. D’une part, la hausse des taux directeurs des banques centrales a entraîné une augmentation du coût du crédit immobilier, ce qui réduit le montant maximal que les banques sont prêtes à prêter pour un même niveau d’apport. D’autre part, les critères de solvabilité des établissements financiers se sont renforcés après les crises récentes, incitant les prêteurs à demander une plus grande marge de sécurité financière. Enfin, la demande persistante dans les zones centrales et bien desservies de la métropole maintient une pression sur les prix, même si ceux-ci reculent globalement.\n\n## Vérifier sa capacité d’achat\nLes futurs acquéreurs peuvent évaluer leur situation en se référant aux simulateurs disponibles sur les sites officiels tels que service‑public.fr ou le portail des banques de France. Ces outils permettent d’estimer le montant du prêt admissible en fonction du revenu net, des charges courantes et du taux d’intérêt appliqué. Il est également recommandé de consulter le site impots.gouv.fr pour connaître les éventuelles réductions ou crédits d’impôt liés à l’achat d’un premier logement. En cas de doute, un rendez‑vous avec un conseiller bancaire ou un courtier en crédit immobilier, sans toutefois recommander un prestataire particulier, peut aider à clarifier les possibilités de financement.\n\n## Perspectives pour les ménages lyonnais\nÀ moyen terme, la dynamique du marché dépendra de l’évolution des taux d’intérêt et de la capacité des ménages à augmenter leurs revenus ou à réduire leurs charges. Les politiques locales visant à favoriser la construction de logements abordables pourraient également jouer un rôle dans la réduction du fossé entre prix et pouvoir d’achat. En attendant, les ménages souhaitant devenir propriétaires devront concilier la baisse des prix avec des exigences de revenu plus élevées, en s’appuyant sur les ressources d’information publiques pour ajuster leurs projets d’achat.",
+  "mots_cles": [
+    "Lyon immobilier",
+    "prix logement",
+    "acquisition propriétaire",
+    "revenu nécessaire"
+  ],
+  "rubrique": "immobilier",
+  "publie_le": "2026-11-28T15:07:28+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Montage-Lyon-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Aldg692VX",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Montage-Lyon-2023.jpg",
+    "legende": "Différentes vues de Lyon : De haut en bas, de gauche à droite : la basilique Notre-Dame de Fourvière, la place des Terreaux avec la fontaine Bartholdi et l’Hôtel de Ville, les toits du Vieux-Lyon, les",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Montage-Lyon-2023.jpg"
+  },
+  "sources": [
+    {
+      "media": "Lyon Capitale",
+      "titre": "Immobilier : malgré la baisse des prix, devenir propriétaire reste difficile à Lyon",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OSElZUmlsRlc0YlpocEE0bFNBSVZlMHZvbjhsVjFvZWJxaEozNTdoZWl6MDJVYmczRVRBa2xoMUQ3MGFBcGNjUXcxWnRRX2pJaDcxLWdjVQ?oc=5"
+    },
+    {
+      "media": "Le Figaro",
+      "titre": "À Lyon, les prix de l’immobilier dégringolent, mais le salaire nécessaire pour devenir propriétaire s’envole",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUDJFcHYwd0dWQ2tsRllLXzZPTVZWT1VCVElPWW5hNEVQX0V1c2ltX3AxMzZEM2otS2JXN2F4UkRoOEd2VTM4blV1ekNCRTBsbEVqZWpaQUNlZExxcTVLYTJrNW1qTkJ6WGpkZmU1MkhiYXNTNFJGa3gwTUV3RllzdElCdDFVVnBYSnBOSG9NOFdaU0g5SGE2WExLX1ZRTTRkMDB5WVFiUGdRdkRkeFRRc3FNTnlKRWR3MWx3ejZneGhPVDJLWHpCZlo0OVg5RTdla2t0blo3YnhYNHlX?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 2
+}
