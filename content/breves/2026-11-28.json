@@ -177,5 +177,23 @@
     "titres_sources": [
       "Maisons fissurées : \"Je suis à la retraite, je n'ai pas les moyens...\" Dans les communes non reconnues en état de catastrophe naturelle, les propriétaires démunis face aux démarches"
     ]
+  },
+  {
+    "titre": "Couper l'électricité ou le chauffage, est‑c‑legal ?",
+    "texte": "Un guide juridique analyse la légalité d’une coupure d’électricité ou de chauffage par un propriétaire. Il indique les recours possibles pour les locataires confrontés à cette situation.",
+    "rubrique": "immobilier",
+    "publie_le": "2026-11-28T17:02:06+00:00",
+    "titres_sources": [
+      "Propriétaire qui coupe l'électricité ou le chauffage : est-ce légal et que faire ?"
+    ]
+  },
+  {
+    "titre": "Feu de compteur électrique évacue 25 personnes d’un restaurant vendéen",
+    "texte": "Un incendie du compteur électrique a obligé l’évacuation de 25 clients et salariés du restaurant. Les secours ont maîtrisé le feu rapidement, aucune victime grave n’a été signalée.",
+    "rubrique": "salaire-travail",
+    "publie_le": "2026-11-28T17:02:06+00:00",
+    "titres_sources": [
+      "Vingt-cinq clients d’un restaurant de Vendée et ses salariés évacués en raison d’un feu de compteur électrique"
+    ]
   }
 ]

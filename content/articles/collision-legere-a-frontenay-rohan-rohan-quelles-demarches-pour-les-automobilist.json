@@ -1,0 +1,34 @@
+{
+  "slug": "collision-legere-a-frontenay-rohan-rohan-quelles-demarches-pour-les-automobilist",
+  "titre": "Collision légère à Frontenay‑Rohan‑Rohan : quelles démarches pour les automobilistes",
+  "chapeau": "Deux automobilistes se sont percutés en se croisant à Frontenay‑Rohan‑Rohan et ont été légèrement blessés. L’incident soulève les questions des formalités à accomplir après un accident mineur.",
+  "corps": "## Déclaration de l'accident et premiers secours\nUn choc s’est produit à l’intersection de Frontenay‑Rohan‑Rohan lorsqu’une voiture et une autre se sont percutées en se croisant. Les deux conductrices ont déclaré des blessures légères. Dans ce type de situation, la première priorité reste la sécurité des personnes : il convient d’appeler les secours si besoin, de sécuriser le lieu (feux de détresse, triangles de signalisation) et d’échanger les coordonnées (nom, adresse, numéro de téléphone, immatriculation, assureur) avec l’autre usager.\n\n## Formalités auprès de l’assurance\nAprès avoir sécurisé le véhicule et constaté les dommages, chaque conducteur doit informer son assureur dans les délais prévus par le contrat, généralement sous 5 jours ouvrés. Un constat amiable d’accident, même partiel, permet de décrire les circonstances et les dommages matériels. Si le constat ne peut être rempli sur place, il est recommandé d’en rédiger un dès que possible et de le transmettre à l’assureur, accompagné de photos du site et des véhicules. En cas de désaccord sur les responsabilités, l’assureur pourra demander l’intervention d’un expert.\n\n## Prise en charge des frais médicaux\nLes blessures légères signalées nécessitent souvent une visite médicale pour confirmer l’absence de lésions graves. La Sécurité sociale prend en charge les frais de consultation, d’examens et de soins dans le cadre du régime obligatoire, sous réserve de la présentation d’un certificat médical. L’assurance automobile du conducteur responsable peut également couvrir les frais de santé complémentaires, selon les garanties souscrites. Les assurés sont invités à vérifier leurs contrats ou à consulter le site service-public.fr pour connaître les démarches précises et les pièces à fournir.\n\n## Suivi et prévention future\nUne fois les formalités accomplies, il est conseillé de conserver tous les documents (constat amiable, factures, certificats médicaux) pendant au moins deux ans, période pendant laquelle les réclamations peuvent être réexaminées. Pour limiter les risques de nouveaux incidents, les conducteurs peuvent se référer aux recommandations de la Sécurité routière concernant la distance de sécurité, la vitesse adaptée aux zones urbaines et le respect des priorités aux intersections.",
+  "mots_cles": [
+    "accident",
+    "auto",
+    "Frontenay‑Rohan‑Rohan",
+    "démarches",
+    "assurance"
+  ],
+  "rubrique": "auto",
+  "publie_le": "2026-11-28T17:01:54+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%C3%89glise_Saint-Pierre_de_Frontenay-Rohan-Rohan.jpg/1280px-%C3%89glise_Saint-Pierre_de_Frontenay-Rohan-Rohan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Lionel NOULIN",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Pierre_de_Frontenay-Rohan-Rohan.jpg",
+    "legende": "Église Saint-Pierre de Frontenay-Rohan-Rohan",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Église Saint-Pierre de Frontenay-Rohan-Rohan.jpg"
+  },
+  "sources": [
+    {
+      "media": "lanouvellerepublique.fr",
+      "titre": "Sud-Deux-Sèvres : deux automobilistes se percutent en se croisant à Frontenay-Rohan-Rohan, elles sont légèrement blessées",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNd2pzUmFaY3N1NlJVQjNDSHpZTmlsNmFfeTUzUm8tUTh1Z1cxdC1xaFlNQ1VwaG9MNGRmREZxSmQtRk1MemZlbVR2djZfUk4xSkxVLURCcFN5T3FKVjBEVG1VUlE4Y04yb3ZpOF80RFdiOV93X0tLTmtYVXBoanZucWpNcFJaRERHbUFwNFZadTRSMzFGTnRKZDRQd0FvYS1vZkY1S1VwcjNRcUNIYjZUX0drOXFCOF9SQ1M1d2JvMFJQYWN5QUNXeW1BbG9KYUc5V1R3X1NKUGpqakl2MmRwRDU2NE5mb2UtdWVjT285TzVZbmVxT1hDaDBHSlRWUGFYSllRYlRGV1B5LUJQV1czUWlUV19UX05OV0E?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}
