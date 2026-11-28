@@ -1,0 +1,34 @@
+{
+  "slug": "fin-de-l-exoneration-fiscale-sur-l-electricite-solaire-partagee-entre-voisins",
+  "titre": "Fin de l’exonération fiscale sur l’électricité solaire partagée entre voisins",
+  "chapeau": "Le Sénat a voté la suppression de l’exonération de taxe sur l’électricité d’origine solaire partagée entre voisins, au profit d’une imposition de 3,67 centimes par kilowattheure. Cette décision concerne les projets d’autoconsommation collective qui bénéficiaient jusqu’ici d’une franchise fiscale.",
+  "corps": "## Un vote du Sénat, pas encore de loi\nLe texte a été adopté en séance du Sénat, ce qui signifie que la proposition a été approuvée par la chambre haute du Parlement. Elle n’est pas encore entrée en vigueur, car elle doit encore être examinée par l’Assemblée nationale et, le cas échéant, faire l’objet d’une promulgation. En l’état, il s’agit donc d’une mesure votée mais non encore applicable.\n\n## Qui est concerné par la nouvelle taxe ?\nLa mesure vise les installations d’énergie solaire dont la production est partagée entre plusieurs foyers, souvent regroupés dans le cadre d’un projet d’autoconsommation collective. Jusqu’à présent, la part d’électricité injectée dans le réseau ou directement consommée par les participants était exonérée de la taxe sur l’électricité. Le texte prévoit désormais l’application d’une taxe de 3,67 centimes par kilowattheure (kWh) sur cette énergie.\n\n## Conséquences pour les ménages et les copropriétés\nPour les foyers qui envisagent de s’associer à leurs voisins afin d’installer des panneaux photovoltaïques, le coût supplémentaire de la taxe devra être intégré dans le calcul de rentabilité du projet. Cette imposition pourrait réduire l’avantage économique de l’autoconsommation collective, notamment pour les ménages à faibles revenus ou les petites copropriétés.\n\n## Comment vérifier son exposition à la taxe ?\nLes personnes déjà engagées dans un dispositif d’autoconsommation collective peuvent consulter les informations disponibles sur le site officiel du service public (service-public.fr) ou se rapprocher de leur fournisseur d’énergie pour connaître l’impact précis de la taxe sur leurs factures. Les projets en cours de montage peuvent également solliciter les services de l’administration fiscale afin d’obtenir une clarification sur les modalités d’application de la nouvelle taxe.\n\n## Le cadre législatif et les suites attendues\nLe texte s’inscrit dans la politique générale de révision de la fiscalité de l’énergie. Le Sénat a justifié la mesure par la volonté de garantir l’équité fiscale entre les différentes formes de production d’électricité. Le débat parlementaire à venir à l’Assemblée nationale pourrait amener des amendements ou des ajustements, notamment concernant les seuils d’application ou les éventuelles exonérations partielles. Les acteurs du secteur solaire, les associations de consommateurs et les collectivités locales suivront de près l’évolution du texte pour anticiper ses effets concrets.",
+  "mots_cles": [
+    "solaire",
+    "taxe",
+    "kWh",
+    "autoconsommation",
+    "voisins"
+  ],
+  "rubrique": "fiscalite",
+  "publie_le": "2026-11-28T06:18:22+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/S%C3%A9nat%2C_centre_de_l%E2%80%99h%C3%A9micycle.jpg/1280px-S%C3%A9nat%2C_centre_de_l%E2%80%99h%C3%A9micycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Soleil1409",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9nat,_centre_de_l%E2%80%99h%C3%A9micycle.jpg",
+    "legende": "Sénat, l’hémicycle depuis le plateau",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Sénat, centre de l’hémicycle.jpg"
+  },
+  "sources": [
+    {
+      "media": "JeChange",
+      "titre": "Électricité solaire partagée entre voisins : le Sénat vote la fin de l'exonération, 3,67 centimes de taxe par kWh",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWUtcVF2ZHVaYld0OS04c0pkM1JsMmhLTE9MTi1BVnpxbDhaNldoeTl3R1RqNC1IX0VWblkxRERTbDZhTHEzaVQ3SG9wd1BUVkdMZ3JJQUhjRmVFaThaNzZhNnZWVzBpWm0wSXJ4QWVKMlQ4aVRJMW1ZUEg0Mkd0THluSkN4dzBlS2VvU0xRNTd6TEl5SUdqVTdlSElSeERsQlZvanN5RllLMUF6b0ZESmI1WHpWSDk2enV2dGxzVE9GS25odTBDRjJB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b",
+  "importance": 1
+}
